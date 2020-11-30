@@ -1,0 +1,43 @@
+Stuhlgang	B-Process
+weiter	O
+recht	O
+hart	B-Measurement
+,	O
+Kreon	B-Medication
+weiter	O
+pausiert	B-Treatment
+.	O
+
+Ausserdem	O
+ab	O
+und	O
+zu	O
+Knochenschmerzen	B-Medical_condition
+in	O
+Haenden	B-Body_part
+und	O
+Beinen	B-Body_part
+.	O
+
+Fosamax	B-Medication
+neu	B-Treatment
+70	B-Dosing
+mg	I-Dosing
+.	O
+
+Keine	O
+cardialen	B-Body_part
+Beschwerden	B-Medical_condition
+.	O
+
+Urbason	B-Medication
+reduziert	B-Treatment
+.	O
+
+Gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+Kurzfritige	B-Time_information
+Kontrolle	B-Treatment
+.	O

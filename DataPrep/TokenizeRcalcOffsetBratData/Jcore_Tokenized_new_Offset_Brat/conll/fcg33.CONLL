@@ -1,0 +1,939 @@
+1	﻿Pat	﻿Pat	VVPP	VVPP	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Schuster	Schuster	NN	NN	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	Erika	Erika	NN	NN	_	_	_	0	_	_	_
+4	;	;	$,	$,	_	_	_	0	_	_	_
+5	geb.	geb.	ADV	ADV	_	_	_	0	_	_	_
+6	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+7	27.03.1978;	27.03.1978;	CARD	CARD	_	_	_	0	_	_	_
+8	wohnhaft	wohnhaft	ADJD	ADJD	_	_	_	0	_	_	_
+9	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Müllerstr	Müllerstr	NE	NE	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	123	123	CARD	CARD	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	13110	13110	CARD	CARD	_	_	_	0	_	_	_
+4	München	München	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sehr	Sehr	ADV	ADV	_	_	_	0	_	_	_
+2	geehrte	geehrte	ADJA	ADJA	_	_	_	0	_	_	_
+3	Kollegen	Kollegen	NN	NN	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	wir	wir	PPER	PPER	_	_	_	0	_	_	_
+6	berichten	berichten	VVFIN	VVFIN	_	_	_	0	_	_	_
+7	Ihnen	Ihnen	PPER	PPER	_	_	_	0	_	_	_
+8	über	über	APPR	APPR	_	_	_	0	_	_	_
+9	Frau	Frau	NN	NN	_	_	_	0	_	_	_
+10	Schuster	Schuster	NN	NN	_	_	_	0	_	_	_
+11	,	,	$,	$,	_	_	_	0	_	_	_
+12	die	die	PRELS	PRELS	_	_	_	0	_	_	_
+13	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+14	vom	vom	APPRART	APPRART	_	_	_	0	_	_	_
+15	01.03.2018	01.03.2018	CARD	CARD	_	_	_	0	_	_	_
+16	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+17	zum	zum	APPRART	APPRART	_	_	_	0	_	_	_
+18	20.03.2018	20.03.2018	CARD	CARD	_	_	_	0	_	_	_
+19	in	in	APPR	APPR	_	_	_	0	_	_	_
+20	unserer	unserer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+21	stationären	stationären	ADJA	ADJA	_	_	_	0	_	_	_
+22	Behandlung	Behandlung	NN	NN	_	_	_	0	_	_	_
+23	befand	befand	VVFIN	VVFIN	_	_	_	0	_	_	_
+24	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Anamnese	Anamnese	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	ausführliche	ausführliche	ADJA	ADJA	_	_	_	0	_	_	_
+3	Vorgeschichte	Vorgeschichte	NN	NN	_	_	_	0	_	_	_
+4	dürfen	dürfen	VMFIN	VMFIN	_	_	_	0	_	_	_
+5	wir	wir	PPER	PPER	_	_	_	0	_	_	_
+6	freundlicherweise	freundlicherweise	ADV	ADV	_	_	_	0	_	_	_
+7	als	als	APPR	APPR	_	_	_	0	_	_	_
+8	bekannt	bekannt	ADJD	ADJD	_	_	_	0	_	_	_
+9	voraussetzen	voraussetzen	VVINF	VVINF	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	berichtet	berichtet	VVPP	VVPP	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	seit	seit	APPR	APPR	_	_	_	0	_	_	_
+6	ca.	ca.	ADV	ADV	_	_	_	0	_	_	_
+7	einem	einem	ART	ART	_	_	_	0	_	_	_
+8	Jahr	Jahr	NN	NN	_	_	_	0	_	_	_
+9	an	an	APPR	APPR	_	_	_	0	_	_	_
+10	Angstzuständen	Angstzuständen	NN	NN	_	_	_	0	_	_	_
+11	zu	zu	PTKZU	PTKZU	_	_	_	0	_	_	_
+12	leiden	leiden	VVINF	VVINF	_	_	_	0	_	_	_
+13	sowie	sowie	KON	KON	_	_	_	0	_	_	_
+14	an	an	APPR	APPR	_	_	_	0	_	_	_
+15	Herzrasen	Herzrasen	NN	NN	_	_	_	0	_	_	_
+16	,	,	$,	$,	_	_	_	0	_	_	_
+17	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+18	Verzweiflungsneigung	Verzweiflungsneigung	NN	NN	_	_	_	0	_	_	_
+19	,	,	$,	$,	_	_	_	0	_	_	_
+20	sowie	sowie	KON	KON	_	_	_	0	_	_	_
+21	an	an	APPR	APPR	_	_	_	0	_	_	_
+22	Erschöpfungszustände	Erschöpfungszustände	NN	NN	_	_	_	0	_	_	_
+23	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Vegetative	Vegetative	ADJA	ADJA	_	_	_	0	_	_	_
+2	Anamnese	Anamnese	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Appetit	Appetit	NN	NN	_	_	_	0	_	_	_
+2	vermindert	vermindert	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Einschlaf-	Einschlaf-	TRUNC	TRUNC	_	_	_	0	_	_	_
+5	und	und	KON	KON	_	_	_	0	_	_	_
+6	Durchschlafstörungen	Durchschlafstörungen	NN	NN	_	_	_	0	_	_	_
+7	seit	seit	APPR	APPR	_	_	_	0	_	_	_
+8	ca.	ca.	ADV	ADV	_	_	_	0	_	_	_
+9	6	6	CARD	CARD	_	_	_	0	_	_	_
+10	Monaten	Monaten	NN	NN	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Miktion	Miktion	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Stuhlgang	Stuhlgang	NN	NN	_	_	_	0	_	_	_
+4	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Allergien	Allergien	NN	NN	_	_	_	0	_	_	_
+3	bekannt	bekannt	ADJD	ADJD	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Risikofaktoren	Risikofaktoren	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Risikoverhalten	Risikoverhalten	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Nikotinkonsum	Nikotinkonsum	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	erhöhten	erhöhten	ADJA	ADJA	_	_	_	0	_	_	_
+3	Cholesterinwerte	Cholesterinwerte	NN	NN	_	_	_	0	_	_	_
+4	bekannt	bekannt	ADJD	ADJD	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Diabetes	Diabetes	NN	NN	_	_	_	0	_	_	_
+3	mellitus	mellitus	ADJD	ADJD	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+5	gelegentlich	gelegentlich	ADJD	ADJD	_	_	_	0	_	_	_
+6	ein	ein	ART	ART	_	_	_	0	_	_	_
+7	Glas	Glas	NN	NN	_	_	_	0	_	_	_
+8	Wein/Bier	Wein/Bier	NN	NN	_	_	_	0	_	_	_
+9	.	.	$,	$,	_	_	_	0	_	_	_
+10	psychosozialen	psychosozialen	ADJA	ADJA	_	_	_	0	_	_	_
+11	Belastungen	Belastungen	NN	NN	_	_	_	0	_	_	_
+12	.	.	$.	$.	_	_	_	0	_	_	_
+13	gelegentlich	gelegentlich	ADJD	ADJD	_	_	_	0	_	_	_
+14	körperliche	körperliche	ADJA	ADJA	_	_	_	0	_	_	_
+15	Bewegung	Bewegung	NN	NN	_	_	_	0	_	_	_
+16	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Familienanamnese	Familienanamnese	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Familienanamnese	Familienanamnese	NN	NN	_	_	_	0	_	_	_
+3	für	für	APPR	APPR	_	_	_	0	_	_	_
+4	kardiovaskuläre	kardiovaskuläre	ADJA	ADJA	_	_	_	0	_	_	_
+5	Erkrankungen	Erkrankungen	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Beide	Beide	PIDAT	PIDAT	_	_	_	0	_	_	_
+2	Eltern	Eltern	NN	NN	_	_	_	0	_	_	_
+3	gesund	gesund	ADJD	ADJD	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	Mutter	Mutter	NN	NN	_	_	_	0	_	_	_
+6	70	70	CARD	CARD	_	_	_	0	_	_	_
+7	Jahre	Jahre	NN	NN	_	_	_	0	_	_	_
+8	alt	alt	ADJD	ADJD	_	_	_	0	_	_	_
+9	,	,	$,	$,	_	_	_	0	_	_	_
+10	Vater	Vater	NN	NN	_	_	_	0	_	_	_
+11	75	75	CARD	CARD	_	_	_	0	_	_	_
+12	Jahre	Jahre	NN	NN	_	_	_	0	_	_	_
+13	alt	alt	ADJD	ADJD	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Jetzige	Jetzige	ADJA	ADJA	_	_	_	0	_	_	_
+2	Beschwerden	Beschwerden	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	fühlt	fühlt	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+5	normal	normal	ADJD	ADJD	_	_	_	0	_	_	_
+6	belastbar	belastbar	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Treppensteigen	Treppensteigen	NN	NN	_	_	_	0	_	_	_
+2	sei	sei	APPR	APPR	_	_	_	0	_	_	_
+3	problemlos	problemlos	ADJD	ADJD	_	_	_	0	_	_	_
+4	möglich	möglich	ADJD	ADJD	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Subjektive	Subjektive	ADJA	ADJA	_	_	_	0	_	_	_
+2	Einschränkungen	Einschränkungen	NN	NN	_	_	_	0	_	_	_
+3	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+4	Alltag	Alltag	NN	NN	_	_	_	0	_	_	_
+5	und	und	KON	KON	_	_	_	0	_	_	_
+6	Beruf	Beruf	NN	NN	_	_	_	0	_	_	_
+7	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	fühlt	fühlt	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+5	in	in	APPR	APPR	_	_	_	0	_	_	_
+6	der	der	ART	ART	_	_	_	0	_	_	_
+7	Belastbarkeit	Belastbarkeit	NN	NN	_	_	_	0	_	_	_
+8	durch	durch	APPR	APPR	_	_	_	0	_	_	_
+9	die	die	ART	ART	_	_	_	0	_	_	_
+10	o.	o.	ADV	ADV	_	_	_	0	_	_	_
+11	b.	b.	ADJA	ADJA	_	_	_	0	_	_	_
+12	Beschwerden	Beschwerden	NN	NN	_	_	_	0	_	_	_
+13	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+14	eingeschränkt	eingeschränkt	VVPP	VVPP	_	_	_	0	_	_	_
+15	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Krankheitsverständnis	Krankheitsverständnis	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Verarbeitung	Verarbeitung	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	ausführliche	ausführliche	ADJA	ADJA	_	_	_	0	_	_	_
+3	Vorgeschichte	Vorgeschichte	NN	NN	_	_	_	0	_	_	_
+4	dürfen	dürfen	VMFIN	VMFIN	_	_	_	0	_	_	_
+5	wir	wir	PPER	PPER	_	_	_	0	_	_	_
+6	freundlicherweise	freundlicherweise	ADV	ADV	_	_	_	0	_	_	_
+7	als	als	APPR	APPR	_	_	_	0	_	_	_
+8	bekannt	bekannt	ADJD	ADJD	_	_	_	0	_	_	_
+9	voraussetzen	voraussetzen	VVINF	VVINF	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	berichtet	berichtet	VVPP	VVPP	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	seit	seit	APPR	APPR	_	_	_	0	_	_	_
+6	einem	einem	ART	ART	_	_	_	0	_	_	_
+7	Jahr	Jahr	NN	NN	_	_	_	0	_	_	_
+8	an	an	APPR	APPR	_	_	_	0	_	_	_
+9	Angstzuständen	Angstzuständen	NN	NN	_	_	_	0	_	_	_
+10	zu	zu	PTKZU	PTKZU	_	_	_	0	_	_	_
+11	leiden	leiden	VVINF	VVINF	_	_	_	0	_	_	_
+12	sowie	sowie	KON	KON	_	_	_	0	_	_	_
+13	an	an	APPR	APPR	_	_	_	0	_	_	_
+14	Herzrasen	Herzrasen	NN	NN	_	_	_	0	_	_	_
+15	,	,	$,	$,	_	_	_	0	_	_	_
+16	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+17	Verzweiflungsneigung	Verzweiflungsneigung	NN	NN	_	_	_	0	_	_	_
+18	,	,	$,	$,	_	_	_	0	_	_	_
+19	sowie	sowie	KON	KON	_	_	_	0	_	_	_
+20	an	an	APPR	APPR	_	_	_	0	_	_	_
+21	Erschöpfungszustände	Erschöpfungszustände	NN	NN	_	_	_	0	_	_	_
+22	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Therapie	Therapie	NN	NN	_	_	_	0	_	_	_
+2	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+3	Aufnahme	Aufnahme	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	stationäre	stationäre	ADJA	ADJA	_	_	_	0	_	_	_
+3	Aufnahme	Aufnahme	NN	NN	_	_	_	0	_	_	_
+4	erfolgte	erfolgte	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	zur	zur	APPRART	APPRART	_	_	_	0	_	_	_
+6	kardiologischen	kardiologischen	ADJA	ADJA	_	_	_	0	_	_	_
+7	Rehabilitationsbehandlung	Rehabilitationsbehandlung	NN	NN	_	_	_	0	_	_	_
+8	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+9	Herzneurose	Herzneurose	NN	NN	_	_	_	0	_	_	_
+10	(	(	$(	$(	_	_	_	0	_	_	_
+11	F45.3	F45.3	XY	XY	_	_	_	0	_	_	_
+12	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+13	ICD-10	ICD-10	CARD	CARD	_	_	_	0	_	_	_
+14	)	)	$(	$(	_	_	_	0	_	_	_
+15	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sozialanamnese	Sozialanamnese	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Beruf	Beruf	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Fitnesstrainerin	Fitnesstrainerin	NN	NN	_	_	_	0	_	_	_
+2	;	;	$,	$,	_	_	_	0	_	_	_
+3	arbeitet	arbeitet	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	in	in	APPR	APPR	_	_	_	0	_	_	_
+5	Vollzeit	Vollzeit	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Verheiratet	Verheiratet	VVPP	VVPP	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Mietwohnung	Mietwohnung	NN	NN	_	_	_	0	_	_	_
+2	in	in	APPR	APPR	_	_	_	0	_	_	_
+3	der	der	ART	ART	_	_	_	0	_	_	_
+4	3.	3.	ADJA	ADJA	_	_	_	0	_	_	_
+5	Etage	Etage	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Beruflicher	Beruflicher	ADJA	ADJA	_	_	_	0	_	_	_
+2	Werdegang	Werdegang	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Arbeitsanamnese	Arbeitsanamnese	NN	NN	_	_	_	0	_	_	_
+5	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Ausbildung	Ausbildung	NN	NN	_	_	_	0	_	_	_
+2	in	in	APPR	APPR	_	_	_	0	_	_	_
+3	2000	2000	CARD	CARD	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Beruf	Beruf	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Fitnesstrainerin	Fitnesstrainerin	NN	NN	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Mittelschwere	Mittelschwere	ADJA	ADJA	_	_	_	0	_	_	_
+2	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+3	schwere	schwere	ADJA	ADJA	_	_	_	0	_	_	_
+4	körperliche	körperliche	ADJA	ADJA	_	_	_	0	_	_	_
+5	Belastung	Belastung	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	ist	ist	VAFIN	VAFIN	_	_	_	0	_	_	_
+4	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+5	ihrer	ihrer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+6	Arbeit	Arbeit	NN	NN	_	_	_	0	_	_	_
+7	zufrieden	zufrieden	VVPP	VVPP	_	_	_	0	_	_	_
+8	und	und	KON	KON	_	_	_	0	_	_	_
+9	traut	traut	VVFIN	VVFIN	_	_	_	0	_	_	_
+10	sie	sie	PPER	PPER	_	_	_	0	_	_	_
+11	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+12	weiterhin	weiterhin	ADV	ADV	_	_	_	0	_	_	_
+13	zu	zu	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	AU	AU	NE	NE	_	_	_	0	_	_	_
+2	-Zeiten	-Zeiten	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Insgesamt	Insgesamt	ADV	ADV	_	_	_	0	_	_	_
+2	in	in	APPR	APPR	_	_	_	0	_	_	_
+3	den	den	ART	ART	_	_	_	0	_	_	_
+4	letzten	letzten	ADJA	ADJA	_	_	_	0	_	_	_
+5	12	12	CARD	CARD	_	_	_	0	_	_	_
+6	Monaten	Monaten	NN	NN	_	_	_	0	_	_	_
+7	3	3	CARD	CARD	_	_	_	0	_	_	_
+8	Monate	Monate	NN	NN	_	_	_	0	_	_	_
+9	krank	krank	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Klinische	Klinische	ADJA	ADJA	_	_	_	0	_	_	_
+2	Untersuchung	Untersuchung	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	40-jährige	40-jährige	ADJA	ADJA	_	_	_	0	_	_	_
+2	Pat	Pat	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+4	in	in	APPR	APPR	_	_	_	0	_	_	_
+5	normalem	normalem	ADJA	ADJA	_	_	_	0	_	_	_
+6	AZ	AZ	NE	NE	_	_	_	0	_	_	_
+7	,	,	$,	$,	_	_	_	0	_	_	_
+8	BMI	BMI	NE	NE	_	_	_	0	_	_	_
+9	22	22	CARD	CARD	_	_	_	0	_	_	_
+10	,	,	$,	$,	_	_	_	0	_	_	_
+11	psychischer	psychischer	ADJA	ADJA	_	_	_	0	_	_	_
+12	Status	Status	NN	NN	_	_	_	0	_	_	_
+13	labil	labil	ADJD	ADJD	_	_	_	0	_	_	_
+14	,	,	$,	$,	_	_	_	0	_	_	_
+15	Cor	Cor	NN	NN	_	_	_	0	_	_	_
+16	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Blutdruck	Blutdruck	NN	NN	_	_	_	0	_	_	_
+2	100/60	100/60	CARD	CARD	_	_	_	0	_	_	_
+3	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	Puls	Puls	NN	NN	_	_	_	0	_	_	_
+6	56/min	56/min	CARD	CARD	_	_	_	0	_	_	_
+7	,	,	$,	$,	_	_	_	0	_	_	_
+8	regelmäßig	regelmäßig	ADJD	ADJD	_	_	_	0	_	_	_
+9	.	.	$,	$,	_	_	_	0	_	_	_
+10	normale	normale	ADJA	ADJA	_	_	_	0	_	_	_
+11	Herztöne	Herztöne	NN	NN	_	_	_	0	_	_	_
+12	,	,	$,	$,	_	_	_	0	_	_	_
+13	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+14	vitientypischen	vitientypischen	ADJA	ADJA	_	_	_	0	_	_	_
+15	Geräusche	Geräusche	NN	NN	_	_	_	0	_	_	_
+16	auskultierbar	auskultierbar	ADJD	ADJD	_	_	_	0	_	_	_
+17	,	,	$,	$,	_	_	_	0	_	_	_
+18	Karotiden	Karotiden	NN	NN	_	_	_	0	_	_	_
+19	und	und	KON	KON	_	_	_	0	_	_	_
+20	Leistenarterien	Leistenarterien	NN	NN	_	_	_	0	_	_	_
+21	beidseits	beidseits	ADV	ADV	_	_	_	0	_	_	_
+22	auskultatorisch	auskultatorisch	ADJD	ADJD	_	_	_	0	_	_	_
+23	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+24	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Pulmo	Pulmo	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	vesikuläres	vesikuläres	ADJA	ADJA	_	_	_	0	_	_	_
+2	Atemgeräusch	Atemgeräusch	NN	NN	_	_	_	0	_	_	_
+3	über	über	APPR	APPR	_	_	_	0	_	_	_
+4	beiden	beiden	PIDAT	PIDAT	_	_	_	0	_	_	_
+5	Lungen	Lungen	NN	NN	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+8	RG	RG	NE	NE	_	_	_	0	_	_	_
+9	,	,	$,	$,	_	_	_	0	_	_	_
+10	Abdomen	Abdomen	NN	NN	_	_	_	0	_	_	_
+11	weich	weich	ADJD	ADJD	_	_	_	0	_	_	_
+12	,	,	$,	$,	_	_	_	0	_	_	_
+13	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+14	Druckschmerz	Druckschmerz	NN	NN	_	_	_	0	_	_	_
+15	,	,	$,	$,	_	_	_	0	_	_	_
+16	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+17	Resistenzen	Resistenzen	NN	NN	_	_	_	0	_	_	_
+18	,	,	$,	$,	_	_	_	0	_	_	_
+19	Darmgeräusche	Darmgeräusche	NN	NN	_	_	_	0	_	_	_
+20	regelrecht	regelrecht	ADJD	ADJD	_	_	_	0	_	_	_
+21	,	,	$,	$,	_	_	_	0	_	_	_
+22	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+23	Unterschenkelödeme	Unterschenkelödeme	NN	NN	_	_	_	0	_	_	_
+24	,	,	$,	$,	_	_	_	0	_	_	_
+25	periphere	periphere	ADJA	ADJA	_	_	_	0	_	_	_
+26	Pulse	Pulse	NN	NN	_	_	_	0	_	_	_
+27	seitengleich	seitengleich	ADJD	ADJD	_	_	_	0	_	_	_
+28	tastbar	tastbar	ADJD	ADJD	_	_	_	0	_	_	_
+29	,	,	$,	$,	_	_	_	0	_	_	_
+30	neurologische	neurologische	ADJA	ADJA	_	_	_	0	_	_	_
+31	Untersuchung	Untersuchung	NN	NN	_	_	_	0	_	_	_
+32	orientierend	orientierend	ADJD	ADJD	_	_	_	0	_	_	_
+33	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+34	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Fähigkeits	Fähigkeits	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Aktivitätseinschränkung	Aktivitätseinschränkung	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Schonungsverhalten	Schonungsverhalten	NN	NN	_	_	_	0	_	_	_
+2	aufgrund	aufgrund	APPR	APPR	_	_	_	0	_	_	_
+3	der	der	ART	ART	_	_	_	0	_	_	_
+4	Hauptdiagnose	Hauptdiagnose	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Psychosomatische	Psychosomatische	ADJA	ADJA	_	_	_	0	_	_	_
+2	Diagnostik	Diagnostik	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	HADS-Fragebogen	HADS-Fragebogen	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Angst	Angst	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Depressivität	Depressivität	NN	NN	_	_	_	0	_	_	_
+4	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+5	erhöht	erhöht	ADJD	ADJD	_	_	_	0	_	_	_
+6	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+7	15	15	CARD	CARD	_	_	_	0	_	_	_
+8	von	von	APPR	APPR	_	_	_	0	_	_	_
+9	21	21	CARD	CARD	_	_	_	0	_	_	_
+10	Punkten	Punkten	NN	NN	_	_	_	0	_	_	_
+11	für	für	APPR	APPR	_	_	_	0	_	_	_
+12	Angst	Angst	NN	NN	_	_	_	0	_	_	_
+13	und	und	KON	KON	_	_	_	0	_	_	_
+14	10	10	CARD	CARD	_	_	_	0	_	_	_
+15	von	von	APPR	APPR	_	_	_	0	_	_	_
+16	21	21	CARD	CARD	_	_	_	0	_	_	_
+17	Punkten	Punkten	NN	NN	_	_	_	0	_	_	_
+18	für	für	APPR	APPR	_	_	_	0	_	_	_
+19	Depressivität	Depressivität	NN	NN	_	_	_	0	_	_	_
+20	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Diagnostik	Diagnostik	NN	NN	_	_	_	0	_	_	_
+2	Labor	Labor	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Bei	Bei	APPR	APPR	_	_	_	0	_	_	_
+2	der	der	ART	ART	_	_	_	0	_	_	_
+3	routinemäßigen	routinemäßigen	ADJA	ADJA	_	_	_	0	_	_	_
+4	Laboruntersuchung	Laboruntersuchung	NN	NN	_	_	_	0	_	_	_
+5	lagen	lagen	VVFIN	VVFIN	_	_	_	0	_	_	_
+6	die	die	ART	ART	_	_	_	0	_	_	_
+7	meisten	meisten	PIDAT	PIDAT	_	_	_	0	_	_	_
+8	Werte	Werte	NN	NN	_	_	_	0	_	_	_
+9	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+10	Normbereich	Normbereich	NN	NN	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Diagnostik	Diagnostik	NN	NN	_	_	_	0	_	_	_
+2	EKG	EKG	NE	NE	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Sinusrhythmus	Sinusrhythmus	NN	NN	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	Linkstyp	Linkstyp	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Zeiten	Zeiten	NN	NN	_	_	_	0	_	_	_
+2	in	in	APPR	APPR	_	_	_	0	_	_	_
+3	der	der	ART	ART	_	_	_	0	_	_	_
+4	Norm	Norm	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sonst	Sonst	ADV	ADV	_	_	_	0	_	_	_
+2	unauffälliger	unauffälliger	ADJA	ADJA	_	_	_	0	_	_	_
+3	Stromkurvenverlauf	Stromkurvenverlauf	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Ergometrie	Ergometrie	NN	NN	_	_	_	0	_	_	_
+2	(	(	$(	$(	_	_	_	0	_	_	_
+3	Fahrradergometer	Fahrradergometer	NN	NN	_	_	_	0	_	_	_
+4	)	)	$(	$(	_	_	_	0	_	_	_
+5	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+6	Aufnahme	Aufnahme	NN	NN	_	_	_	0	_	_	_
+7	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Belastbar	Belastbar	ADJD	ADJD	_	_	_	0	_	_	_
+2	von	von	APPR	APPR	_	_	_	0	_	_	_
+3	25	25	CARD	CARD	_	_	_	0	_	_	_
+4	W	W	NN	NN	_	_	_	0	_	_	_
+5	an	an	APPR	APPR	_	_	_	0	_	_	_
+6	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+7	21	21	CARD	CARD	_	_	_	0	_	_	_
+8	Min	Min	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	275	275	CARD	CARD	_	_	_	0	_	_	_
+2	W	W	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	max	max	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	HF	HF	NE	NE	_	_	_	0	_	_	_
+2	180/min	180/min	CARD	CARD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	max	max	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Blutdruck	Blutdruck	NN	NN	_	_	_	0	_	_	_
+2	200/100	200/100	CARD	CARD	_	_	_	0	_	_	_
+3	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Durchgehend	Durchgehend	ADJD	ADJD	_	_	_	0	_	_	_
+2	Sinusrhythmus	Sinusrhythmus	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+5	höhergradige	höhergradige	ADJA	ADJA	_	_	_	0	_	_	_
+6	Rhythmusstörung	Rhythmusstörung	NN	NN	_	_	_	0	_	_	_
+7	,	,	$,	$,	_	_	_	0	_	_	_
+8	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+9	AP	AP	NE	NE	_	_	_	0	_	_	_
+10	,	,	$,	$,	_	_	_	0	_	_	_
+11	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+12	signifikante	signifikante	ADJA	ADJA	_	_	_	0	_	_	_
+13	ST-Veränderung	ST-Veränderung	NN	NN	_	_	_	0	_	_	_
+14	,	,	$,	$,	_	_	_	0	_	_	_
+15	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+16	höhergradige	höhergradige	ADJA	ADJA	_	_	_	0	_	_	_
+17	Rhythmusstörung	Rhythmusstörung	NN	NN	_	_	_	0	_	_	_
+18	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Unter	Unter	APPR	APPR	_	_	_	0	_	_	_
+2	Belastung	Belastung	NN	NN	_	_	_	0	_	_	_
+3	und	und	KON	KON	_	_	_	0	_	_	_
+4	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+5	Belastungsende	Belastungsende	NN	NN	_	_	_	0	_	_	_
+6	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+7	wesentlichen	wesentlichen	ADJA	ADJA	_	_	_	0	_	_	_
+8	Auffälligkeiten	Auffälligkeiten	NN	NN	_	_	_	0	_	_	_
+9	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+10	Blutdruck-	Blutdruck-	TRUNC	TRUNC	_	_	_	0	_	_	_
+11	und	und	KON	KON	_	_	_	0	_	_	_
+12	Pulsverhalten	Pulsverhalten	NN	NN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+14	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+15	ST-Strecken-Veränderungen	ST-Strecken-Veränderungen	NN	NN	_	_	_	0	_	_	_
+16	bzw.	bzw.	KON	KON	_	_	_	0	_	_	_
+17	Angina	Angina	NN	NN	_	_	_	0	_	_	_
+18	pectoris-Beschwerden	pectoris-Beschwerden	VAINF	VAINF	_	_	_	0	_	_	_
+19	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	LZ	LZ	NE	NE	_	_	_	0	_	_	_
+2	EKG	EKG	NE	NE	_	_	_	0	_	_	_
+3	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+4	07.03.2018	07.03.2018	CARD	CARD	_	_	_	0	_	_	_
+5	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Durchgehend	Durchgehend	ADJD	ADJD	_	_	_	0	_	_	_
+2	Sinusrhythmus	Sinusrhythmus	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	maximal	maximal	ADJD	ADJD	_	_	_	0	_	_	_
+5	120/min	120/min	NN	NN	_	_	_	0	_	_	_
+6	und	und	KON	KON	_	_	_	0	_	_	_
+7	minimal	minimal	ADJD	ADJD	_	_	_	0	_	_	_
+8	40/min	40/min	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Durchschnittliche	Durchschnittliche	ADJA	ADJA	_	_	_	0	_	_	_
+2	HF	HF	NE	NE	_	_	_	0	_	_	_
+3	64/min	64/min	CARD	CARD	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	vereinzelt	vereinzelt	ADJD	ADJD	_	_	_	0	_	_	_
+6	SVES	SVES	NE	NE	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	LZ	LZ	NE	NE	_	_	_	0	_	_	_
+2	RR	RR	NE	NE	_	_	_	0	_	_	_
+3	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+4	08.03.2018	08.03.2018	CARD	CARD	_	_	_	0	_	_	_
+5	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Normotensive	Normotensive	ADJA	ADJA	_	_	_	0	_	_	_
+2	RR-Werte	RR-Werte	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	entsprechendes	entsprechendes	ADJA	ADJA	_	_	_	0	_	_	_
+5	Dipping	Dipping	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Zusammenfassung	Zusammenfassung	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tagsüber	Tagsüber	NN	NN	_	_	_	0	_	_	_
+2	:	:	$,	$,	_	_	_	0	_	_	_
+3	Syst	Syst	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$,	$,	_	_	_	0	_	_	_
+2	Mitt	Mitt	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	110	110	CARD	CARD	_	_	_	0	_	_	_
+2	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+3	90-130	90-130	CARD	CARD	_	_	_	0	_	_	_
+4	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+5	)	)	$(	$(	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	Diast	Diast	NN	NN	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$,	$,	_	_	_	0	_	_	_
+2	Mitt	Mitt	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	70	70	CARD	CARD	_	_	_	0	_	_	_
+2	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+3	55-85	55-85	CARD	CARD	_	_	_	0	_	_	_
+4	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+5	)	)	$(	$(	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	In	In	APPR	APPR	_	_	_	0	_	_	_
+2	der	der	ART	ART	_	_	_	0	_	_	_
+3	Nacht	Nacht	NN	NN	_	_	_	0	_	_	_
+4	:	:	$,	$,	_	_	_	0	_	_	_
+5	Syst.	Syst.	NN	NN	_	_	_	0	_	_	_
+6	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Mitt.	Mitt.	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	100	100	CARD	CARD	_	_	_	0	_	_	_
+2	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+3	95	95	CARD	CARD	_	_	_	0	_	_	_
+4	-	-	$(	$(	_	_	_	0	_	_	_
+5	105	105	CARD	CARD	_	_	_	0	_	_	_
+6	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+7	)	)	$(	$(	_	_	_	0	_	_	_
+8	,	,	$,	$,	_	_	_	0	_	_	_
+9	Diast	Diast	NN	NN	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$,	$,	_	_	_	0	_	_	_
+2	Mitt	Mitt	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	60	60	CARD	CARD	_	_	_	0	_	_	_
+2	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+3	55	55	CARD	CARD	_	_	_	0	_	_	_
+4	-	-	$(	$(	_	_	_	0	_	_	_
+5	65	65	CARD	CARD	_	_	_	0	_	_	_
+6	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+7	)	)	$(	$(	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Echokardiographie	Echokardiographie	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Normal	Normal	ADJD	ADJD	_	_	_	0	_	_	_
+2	großer	großer	ADJA	ADJA	_	_	_	0	_	_	_
+3	linker	linker	ADJA	ADJA	_	_	_	0	_	_	_
+4	Ventrikel	Ventrikel	NN	NN	_	_	_	0	_	_	_
+5	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+6	normaler	normaler	ADJA	ADJA	_	_	_	0	_	_	_
+7	systolischer	systolischer	ADJA	ADJA	_	_	_	0	_	_	_
+8	Funktion	Funktion	NN	NN	_	_	_	0	_	_	_
+9	,	,	$,	$,	_	_	_	0	_	_	_
+10	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+11	regionale	regionale	ADJA	ADJA	_	_	_	0	_	_	_
+12	Wandbewegungsstörung	Wandbewegungsstörung	NN	NN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+14	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+15	Compliancestörung	Compliancestörung	NN	NN	_	_	_	0	_	_	_
+16	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Systolischer	Systolischer	ADJA	ADJA	_	_	_	0	_	_	_
+2	Pulmonalarteriendruck	Pulmonalarteriendruck	NN	NN	_	_	_	0	_	_	_
+3	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+4	Normbereich	Normbereich	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Klappen	Klappen	NN	NN	_	_	_	0	_	_	_
+2	ohne	ohne	APPR	APPR	_	_	_	0	_	_	_
+3	Befund	Befund	NN	NN	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+6	Perikarderguss	Perikarderguss	NN	NN	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Pleuraerguss	Pleuraerguss	NN	NN	_	_	_	0	_	_	_
+3	beidseits	beidseits	ADV	ADV	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Reha	Reha	NN	NN	_	_	_	0	_	_	_
+2	Diagnosen	Diagnosen	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Herzneurose	Herzneurose	NN	NN	_	_	_	0	_	_	_
+2	(	(	$(	$(	_	_	_	0	_	_	_
+3	F45.3	F45.3	XY	XY	_	_	_	0	_	_	_
+4	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+5	ICD-10	ICD-10	CARD	CARD	_	_	_	0	_	_	_
+6	)	)	$(	$(	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Reha	Reha	NN	NN	_	_	_	0	_	_	_
+2	Ziele	Ziele	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	erhofft	erhofft	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+5	insbesondere	insbesondere	ADV	ADV	_	_	_	0	_	_	_
+6	mehr	mehr	ADV	ADV	_	_	_	0	_	_	_
+7	Stabilität	Stabilität	NN	NN	_	_	_	0	_	_	_
+8	zu	zu	PTKZU	PTKZU	_	_	_	0	_	_	_
+9	erreichen	erreichen	VVINF	VVINF	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sie	Sie	PPER	PPER	_	_	_	0	_	_	_
+2	möchte	möchte	VMFIN	VMFIN	_	_	_	0	_	_	_
+3	ihren	ihren	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+4	Informationsstand	Informationsstand	NN	NN	_	_	_	0	_	_	_
+5	verbessern	verbessern	VVINF	VVINF	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	erfahren	erfahren	VVPP	VVPP	_	_	_	0	_	_	_
+8	,	,	$,	$,	_	_	_	0	_	_	_
+9	wo	wo	PWAV	PWAV	_	_	_	0	_	_	_
+10	ihre	ihre	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+11	Belastbarkeitsgrenze	Belastbarkeitsgrenze	NN	NN	_	_	_	0	_	_	_
+12	liegt	liegt	VVFIN	VVFIN	_	_	_	0	_	_	_
+13	,	,	$,	$,	_	_	_	0	_	_	_
+14	sowie	sowie	KON	KON	_	_	_	0	_	_	_
+15	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+16	geschützten	geschützten	ADJA	ADJA	_	_	_	0	_	_	_
+17	Rahmen	Rahmen	NN	NN	_	_	_	0	_	_	_
+18	wieder	wieder	ADV	ADV	_	_	_	0	_	_	_
+19	Sicherheit	Sicherheit	NN	NN	_	_	_	0	_	_	_
+20	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+21	körperlicher	körperlicher	ADJA	ADJA	_	_	_	0	_	_	_
+22	Belastung	Belastung	NN	NN	_	_	_	0	_	_	_
+23	bekommen	bekommen	VVINF	VVINF	_	_	_	0	_	_	_
+24	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Rehabilitationsverlauf	Rehabilitationsverlauf	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Epikrise	Epikrise	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Ziel	Ziel	NN	NN	_	_	_	0	_	_	_
+2	der	der	ART	ART	_	_	_	0	_	_	_
+3	Rehabilitation	Rehabilitation	NN	NN	_	_	_	0	_	_	_
+4	war	war	VAFIN	VAFIN	_	_	_	0	_	_	_
+5	die	die	ART	ART	_	_	_	0	_	_	_
+6	muskuläre	muskuläre	ADJA	ADJA	_	_	_	0	_	_	_
+7	Kräftigung	Kräftigung	NN	NN	_	_	_	0	_	_	_
+8	sowie	sowie	KON	KON	_	_	_	0	_	_	_
+9	körperliche	körperliche	ADJA	ADJA	_	_	_	0	_	_	_
+10	und	und	KON	KON	_	_	_	0	_	_	_
+11	psychische	psychische	ADJA	ADJA	_	_	_	0	_	_	_
+12	Stabilisierung	Stabilisierung	NN	NN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Auch	Auch	ADV	ADV	_	_	_	0	_	_	_
+2	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+3	Langzeit-EKG	Langzeit-EKG	NN	NN	_	_	_	0	_	_	_
+4	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+5	07.03.2018	07.03.2018	CARD	CARD	_	_	_	0	_	_	_
+6	wurde	wurde	VAFIN	VAFIN	_	_	_	0	_	_	_
+7	durchgehend	durchgehend	ADJD	ADJD	_	_	_	0	_	_	_
+8	normofrequenter	normofrequenter	ADJA	ADJA	_	_	_	0	_	_	_
+9	Sinusrhythmus	Sinusrhythmus	NN	NN	_	_	_	0	_	_	_
+10	ohne	ohne	APPR	APPR	_	_	_	0	_	_	_
+11	höhergradige	höhergradige	ADJA	ADJA	_	_	_	0	_	_	_
+12	Rhythmusstörungen	Rhythmusstörungen	NN	NN	_	_	_	0	_	_	_
+13	aufgezeichnet	aufgezeichnet	VVPP	VVPP	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Reha-Ergebnis	Reha-Ergebnis	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Abschlussuntersuchung	Abschlussuntersuchung	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Bei	Bei	APPR	APPR	_	_	_	0	_	_	_
+2	der	der	ART	ART	_	_	_	0	_	_	_
+3	Abschlussuntersuchung	Abschlussuntersuchung	NN	NN	_	_	_	0	_	_	_
+4	gab	gab	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	die	die	ART	ART	_	_	_	0	_	_	_
+6	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+7	an	an	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+8	,	,	$,	$,	_	_	_	0	_	_	_
+9	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+10	in	in	APPR	APPR	_	_	_	0	_	_	_
+11	ihrer	ihrer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+12	Belastbarkeit	Belastbarkeit	NN	NN	_	_	_	0	_	_	_
+13	und	und	KON	KON	_	_	_	0	_	_	_
+14	Ausdauer	Ausdauer	NN	NN	_	_	_	0	_	_	_
+15	gesteigert	gesteigert	VVPP	VVPP	_	_	_	0	_	_	_
+16	zu	zu	PTKZU	PTKZU	_	_	_	0	_	_	_
+17	haben	haben	VAINF	VAINF	_	_	_	0	_	_	_
+18	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Insbesondere	Insbesondere	ADV	ADV	_	_	_	0	_	_	_
+2	fühlte	fühlte	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	sie	sie	PPER	PPER	_	_	_	0	_	_	_
+4	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+5	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+6	kräftiger	kräftiger	ADJA	ADJA	_	_	_	0	_	_	_
+7	und	und	KON	KON	_	_	_	0	_	_	_
+8	ausdauernder	ausdauernder	ADV	ADV	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Während	Während	APPR	APPR	_	_	_	0	_	_	_
+2	des	des	ART	ART	_	_	_	0	_	_	_
+3	Aufenthaltes	Aufenthaltes	NN	NN	_	_	_	0	_	_	_
+4	war	war	VAFIN	VAFIN	_	_	_	0	_	_	_
+5	es	es	PPER	PPER	_	_	_	0	_	_	_
+6	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+7	einer	einer	ART	ART	_	_	_	0	_	_	_
+8	leichten	leichten	ADJA	ADJA	_	_	_	0	_	_	_
+9	Verbesserung	Verbesserung	NN	NN	_	_	_	0	_	_	_
+10	des	des	ART	ART	_	_	_	0	_	_	_
+11	Erschöpfungszustandes	Erschöpfungszustandes	NN	NN	_	_	_	0	_	_	_
+12	gekommen	gekommen	VVPP	VVPP	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	habe	habe	VAFIN	VAFIN	_	_	_	0	_	_	_
+4	sehr	sehr	ADV	ADV	_	_	_	0	_	_	_
+5	vom	vom	APPRART	APPRART	_	_	_	0	_	_	_
+6	körperlichen	körperlichen	ADJA	ADJA	_	_	_	0	_	_	_
+7	Bewegungsprogramm	Bewegungsprogramm	NN	NN	_	_	_	0	_	_	_
+8	und	und	KON	KON	_	_	_	0	_	_	_
+9	den	den	ART	ART	_	_	_	0	_	_	_
+10	Informationsveranstaltungen	Informationsveranstaltungen	NN	NN	_	_	_	0	_	_	_
+11	profitieren	profitieren	VVINF	VVINF	_	_	_	0	_	_	_
+12	können	können	VMFIN	VMFIN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Der	Der	ART	ART	_	_	_	0	_	_	_
+2	Puls	Puls	NN	NN	_	_	_	0	_	_	_
+3	war	war	VAFIN	VAFIN	_	_	_	0	_	_	_
+4	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+5	Entlassung	Entlassung	NN	NN	_	_	_	0	_	_	_
+6	normofrequent	normofrequent	ADJD	ADJD	_	_	_	0	_	_	_
+7	und	und	KON	KON	_	_	_	0	_	_	_
+8	regelmäßig	regelmäßig	ADJD	ADJD	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sozialmedizinische	Sozialmedizinische	ADJA	ADJA	_	_	_	0	_	_	_
+2	Epikrise	Epikrise	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Wir	Wir	PPER	PPER	_	_	_	0	_	_	_
+2	entließen	entließen	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	die	die	ART	ART	_	_	_	0	_	_	_
+4	Pat	Pat	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+6	arbeitsfähig	arbeitsfähig	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Selbsteinschätzung	Selbsteinschätzung	NN	NN	_	_	_	0	_	_	_
+2	des	des	ART	ART	_	_	_	0	_	_	_
+3	Patienten	Patienten	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+3	fühlt	fühlt	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+5	in	in	APPR	APPR	_	_	_	0	_	_	_
+6	der	der	ART	ART	_	_	_	0	_	_	_
+7	Lage	Lage	NN	NN	_	_	_	0	_	_	_
+8	ihren	ihren	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+9	Beruf	Beruf	NN	NN	_	_	_	0	_	_	_
+10	weiterhin	weiterhin	ADV	ADV	_	_	_	0	_	_	_
+11	auszuüben	auszuüben	VVIZU	VVIZU	_	_	_	0	_	_	_
+12	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Procedere	Procedere	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Ambulante	Ambulante	ADJA	ADJA	_	_	_	0	_	_	_
+2	Psychotherapie	Psychotherapie	NN	NN	_	_	_	0	_	_	_
+3	(	(	$(	$(	_	_	_	0	_	_	_
+4	Verhaltenstherapie	Verhaltenstherapie	NN	NN	_	_	_	0	_	_	_
+5	)	)	$(	$(	_	_	_	0	_	_	_
+6	empfohlen	empfohlen	VVPP	VVPP	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Mit	Mit	APPR	APPR	_	_	_	0	_	_	_
+2	freundlichen	freundlichen	ADJA	ADJA	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kollegialen	kollegialen	ADJA	ADJA	_	_	_	0	_	_	_
+5	Grüßen	Grüßen	NN	NN	_	_	_	0	_	_	_
+6	Michael	Michael	NN	NN	_	_	_	0	_	_	_
+7	Mobitz	Mobitz	NN	NN	_	_	_	0	_	_	_
+8	Oberarzt	Oberarzt	NN	NN	_	_	_	0	_	_	_
+

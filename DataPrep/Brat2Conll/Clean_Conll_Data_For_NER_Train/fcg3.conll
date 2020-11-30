@@ -1,0 +1,47 @@
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+oefters	B-Measurement
+verstopfte	B-Medical_condition
+oder	O
+laufende	B-Medical_condition
+Nase	I-Medical_condition
+.	O
+
+Neu	B-Treatment
+Blopress	B-Medication
+.	O
+
+Appetit	B-Biological_parameter
+(	O
+zu	O
+)	O
+gut	B-State_of_health
+.	O
+
+Cymeven	B-Medication
+noch	O
+zu	B-Treatment
+Ende	I-Treatment
+nehmen	I-Treatment
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+gute	B-State_of_health
+Diurese	B-Process
+Keine	O
+Angstzustaende	B-Medical_condition
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+.	O
+
+Kein	O
+Stau	B-Medical_condition
+.	O

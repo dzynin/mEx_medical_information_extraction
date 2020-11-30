@@ -1,0 +1,233 @@
+1	﻿Herrn/Frau	﻿Herrn/Frau	ENUM	ENUM	_	_	_	0	_	_	_
+2	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+3	med	med	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Herr	Herr	NN	NN	_	_	_	0	_	_	_
+2	Mustermann	Mustermann	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Max	Max	NE	NE	_	_	_	0	_	_	_
+5	Musterstraße	Musterstraße	NN	NN	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	22	22	CARD	CARD	_	_	_	0	_	_	_
+8	11111	11111	CARD	CARD	_	_	_	0	_	_	_
+9	Musterort	Musterort	NN	NN	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kurzarztbrief	Kurzarztbrief	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Patient	Patient	NN	NN	_	_	_	0	_	_	_
+2	Erwin	Erwin	NN	NN	_	_	_	0	_	_	_
+3	Schrödinger	Schrödinger	NN	NN	_	_	_	0	_	_	_
+4	29.4.2018	29.4.2018	CARD	CARD	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sehr	Sehr	ADV	ADV	_	_	_	0	_	_	_
+2	geehrte	geehrte	ADJA	ADJA	_	_	_	0	_	_	_
+3	Frau	Frau	NN	NN	_	_	_	0	_	_	_
+4	Kollegin	Kollegin	NN	NN	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	sehr	sehr	ADV	ADV	_	_	_	0	_	_	_
+7	geehrter	geehrter	ADJA	ADJA	_	_	_	0	_	_	_
+8	Herr	Herr	NN	NN	_	_	_	0	_	_	_
+9	Kollege	Kollege	NN	NN	_	_	_	0	_	_	_
+10	,	,	$,	$,	_	_	_	0	_	_	_
+11	o.	o.	ADV	ADV	_	_	_	0	_	_	_
+12	g.	g.	ADJA	ADJA	_	_	_	0	_	_	_
+13	Patient	Patient	NN	NN	_	_	_	0	_	_	_
+14	befand	befand	VVFIN	VVFIN	_	_	_	0	_	_	_
+15	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+16	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+17	uns	uns	PPER	PPER	_	_	_	0	_	_	_
+18	von	von	APPR	APPR	_	_	_	0	_	_	_
+19	20.04.2018	20.04.2018	CARD	CARD	_	_	_	0	_	_	_
+20	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+21	25.04.2018	25.04.2018	CARD	CARD	_	_	_	0	_	_	_
+22	in	in	APPR	APPR	_	_	_	0	_	_	_
+23	stationärer	stationärer	ADJA	ADJA	_	_	_	0	_	_	_
+24	Behandlung	Behandlung	NN	NN	_	_	_	0	_	_	_
+25	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Diagnosen	Diagnosen	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Ben.	Ben.	ADV	ADV	_	_	_	0	_	_	_
+2	ess	ess	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	art	art	APPR	APPR	_	_	_	0	_	_	_
+2	Hypertonie	Hypertonie	NN	NN	_	_	_	0	_	_	_
+3	I10.00	I10.00	XY	XY	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Katarakt	Katarakt	NN	NN	_	_	_	0	_	_	_
+2	(	(	$(	$(	_	_	_	0	_	_	_
+3	H26.9	H26.9	XY	XY	_	_	_	0	_	_	_
+4	)	)	$(	$(	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Letzte	Letzte	ADJA	ADJA	_	_	_	0	_	_	_
+2	Medikation	Medikation	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Bisoprolol	Bisoprolol	NE	NE	_	_	_	0	_	_	_
+2	(	(	$(	$(	_	_	_	0	_	_	_
+3	Bisohexal	Bisohexal	NN	NN	_	_	_	0	_	_	_
+4	10	10	CARD	CARD	_	_	_	0	_	_	_
+5	mg	mg	NN	NN	_	_	_	0	_	_	_
+6	)	)	$(	$(	_	_	_	0	_	_	_
+7	=	=	XY	XY	_	_	_	0	_	_	_
+8	1	1	CARD	CARD	_	_	_	0	_	_	_
+9	-	-	$(	$(	_	_	_	0	_	_	_
+10	0	0	CARD	CARD	_	_	_	0	_	_	_
+11	-	-	$(	$(	_	_	_	0	_	_	_
+12	0	0	CARD	CARD	_	_	_	0	_	_	_
+13	-	-	$(	$(	_	_	_	0	_	_	_
+14	0.	0.	ENUM	ENUM	_	_	_	0	_	_	_
+15	Ramipril	Ramipril	NN	NN	_	_	_	0	_	_	_
+16	(	(	$(	$(	_	_	_	0	_	_	_
+17	Deli	Deli	NN	NN	_	_	_	0	_	_	_
+18	x	x	XY	XY	_	_	_	0	_	_	_
+19	10	10	CARD	CARD	_	_	_	0	_	_	_
+20	mg	mg	NN	NN	_	_	_	0	_	_	_
+21	)	)	$(	$(	_	_	_	0	_	_	_
+22	=	=	XY	XY	_	_	_	0	_	_	_
+23	0	0	CARD	CARD	_	_	_	0	_	_	_
+24	-	-	$(	$(	_	_	_	0	_	_	_
+25	0	0	CARD	CARD	_	_	_	0	_	_	_
+26	-	-	$(	$(	_	_	_	0	_	_	_
+27	0	0	CARD	CARD	_	_	_	0	_	_	_
+28	-	-	$(	$(	_	_	_	0	_	_	_
+29	1.	1.	ENUM	ENUM	_	_	_	0	_	_	_
+30	Metformin	Metformin	NN	NN	_	_	_	0	_	_	_
+31	(	(	$(	$(	_	_	_	0	_	_	_
+32	Siofor	Siofor	NN	NN	_	_	_	0	_	_	_
+33	1000	1000	CARD	CARD	_	_	_	0	_	_	_
+34	)	)	$(	$(	_	_	_	0	_	_	_
+35	=	=	XY	XY	_	_	_	0	_	_	_
+36	1	1	CARD	CARD	_	_	_	0	_	_	_
+37	-	-	$(	$(	_	_	_	0	_	_	_
+38	0	0	CARD	CARD	_	_	_	0	_	_	_
+39	-	-	$(	$(	_	_	_	0	_	_	_
+40	0	0	CARD	CARD	_	_	_	0	_	_	_
+41	-	-	$(	$(	_	_	_	0	_	_	_
+42	0.	0.	ENUM	ENUM	_	_	_	0	_	_	_
+43	Selbstverständlich	Selbstverständlich	ADV	ADV	_	_	_	0	_	_	_
+44	können	können	VMFIN	VMFIN	_	_	_	0	_	_	_
+45	auch	auch	ADV	ADV	_	_	_	0	_	_	_
+46	wirkstoffgleiche	wirkstoffgleiche	ADJA	ADJA	_	_	_	0	_	_	_
+47	Präparate	Präparate	NN	NN	_	_	_	0	_	_	_
+48	anderer	anderer	ADJA	ADJA	_	_	_	0	_	_	_
+49	Hersteller	Hersteller	NN	NN	_	_	_	0	_	_	_
+50	verwendet	verwendet	VVPP	VVPP	_	_	_	0	_	_	_
+51	werden	werden	VAINF	VAINF	_	_	_	0	_	_	_
+52	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Bemerkungen	Bemerkungen	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Stationäre	Stationäre	ADJA	ADJA	_	_	_	0	_	_	_
+2	Aufnahme	Aufnahme	NN	NN	_	_	_	0	_	_	_
+3	in	in	APPR	APPR	_	_	_	0	_	_	_
+4	unserer	unserer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+5	Klinik	Klinik	NN	NN	_	_	_	0	_	_	_
+6	zur	zur	APPRART	APPRART	_	_	_	0	_	_	_
+7	Katarakt-Operation	Katarakt-Operation	NN	NN	_	_	_	0	_	_	_
+8	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+9	seniler	seniler	ADJA	ADJA	_	_	_	0	_	_	_
+10	Katarkt	Katarkt	NN	NN	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Operation	Operation	NN	NN	_	_	_	0	_	_	_
+3	führten	führten	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	wir	wir	PPER	PPER	_	_	_	0	_	_	_
+5	in	in	APPR	APPR	_	_	_	0	_	_	_
+6	Phakoemulsifikation-Technik	Phakoemulsifikation-Technik	NN	NN	_	_	_	0	_	_	_
+7	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+8	Einbau	Einbau	NN	NN	_	_	_	0	_	_	_
+9	einer	einer	ART	ART	_	_	_	0	_	_	_
+10	Kunstoff-Linse	Kunstoff-Linse	NN	NN	_	_	_	0	_	_	_
+11	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+12	21.04.2018	21.04.2018	CARD	CARD	_	_	_	0	_	_	_
+13	durch	durch	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Der	Der	ART	ART	_	_	_	0	_	_	_
+2	postoperative	postoperative	ADJA	ADJA	_	_	_	0	_	_	_
+3	Verlauf	Verlauf	NN	NN	_	_	_	0	_	_	_
+4	gestaltete	gestaltete	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+6	komplikationslos	komplikationslos	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+3	Verlauf	Verlauf	NN	NN	_	_	_	0	_	_	_
+4	gemessene	gemessene	ADJA	ADJA	_	_	_	0	_	_	_
+5	RR-Werte	RR-Werte	NN	NN	_	_	_	0	_	_	_
+6	lagen	lagen	VVFIN	VVFIN	_	_	_	0	_	_	_
+7	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+8	häufiger	häufiger	ADJA	ADJA	_	_	_	0	_	_	_
+9	Kontrolle	Kontrolle	NN	NN	_	_	_	0	_	_	_
+10	weitgehend	weitgehend	ADJD	ADJD	_	_	_	0	_	_	_
+11	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+12	normotensiven	normotensiven	ADJA	ADJA	_	_	_	0	_	_	_
+13	Bereich	Bereich	NN	NN	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Entlassung	Entlassung	NN	NN	_	_	_	0	_	_	_
+3	erfolgt	erfolgt	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	in	in	APPR	APPR	_	_	_	0	_	_	_
+5	Ihre	Ihre	PPER	PPER	_	_	_	0	_	_	_
+6	weitere	weitere	ADJA	ADJA	_	_	_	0	_	_	_
+7	Behandlung	Behandlung	NN	NN	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Weitere	Weitere	ADJA	ADJA	_	_	_	0	_	_	_
+2	Einzelheiten	Einzelheiten	NN	NN	_	_	_	0	_	_	_
+3	entnehmen	entnehmen	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	Sie	Sie	PPER	PPER	_	_	_	0	_	_	_
+5	bitte	bitte	VVFIN	VVFIN	_	_	_	0	_	_	_
+6	unserem	unserem	ADJA	ADJA	_	_	_	0	_	_	_
+7	nachfolgenden	nachfolgenden	ADJA	ADJA	_	_	_	0	_	_	_
+8	ausführlichen	ausführlichen	ADJA	ADJA	_	_	_	0	_	_	_
+9	Entlassungsbericht	Entlassungsbericht	NN	NN	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Mit	Mit	APPR	APPR	_	_	_	0	_	_	_
+2	freundlichen	freundlichen	ADJA	ADJA	_	_	_	0	_	_	_
+3	kollegialen	kollegialen	ADJA	ADJA	_	_	_	0	_	_	_
+4	Grüßen	Grüßen	NN	NN	_	_	_	0	_	_	_
+5	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+6	med	med	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Albrecht	Albrecht	NN	NN	_	_	_	0	_	_	_
+2	Gräfe	Gräfe	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Chefarzt	Chefarzt	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+2	med	med	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Joseph	Joseph	NN	NN	_	_	_	0	_	_	_
+2	Beuys	Beuys	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Oberarzt/Oberärztin	Oberarzt/Oberärztin	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+2	med	med	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Leonardo	Leonardo	NN	NN	_	_	_	0	_	_	_
+2	DiCaprio	DiCaprio	NE	NE	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Stationsarzt/Ärztin	Stationsarzt/Ärztin	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+

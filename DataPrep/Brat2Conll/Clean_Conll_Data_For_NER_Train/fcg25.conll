@@ -1,0 +1,42 @@
+Zu	O
+Hause	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+.	O
+
+Gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+Etwas	O
+Brennen	B-Medical_condition
+bei	O
+Miktion	B-Process
+.	O
+
+Urin-Stix	O
+unauffällig	B-State_of_health
+,	O
+Kultur	B-Biological_parameter
+abgenommen	B-Measurement
+.	O
+
+Sono-Tx	O
+:	O
+
+Niere	B-Body_part
+in	B-State_of_health
+situ	I-State_of_health
+,	O
+nicht	O
+gestaut	B-Medical_condition
+.	O
+
+Keine	O
+freie	B-Medical_condition
+Flüßigkeit	I-Medical_condition
+.	O
+
+Restklammern	B-Medical_device
+entfernt	B-Treatment
+.	O

@@ -1,0 +1,45 @@
+1	Geht	Geht	NN	NN	_	_	_	0	_	_	_
+2	ganz	ganz	ADV	ADV	_	_	_	0	_	_	_
+3	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Magenschmerzen	Magenschmerzen	NN	NN	_	_	_	0	_	_	_
+2	ruecklaeufig	ruecklaeufig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Kreatinin	Kreatinin	NN	NN	_	_	_	0	_	_	_
+5	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+6	ruecklaeufig	ruecklaeufig	ADJD	ADJD	_	_	_	0	_	_	_
+7	,	,	$,	$,	_	_	_	0	_	_	_
+8	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+9	Oedeme	Oedeme	NN	NN	_	_	_	0	_	_	_
+10	,	,	$,	$,	_	_	_	0	_	_	_
+11	Gewicht	Gewicht	NN	NN	_	_	_	0	_	_	_
+12	stabil	stabil	ADJD	ADJD	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	sehr	sehr	ADV	ADV	_	_	_	0	_	_	_
+3	hoch	hoch	ADJD	ADJD	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+6	Hause	Hause	NN	NN	_	_	_	0	_	_	_
+7	allerdings	allerdings	ADV	ADV	_	_	_	0	_	_	_
+8	besser	besser	ADJD	ADJD	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Fragmin	Fragmin	NN	NN	_	_	_	0	_	_	_
+2	abgesetzt	abgesetzt	VVPP	VVPP	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono-Tx	Sono-Tx	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+4	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	Lymphozele	Lymphozele	NN	NN	_	_	_	0	_	_	_
+7	regredient	regredient	VVPP	VVPP	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+

@@ -1,0 +1,374 @@
+﻿Pat	B-Person
+.	O
+
+:	O
+
+Lenze	B-Person
+,	I-Person
+Ida	I-Person
+;	O
+geb.	O
+am	O
+20.02.1992;	B-Time_information
+wohnhaft	O
+:	O
+
+Freiedrichstraße	O
+543	O
+,	O
+10117	O
+Berlin	O
+.	O
+
+Sehr	O
+geehrte	O
+Kollegen	O
+,	O
+wir	O
+berichten	O
+Ihnen	O
+über	O
+Frau	B-Person
+Lenze	I-Person
+,	O
+die	O
+sich	O
+vom	O
+27.04.2018	B-Time_information
+bis	I-Time_information
+zum	I-Time_information
+03.05.2018	I-Time_information
+in	O
+unserer	O
+stationären	B-Treatment
+Behandlung	I-Treatment
+befand	O
+.	O
+
+Anamnese	O
+:	O
+
+Die	O
+Einweisung	B-Treatment
+erfolgte	O
+über	O
+unsere	O
+Notaufnahme	O
+.	O
+
+Die	O
+Patientin	B-Person
+stellte	O
+sich	O
+selbst	O
+in	O
+unserer	O
+Ambulanz	O
+vor	O
+.	O
+
+Eine	O
+deutliche	B-Measurement
+Beschwerdesymptomatik	B-Medical_condition
+bestand	O
+mit	O
+rechtseitigen	B-Measurement
+abdominellen	B-Body_part
+Schmerzen	B-Medical_condition
+,	O
+Übelkeit	B-Medical_condition
+und	O
+Obstipation	B-Medical_condition
+.	O
+
+Die	O
+Beschwerden	B-Medical_condition
+bestanden	O
+seit	B-Time_information
+26.04.2018	I-Time_information
+.	O
+
+Körperliche	O
+Untersuchung	O
+:	O
+
+Pulmo	B-Body_part
+:	O
+
+vesikuläres	B-Local_specification
+Atemgeräusch	B-Process
+bds	B-Local_specification
+.	I-Local_specification
+
+Neurologischer	O
+Befund	O
+:	O
+
+Pupillen	B-Body_part
+mittelweit	B-Measurement
+,	O
+prompt	B-Measurement
+auf	O
+Licht	O
+reagierend	B-Measurement
+,	O
+neurologische	O
+Untersuchung	O
+unauffällig	B-State_of_health
+.	O
+
+Reduzierter	B-Measurement
+AZ	B-Biological_parameter
+.	O
+
+Der	O
+systemische	B-Medical_specification
+Blutdruck	B-Process
+wird	O
+mit	O
+110/70	B-Measurement
+mmHg	I-Measurement
+gemessen	O
+.	O
+
+Frequenz	B-Biological_parameter
+90/min	B-Measurement
+.	O
+
+Pulmo	B-Body_part
+:	O
+
+VAG	B-Medical_condition
+.	O
+
+Sauerstoffsättigung	B-Process
+unter	O
+Raumluft	B-Biological_chemistry
+98	B-Measurement
+%	I-Measurement
+,	O
+Abdomen	B-Biological_chemistry
+:	O
+
+v.	O
+a.	O
+akute	B-Medical_specification
+Appendizitis	B-Medical_condition
+.	O
+
+Labor	O
+:	O
+
+Labordiagnostisch	O
+deutlich	B-Measurement
+erhöhte	I-Measurement
+Entzündungsparameter	B-Biological_chemistry
+.	O
+
+Die	O
+Entzündungswerte	B-Biological_chemistry
+sind	O
+auch	O
+in	O
+Bezug	O
+auf	O
+das	O
+CRP	B-Biological_chemistry
+deutlich	O
+erhöht	B-Measurement
+.	O
+
+Es	O
+fanden	O
+sich	O
+deutlich	B-Measurement
+erhöhte	I-Measurement
+Entzündungswerte	B-Biological_chemistry
+mit	O
+einem	O
+CRP	B-Biological_chemistry
+von	O
+50	B-Measurement
+mg/dl	I-Measurement
+.	O
+
+Therapie	B-Treatment
+und	O
+Verlauf	O
+:	O
+
+Es	O
+erfolgte	O
+notfallmäßige	O
+konventionelle	O
+offene	B-Medical_specification
+Appendektomie	B-Treatment
+am	O
+26.04.2018	B-Time_information
+.	O
+
+Zusätzlich	O
+erfolgte	O
+bilanzierte	B-Measurement
+Flüssigkeitsgabe	B-Process
+,	O
+entsprechende	O
+Schmerzanalgesie	B-Medical_condition
+sowie	O
+begleitenden	O
+Maßnahmen	O
+worunter	O
+sich	O
+der	O
+AZ	B-Biological_chemistry
+stabilisierte	O
+und	O
+der	O
+klinische	O
+Zustand	O
+besserte	O
+.	O
+
+Der	O
+postoperative	B-Treatment
+Verlauf	I-Treatment
+gestaltete	O
+sich	O
+komplikationslos	B-State_of_health
+.	O
+
+Aktuell	O
+ist	O
+der	O
+Hb-Wert	B-Biological_chemistry
+bei	O
+110	B-Measurement
+g/dl	I-Measurement
+.	O
+
+In	O
+der	O
+Phase	O
+der	O
+Immobilisierung	B-Treatment
+wurde	O
+eine	O
+Thromboseprophylaxe	B-Treatment
+mit	O
+niedermolekularen	B-Medical_specification
+Heparinen	B-Medication
+durchgeführt	O
+.	O
+
+Der	O
+postoperativer	O
+Verlauf	O
+gestaltete	O
+sich	O
+regelrecht	B-State_of_health
+.	O
+
+Weiterhin	O
+besserte	O
+sich	O
+unter	O
+den	O
+kreislaufunterstützenden	B-Treatment
+Maßnahmen	I-Treatment
+und	O
+supportiver	B-State_of_health
+Therapie	I-State_of_health
+der	O
+Allgemeinzustandes	B-Process
+deutlich	B-Measurement
+.	O
+
+Die	O
+engmaschige	O
+Pulsoxymetrie-Kontrolle	O
+zeigte	O
+eine	O
+ausreichende	B-Measurement
+Sauerstoffsättigung	B-Process
+.	O
+
+Auch	O
+die	O
+BZ-Werte	B-Biological_chemistry
+lagen	O
+weitgehend	O
+im	O
+zufriedenstellenden	B-State_of_health
+Bereich	I-State_of_health
+.	O
+
+Eine	O
+Besserung	B-State_of_health
+zeigte	O
+sich	O
+auch	O
+hinsichtlich	O
+der	O
+Entfieberung	B-Treatment
+.	O
+
+Erfreulicherweise	O
+zeigte	O
+sich	O
+ein	O
+Rückgang	B-Measurement
+der	O
+Entzündungsparameter	B-Medical_condition
+.	O
+
+Wir	O
+führten	O
+in	O
+Zusammenarbeit	O
+mit	O
+unserer	O
+physiotherapeutischen	O
+Abteilung	O
+nach	O
+dem	O
+Eingriff	O
+eine	O
+Frühmobilisation	B-Treatment
+unter	O
+Vollbelastung	B-Treatment
+durch	O
+.	O
+
+Zuletzt	B-Time_information
+war	O
+die	O
+Mobilisierung	B-Treatment
+in	I-Treatment
+Begleitung	I-Treatment
+der	O
+Physiotherapeutin	B-Person
+im	O
+Zimmer	O
+möglich	O
+.	O
+
+Die	O
+Entlassung	B-Treatment
+erfolgt	O
+in	O
+Ihre	O
+weitere	O
+ambulante	B-Treatment
+Betreuung	I-Treatment
+am	O
+03.05.2018	B-Time_information
+.	O
+
+Mit	O
+freundlichen	O
+,	O
+kollegialen	O
+Grüßen	O
+Emil	O
+Behring	O
+Oberarzt	O

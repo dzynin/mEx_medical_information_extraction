@@ -1,0 +1,58 @@
+Fühlt	O
+sich	O
+schwach	B-Medical_condition
+.	O
+
+RR	B-Process
+115/70	B-Measurement
+,	O
+Puls	B-Process
+88	B-Measurement
+,	O
+arrhythmisch	B-Medical_condition
+-	O
+Heute	O
+Vorstellung	B-Treatment
+bei	O
+Kardiologen	B-Person
+im	O
+Hause	O
+.	O
+
+Miktion	B-Process
+normal	B-State_of_health
+,	O
+keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Keine	O
+Ödeme	B-Medical_condition
+.	O
+
+Kein	O
+Diarrhoe	B-Medical_condition
+.	O
+
+Prograf-Spiegel	B-Biological_chemistry
+im	B-State_of_health
+Zielbereich	I-State_of_health
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+:	O
+
+unauffällig	B-State_of_health
+.	O
+
+Blase	B-Body_part
+:	O
+
+kein	O
+Restharn	B-Medical_condition
+nach	O
+Miktion	B-Process
+.	O

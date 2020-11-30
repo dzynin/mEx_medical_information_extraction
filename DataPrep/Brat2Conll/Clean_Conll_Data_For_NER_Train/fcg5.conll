@@ -1,0 +1,41 @@
+Wohlbefinden	B-State_of_health
+,	O
+keine	O
+Infekte.keine	B-Medical_condition
+GI-Symptome	I-Medical_condition
+.	O
+
+Hat	O
+Gewicht	B-Biological_parameter
+zugenommen	B-Measurement
+.	O
+
+RR	B-Process
+weiter	O
+eher	O
+hypotensiv	B-Medical_condition
+,	O
+aber	O
+gut	B-State_of_health
+toleriert	I-State_of_health
+.	O
+
+Bei	O
+abendlichen	O
+Ödemen	B-Medical_condition
+Torem	B-Medication
+verordnet	B-Treatment
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+Dilatation	B-Treatment
+des	O
+NBKS	B-Body_part
+eher	O
+ruecklaeufig	B-Measurement
+.	O

@@ -1,0 +1,168 @@
+T0	Person 27 31	Arzt
+T1	Person 71 78	Patient
+T2	Medical_condition 81 88	Schadow
+T3	Person 91 97	Hans .
+T4	Time_information 98 107	29.4.2018
+T5	State_of_health 168 173	o. g.
+T6	Person 174 181	Patient
+T7	Time_information 202 216	seit 23.4.2018
+T8	Treatment 220 242	stationärer Behandlung
+T9	Treatment 245 254	Diagnosen
+T10	Diaglab_procedure 257 275	Verlegungsdiagnose
+T11	Measurement 278 284	Akutes
+T12	Medical_condition 285 292	Abdomen
+T13	Medical_condition 301 313	Appandizitis
+T14	Treatment 325 334	Diagnosen
+T15	Medical_condition 341 351	Hypertonie
+T16	Time_information 352 358	I10.00
+T17	Medical_condition 361 391	Kardiovaskuläre Risikofaktoren
+T18	Medical_condition 394 407	Nikotinabusus
+T19	Measurement 408 413	F17.1
+T20	Diaglab_procedure 416 420	COPD
+T21	Measurement 421 427	J44.99
+T22	Medication 437 447	Medikation
+T23	Medication 450 458	Ramipril
+T24	Dosing 461 466	z. B.
+T25	Medication 467 473	Deli x
+T26	Dosing 474 479	10 mg
+T27	Dosing 484 498	1 - 0 - 0 - 0.
+T28	Medication 499 515	Tiotropiumbromid
+T29	Medication 524 531	Spiriva
+T30	Medical_condition 537 540	Hub
+T31	Dosing 545 555	1 - 0 - 1-
+T32	Medication 590 616	wirkstoffgleiche Präparate
+T33	Treatment 669 706	Stationäre Aufnahme in unserer Klinik
+T34	Time_information 710 720	23.04.2018
+T35	Medical_condition 725 742	COPD-Exazerbation
+T36	Measurement 745 753	65 jährg
+T37	Person 756 761	Pat .
+T38	Body_part 762 773	Abdominelle
+T39	Medical_condition 774 785	Beschwerden
+T40	Measurement 790 802	kolikartigen
+T41	Medical_condition 803 812	Schmerzen
+T42	Process 823 832	Stuhlgang
+T43	Time_information 836 846	28.04.2018
+T44	Medical_condition 849 857	Übelkeit
+T45	Medical_condition 862 871	Erbrechen
+T46	Body_part 882 889	Abdomen
+T47	Measurement 890 899	bretthart
+T48	Medical_condition 902 916	Abwehrspannung
+T49	Medical_condition 919 931	Druckschmerz
+T50	Local_specification 935 961	unteren rechten Quadranten
+T51	Local_specification 964 979	Kontralateraler
+T52	Medical_condition 980 993	Loslasschmerz
+T53	Medical_condition 996 1009	Darmgeräusche
+T54	Measurement 1016 1029	auskultierbar
+T55	Local_specification 1030 1051	über allen Quadranten
+T56	Diaglab_procedure 1054 1071	Labordiagnostisch
+T57	Measurement 1072 1079	erhöhte
+T58	Biological_chemistry 1080 1090	Leukozyten
+T59	Biological_chemistry 1095 1098	CRP
+T60	Person 1123 1134	Mitarbeiter
+T61	Person 1135 1149	Dr. Langenbeck
+T62	Time_information 1189 1199	29.04.2018
+T63	Treatment 1231 1241	Diagnostik
+T64	Treatment 1246 1256	Behandlung
+T65	Medical_condition 1368 1383	Rudolph Virchow
+T66	Person 1386 1394	Chefarzt
+T67	Person 1397 1406	Dr. med .
+T68	Person 1407 1418	Robert Koch
+T69	Person 1421 1429	Oberarzt
+T70	Person 1443 1450	Dr. med
+T71	Person 1453 1457	Paul
+T72	Person 1468 1480	Stationsarzt
+T73	Person 1481 1487	Ärztin
+R1	has_time_info arg1:T5 arg2:T6
+R2	treats arg1:T7 arg2:T5
+R3	has_time_info arg1:T7 arg2:T6
+R11	has_measure arg1:T11 arg2:T11
+R12	has_measure arg1:T12 arg2:T11
+R13	hasstate arg1:T11 arg2:T12
+R16	has_time_info arg1:T15 arg2:T15
+R17	shows arg1:T20 arg2:T20
+R26	has_dosing arg1:T23 arg2:T23
+R27	is_linked_to arg1:T23 arg2:T24
+R28	has_dosing arg1:T23 arg2:T25
+R29	has_dosing arg1:T23 arg2:T26
+R30	is_linked_to arg1:T23 arg2:T27
+R31	is_linked_to arg1:T23 arg2:T28
+R32	is_linked_to arg1:T23 arg2:T29
+R33	has_dosing arg1:T24 arg2:T23
+R34	has_dosing arg1:T25 arg2:T23
+R35	has_dosing arg1:T23 arg2:T26
+R36	has_dosing arg1:T27 arg2:T23
+R37	has_dosing arg1:T28 arg2:T23
+R38	has_dosing arg1:T29 arg2:T23
+R39	has_dosing arg1:T24 arg2:T25
+R40	has_dosing arg1:T24 arg2:T26
+R41	is_linked_to arg1:T24 arg2:T27
+R42	is_linked_to arg1:T24 arg2:T28
+R43	treats arg1:T24 arg2:T29
+R44	has_dosing arg1:T25 arg2:T26
+R45	has_dosing arg1:T27 arg2:T25
+R46	has_dosing arg1:T28 arg2:T25
+R47	has_dosing arg1:T29 arg2:T25
+R48	has_dosing arg1:T27 arg2:T26
+R49	has_dosing arg1:T28 arg2:T26
+R50	has_dosing arg1:T29 arg2:T26
+R51	consequence arg1:T27 arg2:T28
+R52	causes arg1:T27 arg2:T29
+R53	causes arg1:T28 arg2:T29
+R54	has_time_info arg1:T34 arg2:T33
+R55	is_located arg1:T38 arg2:T38
+R56	has_measure arg1:T38 arg2:T39
+R57	is_located arg1:T40 arg2:T38
+R58	is_located arg1:T41 arg2:T38
+R59	has_time_info arg1:T38 arg2:T42
+R60	hasstate arg1:T38 arg2:T43
+R61	hasstate arg1:T38 arg2:T44
+R62	has_measure arg1:T38 arg2:T39
+R63	is_linked_to arg1:T38 arg2:T40
+R64	affects arg1:T38 arg2:T41
+R65	has_time_info arg1:T38 arg2:T42
+R66	is_linked_to arg1:T38 arg2:T43
+R67	is_linked_to arg1:T38 arg2:T44
+R68	has_measure arg1:T40 arg2:T39
+R69	has_measure arg1:T41 arg2:T39
+R70	has_time_info arg1:T39 arg2:T42
+R71	has_measure arg1:T43 arg2:T39
+R72	has_measure arg1:T44 arg2:T39
+R73	hasstate arg1:T41 arg2:T40
+R74	has_time_info arg1:T40 arg2:T42
+R75	is_linked_to arg1:T40 arg2:T43
+R76	consequence arg1:T40 arg2:T44
+R77	has_time_info arg1:T41 arg2:T42
+R78	hasstate arg1:T41 arg2:T43
+R79	is_linked_to arg1:T41 arg2:T44
+R80	has_time_info arg1:T43 arg2:T42
+R81	has_time_info arg1:T44 arg2:T42
+R82	hasstate arg1:T44 arg2:T43
+R83	hasstate arg1:T47 arg2:T48
+R84	is_located arg1:T47 arg2:T49
+R85	is_located arg1:T48 arg2:T49
+R86	is_located arg1:T51 arg2:T51
+R87	is_located arg1:T52 arg2:T51
+R88	has_measure arg1:T51 arg2:T53
+R89	is_located arg1:T51 arg2:T54
+R90	is_linked_to arg1:T51 arg2:T52
+R91	has_measure arg1:T51 arg2:T53R92	is_located arg1:T51 arg2:T54
+R93	has_measure arg1:T52 arg2:T53
+R94	is_located arg1:T52 arg2:T54
+R95	is_located arg1:T53 arg2:T54
+R96	shows arg1:T56 arg2:T56
+R97	examines arg1:T56 arg2:T57
+R98	examines arg1:T56 arg2:T58
+R99	has_measure arg1:T57 arg2:T56
+R100	has_measure arg1:T58 arg2:T56
+R101	is_linked_to arg1:T58 arg2:T57
+R102	affects arg1:T60 arg2:T60
+R103	has_time_info arg1:T60 arg2:T61
+R104	affects arg1:T60 arg2:T62
+R105	affects arg1:T63 arg2:T60
+R106	has_time_info arg1:T60 arg2:T61
+R107	affects arg1:T60 arg2:T62
+R108	affects arg1:T60 arg2:T63
+R109	has_time_info arg1:T62 arg2:T61
+R110	has_time_info arg1:T63 arg2:T61
+R111	affects arg1:T62 arg2:T63
+R112	affects arg1:T72 arg2:T73

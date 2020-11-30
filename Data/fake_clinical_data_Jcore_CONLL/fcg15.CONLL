@@ -1,0 +1,59 @@
+1	Fühlt	Fühlt	VVFIN	VVFIN	_	_	_	0	_	_	_
+2	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+3	schwach	schwach	ADJD	ADJD	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	115/70	115/70	CARD	CARD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Puls	Puls	NN	NN	_	_	_	0	_	_	_
+5	88	88	CARD	CARD	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	arrhythmisch	arrhythmisch	ADJD	ADJD	_	_	_	0	_	_	_
+8	-	-	$(	$(	_	_	_	0	_	_	_
+9	Heute	Heute	ADJA	ADJA	_	_	_	0	_	_	_
+10	Vorstellung	Vorstellung	NN	NN	_	_	_	0	_	_	_
+11	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+12	Kardiologen	Kardiologen	NN	NN	_	_	_	0	_	_	_
+13	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+14	Hause	Hause	NN	NN	_	_	_	0	_	_	_
+15	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Miktion	Miktion	NN	NN	_	_	_	0	_	_	_
+2	normal	normal	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+5	Dysurie	Dysurie	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Ödeme	Ödeme	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Diarrhoe	Diarrhoe	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Prograf-Spiegel	Prograf-Spiegel	NN	NN	_	_	_	0	_	_	_
+2	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+3	Zielbereich	Zielbereich	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Blase	Blase	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Restharn	Restharn	NN	NN	_	_	_	0	_	_	_
+3	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+4	Miktion	Miktion	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+

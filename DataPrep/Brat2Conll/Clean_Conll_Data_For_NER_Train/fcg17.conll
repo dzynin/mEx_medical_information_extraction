@@ -1,0 +1,30 @@
+Befinden	B-Process
+seit	B-Time_information
+Entlassung	I-Time_information
+verschlechtert	B-State_of_health
+.	O
+
+Klagt	O
+über	O
+Übelkeit	B-Medical_condition
+.	O
+
+Krea	B-Biological_chemistry
+zu	B-Medical_condition
+hoch	I-Medical_condition
+,	O
+kurzfristige	O
+Kontrolle	O
+.	O
+
+Tacrolimus-Spiegel	B-Biological_chemistry
+in	B-State_of_health
+Ordnung	I-State_of_health
+.	O
+
+TM	B-Biological_parameter
+auf	O
+2	B-Measurement
+Liter	I-Measurement
+erhöhen	B-Treatment
+.	O

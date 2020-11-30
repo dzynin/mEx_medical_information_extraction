@@ -1,0 +1,48 @@
+T0	State_of_health 0 13	Geht ganz gut
+T1	Medical_condition 16 30	Magenschmerzen
+T2	Measurement 31 43	ruecklaeufig
+T3	Biological_chemistry 46 55	Kreatinin
+T4	Measurement 63 75	ruecklaeufig
+T5	Medical_condition 84 90	Oedeme
+T6	Biological_parameter 93 100	Gewicht
+T7	State_of_health 101 107	stabil
+T8	Process 110 112	RR
+T9	Measurement 113 122	sehr hoch
+T10	State_of_health 145 151	besser
+T11	Medication 154 161	Fragmin
+T12	Treatment 162 171	abgesetzt
+T13	Diaglab_procedure 174 181	Sono-Tx
+T14	State_of_health 184 196	unauffaellig
+T15	Medical_condition 204 208	Stau
+T16	Medical_condition 211 221	Lymphozele
+T17	Measurement 222 232	regredient
+R1	has_measure arg1:T1 arg2:T1
+R2	hasstate arg1:T2 arg2:T1
+R3	has_measure arg1:T1 arg2:T3
+R4	hasstate arg1:T1 arg2:T4
+R5	is_linked_to arg1:T1 arg2:T5
+R6	hasstate arg1:T1 arg2:T6
+R7	has_measure arg1:T2 arg2:T1
+R8	has_measure arg1:T3 arg2:T1
+R9	has_measure arg1:T4 arg2:T1
+R10	has_measure arg1:T5 arg2:T1
+R11	has_measure arg1:T6 arg2:T1
+R12	has_measure arg1:T2 arg2:T3
+R13	hasstate arg1:T2 arg2:T4
+R14	is_linked_to arg1:T5 arg2:T2
+R15	hasstate arg1:T2 arg2:T6
+R16	has_measure arg1:T4 arg2:T3
+R17	has_measure arg1:T5 arg2:T3
+R18	has_measure arg1:T6 arg2:T3R19	is_specified arg1:T4 arg2:T5
+R20	hasstate arg1:T4 arg2:T6
+R21	hasstate arg1:T5 arg2:T6
+R22	has_measure arg1:T8 arg2:T8
+R23	hasstate arg1:T8 arg2:T9
+R24	has_measure arg1:T9 arg2:T8
+R25	involves arg1:T11 arg2:T11
+R30	hasstate arg1:T14 arg2:T14
+R31	hasstate arg1:T15 arg2:T14
+R32	has_measure arg1:T14 arg2:T16
+R33	hasstate arg1:T15 arg2:T14
+R34	has_measure arg1:T14 arg2:T16
+R35	has_measure arg1:T15 arg2:T16

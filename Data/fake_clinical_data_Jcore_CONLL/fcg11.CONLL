@@ -1,0 +1,272 @@
+1	﻿An	﻿An	ENUM	ENUM	_	_	_	0	_	_	_
+2	den	den	ART	ART	_	_	_	0	_	_	_
+3	weiterbehandelnden	weiterbehandelnden	ADJA	ADJA	_	_	_	0	_	_	_
+4	Arzt	Arzt	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Allgemeinchirurgie	Allgemeinchirurgie	NN	NN	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kurzarztbrief	Kurzarztbrief	NN	NN	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Patient	Patient	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Schadow	Schadow	NN	NN	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	Hans	Hans	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	29.4.2018	29.4.2018	CARD	CARD	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sehr	Sehr	ADV	ADV	_	_	_	0	_	_	_
+2	geehrte	geehrte	ADJA	ADJA	_	_	_	0	_	_	_
+3	Frau	Frau	NN	NN	_	_	_	0	_	_	_
+4	Kollegin	Kollegin	NN	NN	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	sehr	sehr	ADV	ADV	_	_	_	0	_	_	_
+7	geehrter	geehrter	ADJA	ADJA	_	_	_	0	_	_	_
+8	Herr	Herr	NN	NN	_	_	_	0	_	_	_
+9	Kollege	Kollege	NN	NN	_	_	_	0	_	_	_
+10	,	,	$,	$,	_	_	_	0	_	_	_
+11	o.	o.	ADV	ADV	_	_	_	0	_	_	_
+12	g.	g.	ADJA	ADJA	_	_	_	0	_	_	_
+13	Patient	Patient	NN	NN	_	_	_	0	_	_	_
+14	befand	befand	VVFIN	VVFIN	_	_	_	0	_	_	_
+15	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+16	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+17	uns	uns	PPER	PPER	_	_	_	0	_	_	_
+18	seit	seit	APPR	APPR	_	_	_	0	_	_	_
+19	23.4.2018	23.4.2018	CARD	CARD	_	_	_	0	_	_	_
+20	in	in	APPR	APPR	_	_	_	0	_	_	_
+21	stationärer	stationärer	ADJA	ADJA	_	_	_	0	_	_	_
+22	Behandlung	Behandlung	NN	NN	_	_	_	0	_	_	_
+23	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Diagnosen	Diagnosen	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Verlegungsdiagnose	Verlegungsdiagnose	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Akutes	Akutes	ADJA	ADJA	_	_	_	0	_	_	_
+2	Abdomen	Abdomen	NN	NN	_	_	_	0	_	_	_
+3	(	(	$(	$(	_	_	_	0	_	_	_
+4	v.	v.	APPR	APPR	_	_	_	0	_	_	_
+5	a.	a.	ADJA	ADJA	_	_	_	0	_	_	_
+6	Appandizitis	Appandizitis	NN	NN	_	_	_	0	_	_	_
+7	)	)	$(	$(	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Weiter	Weiter	ADJA	ADJA	_	_	_	0	_	_	_
+2	Diagnosen	Diagnosen	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	art	art	APPR	APPR	_	_	_	0	_	_	_
+2	Hypertonie	Hypertonie	NN	NN	_	_	_	0	_	_	_
+3	I10.00	I10.00	XY	XY	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kardiovaskuläre	Kardiovaskuläre	ADJA	ADJA	_	_	_	0	_	_	_
+2	Risikofaktoren	Risikofaktoren	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Nikotinabusus	Nikotinabusus	NN	NN	_	_	_	0	_	_	_
+2	F17.1	F17.1	XY	XY	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	COPD	COPD	NE	NE	_	_	_	0	_	_	_
+2	J44.99	J44.99	XY	XY	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Letzte	Letzte	ADJA	ADJA	_	_	_	0	_	_	_
+2	Medikation	Medikation	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Ramipril	Ramipril	NE	NE	_	_	_	0	_	_	_
+2	(	(	$(	$(	_	_	_	0	_	_	_
+3	z.	z.	APPRART	APPRART	_	_	_	0	_	_	_
+4	B.	B.	NN	NN	_	_	_	0	_	_	_
+5	Deli	Deli	NN	NN	_	_	_	0	_	_	_
+6	x	x	XY	XY	_	_	_	0	_	_	_
+7	10	10	CARD	CARD	_	_	_	0	_	_	_
+8	mg	mg	NN	NN	_	_	_	0	_	_	_
+9	)	)	$(	$(	_	_	_	0	_	_	_
+10	=	=	XY	XY	_	_	_	0	_	_	_
+11	1	1	CARD	CARD	_	_	_	0	_	_	_
+12	-	-	$(	$(	_	_	_	0	_	_	_
+13	0	0	CARD	CARD	_	_	_	0	_	_	_
+14	-	-	$(	$(	_	_	_	0	_	_	_
+15	0	0	CARD	CARD	_	_	_	0	_	_	_
+16	-	-	$(	$(	_	_	_	0	_	_	_
+17	0.	0.	ENUM	ENUM	_	_	_	0	_	_	_
+18	Tiotropiumbromid	Tiotropiumbromid	NN	NN	_	_	_	0	_	_	_
+19	(	(	$(	$(	_	_	_	0	_	_	_
+20	z.	z.	APPRART	APPRART	_	_	_	0	_	_	_
+21	B.	B.	NN	NN	_	_	_	0	_	_	_
+22	Spiriva	Spiriva	NE	NE	_	_	_	0	_	_	_
+23	22ug	22ug	CARD	CARD	_	_	_	0	_	_	_
+24	Hub	Hub	NN	NN	_	_	_	0	_	_	_
+25	)	)	$(	$(	_	_	_	0	_	_	_
+26	=	=	XY	XY	_	_	_	0	_	_	_
+27	1	1	CARD	CARD	_	_	_	0	_	_	_
+28	-	-	$(	$(	_	_	_	0	_	_	_
+29	0	0	CARD	CARD	_	_	_	0	_	_	_
+30	-	-	$(	$(	_	_	_	0	_	_	_
+31	1-	1-	TRUNC	TRUNC	_	_	_	0	_	_	_
+32	0.	0.	ENUM	ENUM	_	_	_	0	_	_	_
+33	Selbstverständlich	Selbstverständlich	ADV	ADV	_	_	_	0	_	_	_
+34	können	können	VMFIN	VMFIN	_	_	_	0	_	_	_
+35	auch	auch	ADV	ADV	_	_	_	0	_	_	_
+36	wirkstoffgleiche	wirkstoffgleiche	ADJA	ADJA	_	_	_	0	_	_	_
+37	Präparate	Präparate	NN	NN	_	_	_	0	_	_	_
+38	anderer	anderer	ADJA	ADJA	_	_	_	0	_	_	_
+39	Hersteller	Hersteller	NN	NN	_	_	_	0	_	_	_
+40	verwendet	verwendet	VVPP	VVPP	_	_	_	0	_	_	_
+41	werden	werden	VAINF	VAINF	_	_	_	0	_	_	_
+42	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Bemerkungen	Bemerkungen	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Stationäre	Stationäre	ADJA	ADJA	_	_	_	0	_	_	_
+2	Aufnahme	Aufnahme	NN	NN	_	_	_	0	_	_	_
+3	in	in	APPR	APPR	_	_	_	0	_	_	_
+4	unserer	unserer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+5	Klinik	Klinik	NN	NN	_	_	_	0	_	_	_
+6	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+7	23.04.2018	23.04.2018	CARD	CARD	_	_	_	0	_	_	_
+8	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+9	COPD-Exazerbation	COPD-Exazerbation	NN	NN	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	65	65	CARD	CARD	_	_	_	0	_	_	_
+2	jährg	jährg	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Pat	Pat	NN	NN	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Abdominelle	Abdominelle	ADJA	ADJA	_	_	_	0	_	_	_
+2	Beschwerden	Beschwerden	NN	NN	_	_	_	0	_	_	_
+3	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+4	kolikartigen	kolikartigen	ADJA	ADJA	_	_	_	0	_	_	_
+5	Schmerzen	Schmerzen	NN	NN	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	letzter	letzter	ADJA	ADJA	_	_	_	0	_	_	_
+8	Stuhlgang	Stuhlgang	NN	NN	_	_	_	0	_	_	_
+9	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+10	28.04.2018	28.04.2018	CARD	CARD	_	_	_	0	_	_	_
+11	,	,	$,	$,	_	_	_	0	_	_	_
+12	Übelkeit	Übelkeit	NN	NN	_	_	_	0	_	_	_
+13	und	und	KON	KON	_	_	_	0	_	_	_
+14	Erbrechen	Erbrechen	NN	NN	_	_	_	0	_	_	_
+15	.	.	$.	$.	_	_	_	0	_	_	_
+16	Bef	Bef	NN	NN	_	_	_	0	_	_	_
+17	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Abdomen	Abdomen	NN	NN	_	_	_	0	_	_	_
+2	bretthart	bretthart	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Abwehrspannung	Abwehrspannung	NN	NN	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	Druckschmerz	Druckschmerz	NN	NN	_	_	_	0	_	_	_
+7	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+8	unteren	unteren	ADJA	ADJA	_	_	_	0	_	_	_
+9	rechten	rechten	ADJA	ADJA	_	_	_	0	_	_	_
+10	Quadranten	Quadranten	NN	NN	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kontralateraler	Kontralateraler	ADJA	ADJA	_	_	_	0	_	_	_
+2	Loslasschmerz	Loslasschmerz	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Darmgeräusche	Darmgeräusche	NN	NN	_	_	_	0	_	_	_
+5	nicht	nicht	PTKNEG	PTKNEG	_	_	_	0	_	_	_
+6	auskultierbar	auskultierbar	ADJD	ADJD	_	_	_	0	_	_	_
+7	über	über	APPR	APPR	_	_	_	0	_	_	_
+8	allen	allen	PIDAT	PIDAT	_	_	_	0	_	_	_
+9	Quadranten	Quadranten	NN	NN	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Labordiagnostisch	Labordiagnostisch	ADJD	ADJD	_	_	_	0	_	_	_
+2	erhöhte	erhöhte	ADJA	ADJA	_	_	_	0	_	_	_
+3	Leukozyten	Leukozyten	NN	NN	_	_	_	0	_	_	_
+4	und	und	KON	KON	_	_	_	0	_	_	_
+5	CRP	CRP	NE	NE	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Wie	Wie	PWAV	PWAV	_	_	_	0	_	_	_
+2	bereits	bereits	ADV	ADV	_	_	_	0	_	_	_
+3	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+4	Ihrem	Ihrem	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+5	Mitarbeiter	Mitarbeiter	NN	NN	_	_	_	0	_	_	_
+6	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+7	Langenbeck	Langenbeck	NN	NN	_	_	_	0	_	_	_
+8	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+9	besprochen	besprochen	ADJD	ADJD	_	_	_	0	_	_	_
+10	erfolgt	erfolgt	VVFIN	VVFIN	_	_	_	0	_	_	_
+11	die	die	ART	ART	_	_	_	0	_	_	_
+12	Verlegung	Verlegung	NN	NN	_	_	_	0	_	_	_
+13	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+14	29.04.2018	29.04.2018	CARD	CARD	_	_	_	0	_	_	_
+15	in	in	APPR	APPR	_	_	_	0	_	_	_
+16	Ihre	Ihre	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+17	Abteilung	Abteilung	NN	NN	_	_	_	0	_	_	_
+18	zur	zur	APPRART	APPRART	_	_	_	0	_	_	_
+19	weiteren	weiteren	ADJA	ADJA	_	_	_	0	_	_	_
+20	Diagnostik	Diagnostik	NN	NN	_	_	_	0	_	_	_
+21	und	und	KON	KON	_	_	_	0	_	_	_
+22	Behandlung	Behandlung	NN	NN	_	_	_	0	_	_	_
+23	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Weitere	Weitere	ADJA	ADJA	_	_	_	0	_	_	_
+2	Befunde	Befunde	NN	NN	_	_	_	0	_	_	_
+3	anbei	anbei	ADV	ADV	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Wir	Wir	PPER	PPER	_	_	_	0	_	_	_
+2	danken	danken	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	für	für	APPR	APPR	_	_	_	0	_	_	_
+4	die	die	ART	ART	_	_	_	0	_	_	_
+5	prompte	prompte	ADJA	ADJA	_	_	_	0	_	_	_
+6	Übernahme	Übernahme	NN	NN	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Mit	Mit	APPR	APPR	_	_	_	0	_	_	_
+2	freundlichen	freundlichen	ADJA	ADJA	_	_	_	0	_	_	_
+3	kollegialen	kollegialen	ADJA	ADJA	_	_	_	0	_	_	_
+4	Grüßen	Grüßen	NN	NN	_	_	_	0	_	_	_
+5	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+6	med	med	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Rudolph	Rudolph	APPR	APPR	_	_	_	0	_	_	_
+2	Virchow	Virchow	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Chefarzt	Chefarzt	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+2	med	med	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Robert	Robert	VVFIN	VVFIN	_	_	_	0	_	_	_
+2	Koch	Koch	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Oberarzt/Oberärztin	Oberarzt/Oberärztin	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Dr.	Dr.	NN	NN	_	_	_	0	_	_	_
+2	med	med	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Paul	Paul	NN	NN	_	_	_	0	_	_	_
+2	Ehrlich	Ehrlich	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Stationsarzt/Ärztin	Stationsarzt/Ärztin	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+

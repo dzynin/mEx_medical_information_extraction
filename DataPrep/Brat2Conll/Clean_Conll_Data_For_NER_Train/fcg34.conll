@@ -1,0 +1,62 @@
+Heute	O
+erste	O
+ambulante	B-Treatment
+Vorstellung	I-Treatment
+nach	O
+NTx	B-Treatment
+am	O
+01.01.2001	B-Time_information
+.	O
+
+Subjektives	B-State_of_health
+Wohlbefinden	I-State_of_health
+,	O
+keine	O
+Wundschmerzen	B-Medical_condition
+.	O
+
+Diurese	B-Process
+gut	B-State_of_health
+.	O
+
+Keine	O
+Ödeme	B-Medical_condition
+.	O
+
+Kein	O
+Dyspnoe	B-Medical_condition
+.	O
+
+RR	B-Process
+im	O
+Normbereich.Medikation	B-State_of_health
+ausführlich	O
+besprochen	O
+.	O
+
+RR-Messgerät	B-Process
+für	O
+zuhause	O
+verschrieben	B-Treatment
+.	O
+
+Sono	O
+:	O
+
+große	B-Measurement
+Transplantat-Niere	B-Body_part
+ohne	O
+Stau	B-Medical_condition
+.	O
+
+Keine	O
+freie	B-Medical_condition
+Flüßigkeit	I-Medical_condition
+perirenal	B-Local_specification
+.	O
+
+Blase	B-Body_part
+nach	O
+Miktion	B-Process
+leer	B-Measurement
+.	O

@@ -1,0 +1,48 @@
+1	Geht	Geht	NN	NN	_	_	_	0	_	_	_
+2	soweit	soweit	ADV	ADV	_	_	_	0	_	_	_
+3	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+4	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+5	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+6	oefters	oefters	ADV	ADV	_	_	_	0	_	_	_
+7	verstopfte	verstopfte	ADJA	ADJA	_	_	_	0	_	_	_
+8	oder	oder	KON	KON	_	_	_	0	_	_	_
+9	laufende	laufende	ADJA	ADJA	_	_	_	0	_	_	_
+10	Nase	Nase	NN	NN	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Neu	Neu	APPR	APPR	_	_	_	0	_	_	_
+2	Blopress	Blopress	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Appetit	Appetit	NN	NN	_	_	_	0	_	_	_
+2	(	(	$(	$(	_	_	_	0	_	_	_
+3	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+4	)	)	$(	$(	_	_	_	0	_	_	_
+5	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Cymeven	Cymeven	NE	NE	_	_	_	0	_	_	_
+2	noch	noch	ADV	ADV	_	_	_	0	_	_	_
+3	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+4	Ende	Ende	NN	NN	_	_	_	0	_	_	_
+5	nehmen	nehmen	VVINF	VVINF	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Oedeme	Oedeme	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	gute	gute	ADJA	ADJA	_	_	_	0	_	_	_
+5	Diurese	Diurese	NN	NN	_	_	_	0	_	_	_
+6	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+7	Angstzustaende	Angstzustaende	ADJA	ADJA	_	_	_	0	_	_	_
+8	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+9	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+

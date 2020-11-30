@@ -1,0 +1,14 @@
+T0	State_of_health 0 24	Subjektives Wohlbefinden
+T1	Medical_condition 32 40	Übelkeit
+T2	Medical_condition 48 57	Erbrechen
+T3	Diaglab_procedure 60 64	Sono
+T4	Body_part 67 75	Tx-Niere
+T5	State_of_health 76 87	unauffällig
+T6	Medical_condition 99 109	Lymphozele
+T7	Measurement 110 124	größenkonstant
+T8	Measurement 127 135	5 x 5 cm
+R1	is_linked_to arg1:T1 arg2:T1
+R4	hasstate arg1:T4 arg2:T4
+R5	has_measure arg1:T6 arg2:T6
+R6	has_measure arg1:T6 arg2:T7
+R7	has_measure arg1:T6 arg2:T7

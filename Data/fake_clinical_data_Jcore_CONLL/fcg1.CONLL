@@ -1,0 +1,50 @@
+1	Insgesamt	Insgesamt	ADV	ADV	_	_	_	0	_	_	_
+2	weitere	weitere	ADJA	ADJA	_	_	_	0	_	_	_
+3	langsame	langsame	ADJA	ADJA	_	_	_	0	_	_	_
+4	Befundbesserung	Befundbesserung	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Dysurie	Dysurie	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Diurese	Diurese	NN	NN	_	_	_	0	_	_	_
+5	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+8	Infekte	Infekte	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Gewicht	Gewicht	NN	NN	_	_	_	0	_	_	_
+2	stabil	stabil	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Bei	Bei	APPR	APPR	_	_	_	0	_	_	_
+2	niedrigem	niedrigem	ADJA	ADJA	_	_	_	0	_	_	_
+3	Fk-Spiegel	Fk-Spiegel	NN	NN	_	_	_	0	_	_	_
+4	heute	heute	ADV	ADV	_	_	_	0	_	_	_
+5	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+6	Urbasonreduktion	Urbasonreduktion	NN	NN	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Neu	Neu	APPR	APPR	_	_	_	0	_	_	_
+2	Benzbromaron	Benzbromaron	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Gute	Gute	ADJA	ADJA	_	_	_	0	_	_	_
+2	Nierenfunktion	Nierenfunktion	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+5	Ödeme	Ödeme	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	noch	noch	ADV	ADV	_	_	_	0	_	_	_
+3	nicht	nicht	PTKNEG	PTKNEG	_	_	_	0	_	_	_
+4	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+5	Normbereich	Normbereich	NN	NN	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	deshalb	deshalb	PROAV	PROAV	_	_	_	0	_	_	_
+8	Nitrendipin	Nitrendipin	NN	NN	_	_	_	0	_	_	_
+9	erhöht	erhöht	VVPP	VVPP	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+

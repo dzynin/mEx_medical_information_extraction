@@ -1,0 +1,53 @@
+1	Abnehmende	Abnehmende	ADJA	ADJA	_	_	_	0	_	_	_
+2	Dysurie	Dysurie	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Miktion	Miktion	NN	NN	_	_	_	0	_	_	_
+5	haeufig	haeufig	ADJD	ADJD	_	_	_	0	_	_	_
+6	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+7	zunehmender	zunehmender	ADJA	ADJA	_	_	_	0	_	_	_
+8	Blasenkapazitaet	Blasenkapazitaet	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Hat	Hat	VAFIN	VAFIN	_	_	_	0	_	_	_
+2	jetzt	jetzt	ADV	ADV	_	_	_	0	_	_	_
+3	etwas	etwas	ADV	ADV	_	_	_	0	_	_	_
+4	Rueckenschmerzen	Rueckenschmerzen	NN	NN	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	schon	schon	ADV	ADV	_	_	_	0	_	_	_
+7	laenger	laenger	ADJD	ADJD	_	_	_	0	_	_	_
+8	bekannt	bekannt	ADJD	ADJD	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+3	Hause	Hause	NN	NN	_	_	_	0	_	_	_
+4	vor	vor	APPR	APPR	_	_	_	0	_	_	_
+5	Med-Einnahme	Med-Einnahme	NN	NN	_	_	_	0	_	_	_
+6	teilweise	teilweise	ADV	ADV	_	_	_	0	_	_	_
+7	zu	zu	PTKZU	PTKZU	_	_	_	0	_	_	_
+8	hoch	hoch	ADJD	ADJD	_	_	_	0	_	_	_
+9	,	,	$,	$,	_	_	_	0	_	_	_
+10	Beloc	Beloc	NE	NE	_	_	_	0	_	_	_
+11	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+12	gesteigert	gesteigert	VVPP	VVPP	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+3	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+4	diskret	diskret	ADJD	ADJD	_	_	_	0	_	_	_
+5	dilatiertes	dilatiertes	ADJA	ADJA	_	_	_	0	_	_	_
+6	NBKS	NBKS	NN	NN	_	_	_	0	_	_	_
+7	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+8	,	,	$,	$,	_	_	_	0	_	_	_
+9	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+10	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+11	,	,	$,	$,	_	_	_	0	_	_	_
+12	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+13	perirenale	perirenale	ADJA	ADJA	_	_	_	0	_	_	_
+14	Flüssigkeit	Flüssigkeit	NN	NN	_	_	_	0	_	_	_
+15	.	.	$.	$.	_	_	_	0	_	_	_
+

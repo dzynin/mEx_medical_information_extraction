@@ -1,0 +1,73 @@
+T1	Measurement 0 10	Abnehmende
+T2	Medical_condition 11 18	Dysurie
+T3	Process 20 27	Miktion
+T4	Measurement 28 35	haeufig
+T5	Measurement 40 51	zunehmender
+T6	Body_part 52 68	Blasenkapazitaet
+T7	Medical_condition 86 102	Rueckenschmerzen
+T8	Process 127 129	RR
+T9	Treatment 143 155	Med-Einnahme
+T10	Medical_condition 166 173	zu hoch
+T11	Medication 175 180	Beloc
+T12	Treatment 188 198	gesteigert
+T13	Diaglab_procedure 200 204	Sono
+T14	Body_part 206 214	Tx-Niere
+T15	Measurement 223 242	diskret dilatiertes
+T16	Body_part 243 247	NBKS
+T17	State_of_health 248 260	unauffaellig
+T18	Medical_condition 267 271	Stau
+T19	Local_specification 279 289	perirenale
+T20	Body_fluid 290 301	Flüssigkeit
+R1	has_measure arg1:T2 arg2:T1
+R2	has_measure arg1:T3 arg2:T1
+R3	has_measure arg1:T1 arg2:T4
+R4	has_measure arg1:T1 arg2:T5
+R5	has_measure arg1:T6 arg2:T1
+R6	hasstate arg1:T3 arg2:T2
+R7	has_measure arg1:T2 arg2:T4
+R8	has_measure arg1:T2 arg2:T5
+R9	is_located arg1:T2 arg2:T6
+R10	has_measure arg1:T3 arg2:T4
+R11	has_measure arg1:T3 arg2:T5
+R12	is_located arg1:T3 arg2:T6
+R13	has_measure arg1:T5 arg2:T4
+R14	has_measure arg1:T6 arg2:T4
+R15	has_measure arg1:T6 arg2:T5
+R16	consequence arg1:T8 arg2:T9
+R17	hasstate arg1:T8 arg2:T10
+R18	treats arg1:T11 arg2:T8
+R19	consequence arg1:T8 arg2:T12
+R20	treats arg1:T9 arg2:T10
+R21	involves arg1:T9 arg2:T11
+R22	consequence arg1:T9 arg2:T12
+R23	treats arg1:T11 arg2:T10
+R24	consequence arg1:T10 arg2:T12
+R25	involves arg1:T12 arg2:T11
+R26	shows arg1:T13 arg2:T14
+R27	shows arg1:T13 arg2:T15
+R28	shows arg1:T13 arg2:T16
+R29	shows arg1:T13 arg2:T17
+R30	shows arg1:T13 arg2:T18
+R31	shows arg1:T13 arg2:T19
+R32	shows arg1:T13 arg2:T20
+R33	has_measure arg1:T14 arg2:T15
+R34	is_located arg1:T14 arg2:T16
+R35	hasstate arg1:T14 arg2:T17
+R36	hasstate arg1:T14 arg2:T18
+R37	is_located arg1:T14 arg2:T19
+R38	is_located arg1:T20 arg2:T14
+R39	has_measure arg1:T16 arg2:T15
+R40	has_measure arg1:T17 arg2:T15
+R41	has_measure arg1:T18 arg2:T15
+R42	is_located arg1:T15 arg2:T19
+R43	has_measure arg1:T20 arg2:T15
+R44	hasstate arg1:T16 arg2:T17
+R45	hasstate arg1:T16 arg2:T18
+R46	is_located arg1:T16 arg2:T19
+R47	is_located arg1:T20 arg2:T16
+R48	hasstate arg1:T18 arg2:T17
+R49	is_located arg1:T17 arg2:T19
+R50	hasstate arg1:T20 arg2:T17
+R51	is_located arg1:T18 arg2:T19
+R52	hasstate arg1:T20 arg2:T18
+R53	is_located arg1:T20 arg2:T19

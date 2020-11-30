@@ -1,0 +1,42 @@
+1	Wohlbefinden	Wohlbefinden	NN	NN	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+4	Infekte.keine	Infekte.keine	PIAT	PIAT	_	_	_	0	_	_	_
+5	GI-Symptome	GI-Symptome	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Hat	Hat	VAFIN	VAFIN	_	_	_	0	_	_	_
+2	Gewicht	Gewicht	NN	NN	_	_	_	0	_	_	_
+3	zugenommen	zugenommen	VVPP	VVPP	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+3	eher	eher	ADV	ADV	_	_	_	0	_	_	_
+4	hypotensiv	hypotensiv	ADJD	ADJD	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	aber	aber	ADV	ADV	_	_	_	0	_	_	_
+7	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+8	toleriert	toleriert	VVPP	VVPP	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Bei	Bei	APPR	APPR	_	_	_	0	_	_	_
+2	abendlichen	abendlichen	ADJA	ADJA	_	_	_	0	_	_	_
+3	Ödemen	Ödemen	NN	NN	_	_	_	0	_	_	_
+4	Torem	Torem	NN	NN	_	_	_	0	_	_	_
+5	verordnet	verordnet	VVPP	VVPP	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Dilatation	Dilatation	NN	NN	_	_	_	0	_	_	_
+5	des	des	ART	ART	_	_	_	0	_	_	_
+6	NBKS	NBKS	NE	NE	_	_	_	0	_	_	_
+7	eher	eher	ADV	ADV	_	_	_	0	_	_	_
+8	ruecklaeufig	ruecklaeufig	ADJD	ADJD	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+

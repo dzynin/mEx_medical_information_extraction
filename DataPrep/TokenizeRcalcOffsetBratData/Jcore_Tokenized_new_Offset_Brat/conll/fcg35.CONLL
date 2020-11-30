@@ -1,0 +1,35 @@
+1	Insgesamt	Insgesamt	ADV	ADV	_	_	_	0	_	_	_
+2	gutes	gutes	ADJA	ADJA	_	_	_	0	_	_	_
+3	Befinden	Befinden	NN	NN	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+6	Kraempfe	Kraempfe	NN	NN	_	_	_	0	_	_	_
+7	,	,	$,	$,	_	_	_	0	_	_	_
+8	gute	gute	ADJA	ADJA	_	_	_	0	_	_	_
+9	Diurese	Diurese	NN	NN	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+3	eingestellt	eingestellt	VVPP	VVPP	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+6	sehr	sehr	ADV	ADV	_	_	_	0	_	_	_
+7	gute	gute	ADJA	ADJA	_	_	_	0	_	_	_
+8	Nierenfunktion	Nierenfunktion	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Leberwerte	Leberwerte	NN	NN	_	_	_	0	_	_	_
+2	ruecklaeufig	ruecklaeufig	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Oedeme	Oedeme	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Im	Im	APPRART	APPRART	_	_	_	0	_	_	_
+2	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+3	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+4	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+

@@ -1,0 +1,938 @@
+﻿Pat	B-Person
+.	O
+
+:	O
+
+Schuster	B-Medical_condition
+,	O
+Erika	B-Medical_condition
+;	O
+geb.	O
+am	O
+27.03.1978;	B-Time_information
+wohnhaft	O
+:	O
+
+Müllerstr	O
+.	O
+
+123	O
+,	O
+13110	O
+München	O
+.	O
+
+Sehr	O
+geehrte	O
+Kollegen	O
+,	O
+wir	O
+berichten	O
+Ihnen	O
+über	O
+Frau	B-Person
+Schuster	I-Person
+,	O
+die	O
+sich	O
+vom	O
+01.03.2018	B-Time_information
+bis	I-Time_information
+zum	I-Time_information
+20.03.2018	I-Time_information
+in	O
+unserer	O
+stationären	B-Treatment
+Behandlung	I-Treatment
+befand	O
+.	O
+
+Anamnese	O
+:	O
+
+Die	O
+ausführliche	O
+Vorgeschichte	O
+dürfen	O
+wir	O
+freundlicherweise	O
+als	O
+bekannt	O
+voraussetzen	O
+.	O
+
+Die	O
+Pat.	B-Person
+berichtet	O
+,	O
+seit	B-Time_information
+ca.	I-Time_information
+einem	I-Time_information
+Jahr	I-Time_information
+an	O
+Angstzuständen	B-Medical_condition
+zu	O
+leiden	O
+sowie	O
+an	O
+Herzrasen	B-Medical_condition
+,	O
+mit	O
+Verzweiflungsneigung	B-Medical_condition
+,	O
+sowie	O
+an	O
+Erschöpfungszustände	B-Medical_condition
+.	O
+
+Vegetative	O
+Anamnese	O
+:	O
+
+Appetit	B-Process
+vermindert	B-Measurement
+,	O
+Einschlaf-	B-Medical_condition
+und	I-Medical_condition
+Durchschlafstörungen	I-Medical_condition
+seit	B-Time_information
+ca.	I-Time_information
+6	I-Time_information
+Monaten	I-Time_information
+.	O
+
+Miktion	B-Process
+und	O
+Stuhlgang	B-Process
+unauffällig	B-State_of_health
+.	O
+
+Keine	O
+Allergien	B-Medical_condition
+bekannt	B-Time_information
+.	O
+
+Risikofaktoren	B-Medical_condition
+und	O
+Risikoverhalten	B-Process
+:	O
+
+kein	O
+Nikotinkonsum	B-Medical_condition
+.	O
+
+Keine	O
+erhöhten	B-Measurement
+Cholesterinwerte	B-Biological_chemistry
+bekannt	O
+.	O
+
+Kein	O
+Diabetes	B-Medical_condition
+mellitus	I-Medical_condition
+.	O
+gelegentlich	O
+ein	O
+Glas	O
+Wein/Bier	O
+.	O
+psychosozialen	B-Medical_condition
+Belastungen	I-Medical_condition
+.	O
+gelegentlich	B-Time_information
+körperliche	B-Medical_specification
+Bewegung	B-Process
+.	O
+
+Familienanamnese	O
+:	O
+
+Keine	O
+Familienanamnese	O
+für	O
+kardiovaskuläre	B-Medical_condition
+Erkrankungen	I-Medical_condition
+.	O
+
+Beide	O
+Eltern	B-Person
+gesund	B-State_of_health
+,	O
+Mutter	B-Person
+70	O
+Jahre	O
+alt	O
+,	O
+Vater	B-Person
+75	O
+Jahre	O
+alt	O
+.	O
+
+Jetzige	O
+Beschwerden	B-Medical_condition
+:	O
+
+Die	O
+Pat.	B-Person
+fühlt	O
+sich	O
+normal	B-State_of_health
+belastbar	I-State_of_health
+.	O
+
+Treppensteigen	B-Process
+sei	O
+problemlos	O
+möglich	O
+.	O
+
+Subjektive	O
+Einschränkungen	B-Medical_condition
+im	O
+Alltag	O
+und	O
+Beruf	O
+:	O
+
+Die	O
+Pat.	B-Person
+fühlt	O
+sich	O
+in	O
+der	O
+Belastbarkeit	B-Process
+durch	O
+die	O
+o.	O
+b.	O
+Beschwerden	B-Medical_condition
+deutlich	B-Measurement
+eingeschränkt	I-Measurement
+.	O
+
+Krankheitsverständnis	B-Process
+und	O
+Verarbeitung	O
+:	O
+
+Die	O
+ausführliche	O
+Vorgeschichte	O
+dürfen	O
+wir	O
+freundlicherweise	O
+als	O
+bekannt	O
+voraussetzen	O
+.	O
+
+Die	O
+Pat.	B-Person
+berichtet	O
+,	O
+seit	B-Time_information
+einem	I-Time_information
+Jahr	I-Time_information
+an	O
+Angstzuständen	B-Medical_condition
+zu	O
+leiden	O
+sowie	O
+an	O
+Herzrasen	B-Medical_condition
+,	O
+mit	O
+Verzweiflungsneigung	B-Medical_condition
+,	O
+sowie	O
+an	O
+Erschöpfungszustände	B-Medical_condition
+.	O
+
+Therapie	B-Treatment
+bei	B-Time_information
+Aufnahme	I-Time_information
+:	O
+
+Die	O
+stationäre	B-Treatment
+Aufnahme	I-Treatment
+erfolgte	O
+zur	O
+kardiologischen	B-Treatment
+Rehabilitationsbehandlung	I-Treatment
+bei	O
+Herzneurose	B-Medical_condition
+(	O
+F45.3	B-Time_information
+nach	O
+ICD-10	B-Biological_chemistry
+)	O
+.	O
+
+Sozialanamnese	O
+:	O
+
+Beruf	O
+:	O
+
+Fitnesstrainerin	O
+;	O
+arbeitet	O
+in	O
+Vollzeit	O
+.	O
+
+Verheiratet	O
+.	O
+
+Mietwohnung	O
+in	O
+der	O
+3.	O
+Etage	O
+.	O
+
+Beruflicher	O
+Werdegang	O
+,	O
+Arbeitsanamnese	O
+:	O
+
+Ausbildung	O
+in	O
+2000	B-Time_information
+.	O
+
+Beruf	O
+:	O
+
+Fitnesstrainerin	O
+.	O
+
+Mittelschwere	B-Measurement
+bis	O
+schwere	B-Measurement
+körperliche	B-Medical_condition
+Belastung	I-Medical_condition
+.	O
+
+Die	O
+Pat.	B-Person
+ist	O
+mit	O
+ihrer	O
+Arbeit	O
+zufrieden	O
+und	O
+traut	O
+sie	O
+sich	O
+weiterhin	O
+zu	O
+.	O
+
+AU	O
+-Zeiten	O
+:	O
+
+Insgesamt	O
+in	B-Time_information
+den	I-Time_information
+letzten	I-Time_information
+12	I-Time_information
+Monaten	I-Time_information
+3	I-Time_information
+Monate	I-Time_information
+krank	B-Medical_condition
+.	O
+
+Klinische	B-Treatment
+Untersuchung	I-Treatment
+:	O
+
+40-jährige	B-Person
+Pat	I-Person
+.	I-Person
+in	O
+normalem	B-State_of_health
+AZ	B-Biological_parameter
+,	O
+BMI	B-Biological_chemistry
+22	B-Measurement
+,	O
+psychischer	B-Medical_specification
+Status	B-Biological_parameter
+labil	B-Measurement
+,	O
+Cor	B-Biological_chemistry
+:	O
+
+Blutdruck	B-Biological_chemistry
+100/60	B-Measurement
+mmHg	I-Measurement
+,	O
+Puls	B-Process
+56/min	B-Measurement
+,	O
+regelmäßig	B-Measurement
+.	O
+normale	B-State_of_health
+Herztöne	B-Body_part
+,	O
+keine	O
+vitientypischen	B-Medical_condition
+Geräusche	I-Medical_condition
+auskultierbar	B-Measurement
+,	O
+Karotiden	B-Body_part
+und	O
+Leistenarterien	B-Body_part
+beidseits	B-Local_specification
+auskultatorisch	B-Measurement
+unauffällig	B-State_of_health
+.	O
+
+Pulmo	B-Body_part
+:	O
+
+vesikuläres	B-Medical_condition
+Atemgeräusch	I-Medical_condition
+über	O
+beiden	B-Local_specification
+Lungen	B-Body_part
+,	O
+keine	O
+RG	B-Medical_condition
+,	O
+Abdomen	B-Body_part
+weich	B-Measurement
+,	O
+kein	O
+Druckschmerz	B-Medical_condition
+,	O
+keine	O
+Resistenzen	B-Medical_condition
+,	O
+Darmgeräusche	B-Body_part
+regelrecht	B-State_of_health
+,	O
+keine	O
+Unterschenkelödeme	B-Medical_condition
+,	O
+periphere	B-Local_specification
+Pulse	B-Process
+seitengleich	B-Measurement
+tastbar	I-Measurement
+,	O
+neurologische	B-Medical_specification
+Untersuchung	O
+orientierend	O
+unauffällig	B-State_of_health
+.	O
+
+Fähigkeits	B-Biological_parameter
+und	O
+Aktivitätseinschränkung	B-Process
+:	O
+
+Schonungsverhalten	O
+aufgrund	O
+der	O
+Hauptdiagnose	O
+.	O
+
+Psychosomatische	O
+Diagnostik	O
+:	O
+
+HADS-Fragebogen	O
+:	O
+
+Angst	B-Medical_condition
+und	O
+Depressivität	B-Medical_condition
+deutlich	B-Measurement
+erhöht	I-Measurement
+mit	O
+15	B-Measurement
+von	I-Measurement
+21	I-Measurement
+Punkten	I-Measurement
+für	O
+Angst	B-Medical_condition
+und	O
+10	B-Measurement
+von	I-Measurement
+21	I-Measurement
+Punkten	I-Measurement
+für	O
+Depressivität	B-Medical_condition
+.	O
+
+Diagnostik	O
+Labor	O
+:	O
+
+Bei	O
+der	O
+routinemäßigen	O
+Laboruntersuchung	O
+lagen	O
+die	O
+meisten	O
+Werte	B-Biological_parameter
+im	O
+Normbereich	B-State_of_health
+.	O
+
+Diagnostik	O
+EKG	O
+:	O
+
+Sinusrhythmus	B-State_of_health
+,	O
+Linkstyp	B-Measurement
+.	O
+
+Zeiten	O
+in	O
+der	O
+Norm	B-State_of_health
+.	O
+
+Sonst	O
+unauffälliger	B-State_of_health
+Stromkurvenverlauf	B-Process
+.	O
+
+Ergometrie	O
+(	O
+Fahrradergometer	B-Body_part
+)	O
+bei	B-Time_information
+Aufnahme	I-Time_information
+:	O
+
+Belastbar	O
+von	O
+25	B-Measurement
+W	I-Measurement
+an	I-Measurement
+bis	I-Measurement
+21	I-Measurement
+Min	I-Measurement
+.	O
+
+275	B-Measurement
+W	I-Measurement
+,	O
+max	O
+.	O
+
+HF	B-Biological_parameter
+180/min	B-Measurement
+,	O
+max	B-Measurement
+.	I-Measurement
+
+Blutdruck	B-Process
+200/100	B-Measurement
+mmHg	I-Measurement
+.	O
+
+Durchgehend	B-Measurement
+Sinusrhythmus	B-State_of_health
+,	O
+keine	O
+höhergradige	O
+Rhythmusstörung	B-Medical_condition
+,	O
+Keine	O
+AP	B-Medical_condition
+,	O
+keine	O
+signifikante	B-Measurement
+ST-Veränderung	B-Medical_condition
+,	O
+keine	O
+höhergradige	O
+Rhythmusstörung	B-Medical_condition
+.	O
+
+Unter	O
+Belastung	B-Process
+und	O
+nach	O
+Belastungsende	O
+keine	O
+wesentlichen	O
+Auffälligkeiten	B-Medical_condition
+im	O
+Blutdruck-	B-Body_part
+und	O
+Pulsverhalten	B-Body_part
+.	O
+keine	O
+ST-Strecken-Veränderungen	B-Medical_condition
+bzw.	O
+Angina	B-Medical_condition
+pectoris-Beschwerden	I-Medical_condition
+.	O
+
+LZ	O
+EKG	O
+am	O
+07.03.2018	B-Time_information
+:	O
+
+Durchgehend	B-Measurement
+Sinusrhythmus	B-State_of_health
+,	O
+maximal	B-Measurement
+120/min	I-Measurement
+und	O
+minimal	B-Measurement
+40/min	I-Measurement
+.	I-Measurement
+
+Durchschnittliche	O
+HF	B-Process
+64/min	B-Measurement
+,	O
+vereinzelt	O
+SVES	B-Medical_condition
+.	O
+
+LZ	O
+RR	B-Process
+am	O
+08.03.2018	B-Time_information
+:	O
+
+Normotensive	B-State_of_health
+RR-Werte	B-Process
+,	O
+entsprechendes	O
+Dipping	B-Medical_condition
+.	O
+
+Zusammenfassung	O
+:	O
+
+Tagsüber	B-Time_information
+:	O
+Syst	B-Medication
+.	I-Medication
+
+:	O
+Mitt	O
+.	O
+
+:	O
+
+110	B-Measurement
+mmHg	I-Measurement
+90-130	I-Measurement
+mmHg	I-Measurement
+)	O
+,	O
+Diast	B-Medication
+.	I-Medication
+
+:	O
+Mitt	O
+.	O
+
+:	O
+
+70	B-Measurement
+mmHg	I-Measurement
+55-85	I-Measurement
+mmHg	I-Measurement
+)	O
+.	O
+
+In	B-Time_information
+der	I-Time_information
+Nacht	I-Time_information
+:	O
+Syst.	B-Medical_condition
+:	O
+
+Mitt.	O
+:	O
+
+100	B-Measurement
+mmHg	I-Measurement
+95	I-Measurement
+-	I-Measurement
+105	I-Measurement
+mmHg	I-Measurement
+)	O
+,	O
+Diast	B-Treatment
+.	I-Treatment
+
+:	O
+Mitt	O
+.	O
+
+:	O
+
+60	B-Measurement
+mmHg	I-Measurement
+55	I-Measurement
+-	I-Measurement
+65	I-Measurement
+mmHg	I-Measurement
+)	O
+.	O
+
+Echokardiographie	O
+:	O
+
+Normal	B-Measurement
+großer	I-Measurement
+linker	B-Body_part
+Ventrikel	I-Body_part
+mit	O
+normaler	B-State_of_health
+systolischer	B-Medical_specification
+Funktion	B-Biological_parameter
+,	O
+keine	O
+regionale	B-Local_specification
+Wandbewegungsstörung	B-Medical_condition
+.	O
+keine	O
+Compliancestörung	B-Medical_condition
+.	O
+
+Systolischer	B-Medical_specification
+Pulmonalarteriendruck	B-Biological_chemistry
+im	O
+Normbereich	B-State_of_health
+.	O
+
+Klappen	O
+ohne	O
+Befund	B-Medical_condition
+,	O
+Kein	O
+Perikarderguss	B-Medical_condition
+.	O
+
+Kein	O
+Pleuraerguss	B-Medical_condition
+beidseits	B-Local_specification
+.	O
+
+Reha	O
+Diagnosen	O
+:	O
+
+Herzneurose	B-Medical_condition
+(	O
+F45.3	B-Measurement
+nach	O
+ICD-10	B-Biological_chemistry
+)	O
+.	O
+
+Reha	O
+Ziele	O
+:	O
+
+Die	O
+Pat.	B-Person
+erhofft	O
+sich	O
+insbesondere	O
+mehr	O
+Stabilität	B-Process
+zu	O
+erreichen	O
+.	O
+
+Sie	O
+möchte	O
+ihren	O
+Informationsstand	O
+verbessern	O
+,	O
+erfahren	O
+,	O
+wo	O
+ihre	O
+Belastbarkeitsgrenze	B-Biological_parameter
+liegt	O
+,	O
+sowie	O
+im	O
+geschützten	O
+Rahmen	O
+wieder	O
+Sicherheit	O
+bei	O
+körperlicher	O
+Belastung	O
+bekommen	O
+.	O
+
+Rehabilitationsverlauf	B-Process
+und	O
+Epikrise	B-Medical_condition
+:	O
+
+Ziel	O
+der	O
+Rehabilitation	B-Treatment
+war	O
+die	O
+muskuläre	B-Medical_condition
+Kräftigung	I-Medical_condition
+sowie	O
+körperliche	B-Medical_specification
+und	O
+psychische	B-Medical_specification
+Stabilisierung	B-Process
+.	O
+
+Auch	O
+im	O
+Langzeit-EKG	O
+am	O
+07.03.2018	B-Time_information
+wurde	O
+durchgehend	O
+normofrequenter	B-State_of_health
+Sinusrhythmus	B-Biological_parameter
+ohne	O
+höhergradige	B-Measurement
+Rhythmusstörungen	B-Medical_condition
+aufgezeichnet	O
+.	O
+
+Reha-Ergebnis	O
+und	O
+Abschlussuntersuchung	O
+:	O
+
+Bei	O
+der	O
+Abschlussuntersuchung	O
+gab	O
+die	O
+Pat.	B-Person
+an	O
+,	O
+sich	O
+in	O
+ihrer	O
+Belastbarkeit	B-Process
+und	O
+Ausdauer	B-Biological_parameter
+gesteigert	B-Measurement
+zu	O
+haben	O
+.	O
+
+Insbesondere	O
+fühlte	O
+sie	O
+sich	O
+deutlich	O
+kräftiger	B-Measurement
+und	O
+ausdauernder	B-Measurement
+.	O
+
+Während	B-Time_information
+des	I-Time_information
+Aufenthaltes	I-Time_information
+war	O
+es	O
+zu	O
+einer	O
+leichten	O
+Verbesserung	B-State_of_health
+des	O
+Erschöpfungszustandes	B-Medical_condition
+gekommen	O
+.	O
+
+Die	O
+Pat.	B-Person
+habe	O
+sehr	O
+vom	O
+körperlichen	O
+Bewegungsprogramm	O
+und	O
+den	O
+Informationsveranstaltungen	O
+profitieren	O
+können	O
+.	O
+
+Der	O
+Puls	B-Process
+war	O
+bei	O
+Entlassung	B-Treatment
+normofrequent	B-State_of_health
+und	O
+regelmäßig	B-Measurement
+.	O
+
+Sozialmedizinische	B-Medical_condition
+Epikrise	I-Medical_condition
+:	O
+
+Wir	O
+entließen	O
+die	O
+Pat	B-Person
+.	I-Person
+arbeitsfähig	O
+.	O
+
+Selbsteinschätzung	O
+des	O
+Patienten	B-Person
+:	O
+
+Die	O
+Pat.	B-Person
+fühlt	O
+sich	O
+in	B-State_of_health
+der	I-State_of_health
+Lage	I-State_of_health
+ihren	O
+Beruf	O
+weiterhin	O
+auszuüben	O
+.	O
+
+Procedere	O
+:	O
+
+Ambulante	B-Treatment
+Psychotherapie	I-Treatment
+(	O
+Verhaltenstherapie	O
+)	O
+empfohlen	O
+.	O
+
+Mit	O
+freundlichen	O
+,	O
+kollegialen	O
+Grüßen	O
+Michael	B-Person
+Mobitz	I-Person
+Oberarzt	I-Person

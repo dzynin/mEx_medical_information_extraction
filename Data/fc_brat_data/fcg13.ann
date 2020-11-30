@@ -1,0 +1,34 @@
+T1	Process 0 9	Stuhlgang
+T2	Measurement 23 27	hart
+T3	Medication 30 35	Kreon
+T4	Treatment 43 51	pausiert
+T5	Medical_condition 74 90	Knochenschmerzen
+T6	Body_part 94 101	Haenden
+T7	Body_part 106 112	Beinen
+T8	Medication 115 122	Fosamax
+T9	Treatment 123 126	neu
+T10	Dosing 127 132	70 mg
+T11	Body_part 141 150	cardialen
+T12	Medical_condition 151 162	Beschwerden
+T13	Medication 165 172	Urbason
+T14	Treatment 173 182	reduziert
+T15	State_of_health 185 189	Gute
+T16	Process 190 197	Diurese
+T17	Time_information 200 211	Kurzfritige
+T18	Treatment 212 221	Kontrolle
+R1	has_measure arg1:T1 arg2:T2
+R2	treats arg1:T3 arg2:T1
+R3	consequence arg1:T1 arg2:T4
+R4	has_measure arg1:T3 arg2:T2
+R5	consequence arg1:T2 arg2:T4
+R6	involves arg1:T4 arg2:T3
+R7	is_located arg1:T5 arg2:T6
+R8	is_located arg1:T5 arg2:T7
+R9	is_located arg1:T6 arg2:T7
+R10	involves arg1:T9 arg2:T8
+R11	has_dosing arg1:T8 arg2:T10
+R12	has_dosing arg1:T9 arg2:T10
+R13	is_located arg1:T12 arg2:T11
+R14	involves arg1:T14 arg2:T13
+R15	hasstate arg1:T16 arg2:T15
+R16	has_time_info arg1:T18 arg2:T17

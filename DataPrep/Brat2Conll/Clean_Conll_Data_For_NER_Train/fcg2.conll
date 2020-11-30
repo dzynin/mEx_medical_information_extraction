@@ -1,0 +1,52 @@
+Subjektives	O
+Wohlbefinden	B-State_of_health
+,	O
+KG	B-Biological_parameter
+konstant	B-Measurement
+,	O
+Appetit	B-Process
+noch	O
+recht	O
+groß	B-Measurement
+,	O
+keine	O
+Schmerzen	B-Medical_condition
+.	O
+
+RR	B-Process
+gut	B-State_of_health
+eingestellt	I-State_of_health
+.	O
+
+Urbason	B-Medication
+ab	B-Time_information
+naechster	I-Time_information
+Woche	I-Time_information
+auf	O
+12	B-Dosing
+mg	I-Dosing
+/	O
+die	O
+reduzieren	B-Treatment
+.	O
+
+Blasenkapazitaez	B-Medical_condition
+hat	O
+zugenommen	B-Measurement
+.	O
+
+Kreatinin	B-Biological_chemistry
+faellt	B-Measurement
+weiter	I-Measurement
+.	O
+
+Cholesterin	B-Biological_chemistry
+unter	O
+Rapamycin	B-Medication
+weiterhin	O
+erhoeht	B-Treatment
+.	O
+
+Erhoehte	B-Measurement
+BZ-Werte	B-Biological_chemistry
+.	O

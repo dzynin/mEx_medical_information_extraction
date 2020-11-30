@@ -1,0 +1,64 @@
+T1	State_of_health 0 8	Geht gut
+T2	Process 11 13	RR
+T3	Diaglab_procedure 19 28	Protokoll
+T4	State_of_health 29 31	iO
+T5	Medication 39 44	Kreon
+T6	Process 45 54	Stuhlgang
+T7	Measurement 55 64	geformter
+T8	Person 67 71	Pat.
+T9	Medication 82 91	Omniflora
+T10	Medical_condition 106 111	Narbe
+T11	Medical_condition 129 140	Beschwerden
+T12	Medical_condition 149 165	Knochenschmerzen
+T13	Medical_condition 174 181	Dysurie
+T14	Medication 184 191	Cibacen
+T15	Treatment 192 195	neu
+T16	Time_information 201 209	03.03.07
+T17	Medication 215 224	Amlodipin
+T18	Medical_condition 231 233	NW
+T19	Treatment 234 243	reduziert
+T20	State_of_health 252 259	Stabile
+T21	Process 260 271	Tx-Funktion
+T22	Diaglab_procedure 277 281	Sono
+T23	Medical_condition 287 291	Stau
+T24	Time_information 294 300	Im Mai
+T25	Medication 321 326	Cipro
+T26	Treatment 327 352	prophylaktisch rezeptiert
+R1	hasstate arg1:T2 arg2:T1
+R2	shows arg1:T3 arg2:T1
+R3	hasstate arg1:T1 arg2:T4
+R4	examines arg1:T3 arg2:T2
+R5	hasstate arg1:T2 arg2:T4
+R6	shows arg1:T3 arg2:T4
+R7	affects arg1:T5 arg2:T6
+R8	consequence arg1:T5 arg2:T7
+R9	affects arg1:T5 arg2:T8
+R10	has_measure arg1:T6 arg2:T7
+R11	affects arg1:T6 arg2:T8
+R12	has_measure arg1:T8 arg2:T7
+R13	hasstate arg1:T10 arg2:T11
+R14	is_linked_to arg1:T12 arg2:T13
+R15	involves arg1:T15 arg2:T14
+R16	has_time_info arg1:T14 arg2:T16
+R17	is_linked_to arg1:T14 arg2:T17
+R18	treats arg1:T14 arg2:T18
+R19	involves arg1:T19 arg2:T14
+R20	has_time_info arg1:T15 arg2:T16
+R21	involves arg1:T15 arg2:T17
+R22	consequence arg1:T18 arg2:T15
+R23	if_consequence arg1:T19 arg2:T15
+R24	has_time_info arg1:T17 arg2:T16
+R25	has_time_info arg1:T18 arg2:T16
+R26	has_time_info arg1:T19 arg2:T16
+R27	causes arg1:T17 arg2:T18
+R28	involves arg1:T19 arg2:T17
+R29	consequence arg1:T18 arg2:T19
+R30	hasstate arg1:T21 arg2:T20
+R31	shows arg1:T22 arg2:T20
+R32	affects arg1:T23 arg2:T20
+R33	shows arg1:T22 arg2:T21
+R34	hasstate arg1:T21 arg2:T23
+R35	shows arg1:T22 arg2:T23
+R36	has_time_info arg1:T25 arg2:T24
+R37	has_time_info arg1:T26 arg2:T24
+R38	involves arg1:T26 arg2:T25

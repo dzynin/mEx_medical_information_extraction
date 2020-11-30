@@ -1,0 +1,271 @@
+﻿An	O
+den	O
+weiterbehandelnden	O
+Arzt	B-Person
+.	O
+
+Allgemeinchirurgie	O
+.	O
+
+Kurzarztbrief	O
+.	O
+
+Patient	B-Person
+:	O
+
+Schadow	B-Medical_condition
+,	O
+Hans	B-Person
+.	I-Person
+
+29.4.2018	B-Time_information
+.	O
+
+Sehr	O
+geehrte	O
+Frau	O
+Kollegin	O
+,	O
+sehr	O
+geehrter	O
+Herr	O
+Kollege	O
+,	O
+o.	B-State_of_health
+g.	I-State_of_health
+Patient	B-Person
+befand	O
+sich	O
+bei	O
+uns	O
+seit	B-Time_information
+23.4.2018	I-Time_information
+in	O
+stationärer	B-Treatment
+Behandlung	I-Treatment
+.	O
+
+Diagnosen	B-Treatment
+:	O
+
+Verlegungsdiagnose	O
+:	O
+
+Akutes	B-Measurement
+Abdomen	B-Medical_condition
+(	O
+v.	O
+a.	O
+Appandizitis	B-Medical_condition
+)	O
+.	O
+
+Weiter	O
+Diagnosen	B-Treatment
+:	O
+
+art	O
+Hypertonie	B-Medical_condition
+I10.00	B-Time_information
+.	O
+
+Kardiovaskuläre	B-Medical_condition
+Risikofaktoren	I-Medical_condition
+:	O
+
+Nikotinabusus	B-Medical_condition
+F17.1	B-Measurement
+.	O
+
+COPD	O
+J44.99	B-Measurement
+.	O
+
+Letzte	O
+Medikation	B-Medication
+:	O
+
+Ramipril	B-Medication
+(	O
+z.	B-Dosing
+B.	I-Dosing
+Deli	B-Medication
+x	I-Medication
+10	B-Dosing
+mg	I-Dosing
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0.	I-Dosing
+Tiotropiumbromid	B-Medication
+(	O
+z.	O
+B.	O
+Spiriva	B-Medication
+22ug	O
+Hub	B-Medical_condition
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+1-	I-Dosing
+0.	O
+Selbstverständlich	O
+können	O
+auch	O
+wirkstoffgleiche	B-Medication
+Präparate	I-Medication
+anderer	O
+Hersteller	O
+verwendet	O
+werden	O
+.	O
+
+Bemerkungen	O
+:	O
+
+Stationäre	B-Treatment
+Aufnahme	I-Treatment
+in	I-Treatment
+unserer	I-Treatment
+Klinik	I-Treatment
+am	O
+23.04.2018	B-Time_information
+bei	O
+COPD-Exazerbation	B-Medical_condition
+.	O
+
+65	B-Measurement
+jährg	I-Measurement
+.	O
+
+Pat	B-Person
+.	I-Person
+
+Abdominelle	B-Body_part
+Beschwerden	B-Medical_condition
+mit	O
+kolikartigen	B-Measurement
+Schmerzen	B-Medical_condition
+,	O
+letzter	O
+Stuhlgang	B-Process
+am	O
+28.04.2018	B-Time_information
+,	O
+Übelkeit	B-Medical_condition
+und	O
+Erbrechen	B-Medical_condition
+.	O
+Bef	O
+.	O
+
+:	O
+
+Abdomen	B-Body_part
+bretthart	B-Measurement
+,	O
+Abwehrspannung	B-Medical_condition
+,	O
+Druckschmerz	B-Medical_condition
+im	O
+unteren	B-Local_specification
+rechten	I-Local_specification
+Quadranten	I-Local_specification
+.	O
+
+Kontralateraler	B-Local_specification
+Loslasschmerz	B-Medical_condition
+,	O
+Darmgeräusche	B-Medical_condition
+nicht	O
+auskultierbar	B-Measurement
+über	B-Local_specification
+allen	I-Local_specification
+Quadranten	I-Local_specification
+.	O
+
+Labordiagnostisch	O
+erhöhte	B-Measurement
+Leukozyten	B-Biological_chemistry
+und	O
+CRP	B-Biological_chemistry
+.	O
+
+Wie	O
+bereits	O
+mit	O
+Ihrem	O
+Mitarbeiter	B-Person
+Dr.	I-Person
+Langenbeck	I-Person
+am	O
+besprochen	O
+erfolgt	O
+die	O
+Verlegung	O
+am	O
+29.04.2018	B-Time_information
+in	O
+Ihre	O
+Abteilung	O
+zur	O
+weiteren	O
+Diagnostik	B-Treatment
+und	O
+Behandlung	B-Treatment
+.	O
+
+Weitere	O
+Befunde	O
+anbei	O
+.	O
+
+Wir	O
+danken	O
+für	O
+die	O
+prompte	O
+Übernahme	O
+.	O
+
+Mit	O
+freundlichen	O
+kollegialen	O
+Grüßen	O
+Dr.	O
+med	O
+.	O
+
+Rudolph	B-Medical_condition
+Virchow	I-Medical_condition
+,	O
+Chefarzt	B-Person
+.	O
+
+Dr.	B-Person
+med	I-Person
+.	I-Person
+
+Robert	B-Person
+Koch	I-Person
+,	O
+Oberarzt/Oberärztin	B-Person
+.	O
+
+Dr.	B-Person
+med	I-Person
+.	O
+
+Paul	B-Person
+Ehrlich	O
+,	O
+Stationsarzt/Ärztin	B-Person
+.	O

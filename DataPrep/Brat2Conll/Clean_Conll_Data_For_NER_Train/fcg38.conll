@@ -1,0 +1,53 @@
+RR	B-Process
+schon	O
+besser	B-State_of_health
+geworden	I-State_of_health
+,	O
+aber	O
+abends	B-Time_information
+zwischen	B-Measurement
+150	I-Measurement
+und	I-Measurement
+160	I-Measurement
+systolisch	B-Medical_specification
+.	O
+
+Gutes	B-State_of_health
+Ansprechen	I-State_of_health
+auf	O
+Diblocin	B-Medication
+.	O
+
+Locol	B-Medication
+gut	B-State_of_health
+vertragen	I-State_of_health
+.	O
+
+Stuhlgang	B-Process
+besser	B-State_of_health
+.	O
+
+Jetzt	O
+ewas	O
+weniger	B-Measurement
+Nykturie	B-Medical_condition
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+keine	O
+Dysurie	B-Medical_condition
+,	O
+keine	O
+Narbenschmerzen	B-Medical_condition
+.	O
+
+Naechstes	B-Time_information
+Mal	I-Time_information
+auch	O
+Termin	O
+in	O
+der	O
+Urologie	B-Treatment
+.	O

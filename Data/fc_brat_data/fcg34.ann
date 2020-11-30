@@ -1,0 +1,40 @@
+T1	Treatment 12 33	ambulante Vorstellung
+T2	Treatment 39 42	NTx
+T3	Time_information 46 56	01.01.2001
+T4	State_of_health 59 83	Subjektives Wohlbefinden
+T5	Medical_condition 92 105	Wundschmerzen
+T6	Process 108 115	Diurese
+T7	State_of_health 116 119	gut
+T8	Medical_condition 128 133	Ödeme
+T9	Medical_condition 141 148	Dyspnoe
+T10	Process 151 153	RR
+T11	State_of_health 157 168	Normbereich
+T12	Medication 169 179	Medikation
+T13	Process 205 217	RR-Messgerät
+T14	Treatment 230 242	verschrieben
+T15	Diaglab_procedure 245 249	Sono
+T16	Measurement 252 257	große
+T17	Body_part 258 276	Transplantat-Niere
+T18	Medical_condition 282 286	Stau
+T19	Medical_condition 295 311	freie Flüßigkeit
+T20	Local_specification 312 321	perirenal
+T21	Body_part 324 329	Blase
+T22	Process 335 342	Miktion
+T23	Measurement 343 347	leer
+R1	is_linked_to arg1:T1 arg2:T2
+R2	has_time_info arg1:T1 arg2:T3
+R3	has_time_info arg1:T2 arg2:T3
+R4	hasstate arg1:T5 arg2:T4
+R5	hasstate arg1:T6 arg2:T7
+R6	hasstate arg1:T10 arg2:T11
+R7	consequence arg1:T13 arg2:T14
+R8	shows arg1:T15 arg2:T16
+R9	shows arg1:T15 arg2:T17
+R10	shows arg1:T15 arg2:T18
+R11	has_measure arg1:T17 arg2:T16
+R12	has_measure arg1:T18 arg2:T16
+R13	is_located arg1:T18 arg2:T17
+R14	is_located arg1:T19 arg2:T20
+R15	is_located arg1:T22 arg2:T21
+R16	has_measure arg1:T21 arg2:T23
+R17	has_measure arg1:T22 arg2:T23

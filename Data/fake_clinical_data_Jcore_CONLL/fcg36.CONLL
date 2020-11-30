@@ -1,0 +1,48 @@
+1	Geht	Geht	NN	NN	_	_	_	0	_	_	_
+2	soweit	soweit	ADV	ADV	_	_	_	0	_	_	_
+3	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+4	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+5	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+6	allg	allg	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Muskelschwaeche	Muskelschwaeche	NN	NN	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+3	Hause	Hause	NN	NN	_	_	_	0	_	_	_
+4	um	um	APPR	APPR	_	_	_	0	_	_	_
+5	130/80	130/80	CARD	CARD	_	_	_	0	_	_	_
+6	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Stuhlgang	Stuhlgang	NN	NN	_	_	_	0	_	_	_
+2	normal	normal	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Oedeme	Oedeme	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Infektzeichen	Infektzeichen	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Hat	Hat	VAFIN	VAFIN	_	_	_	0	_	_	_
+2	jetzt	jetzt	ADV	ADV	_	_	_	0	_	_	_
+3	etwas	etwas	ADV	ADV	_	_	_	0	_	_	_
+4	Rueckenschmerzen	Rueckenschmerzen	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+

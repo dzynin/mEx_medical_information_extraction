@@ -1,0 +1,52 @@
+1	Seit	Seit	APPR	APPR	_	_	_	0	_	_	_
+2	2	2	CARD	CARD	_	_	_	0	_	_	_
+3	Wochen	Wochen	NN	NN	_	_	_	0	_	_	_
+4	depressive	depressive	ADJA	ADJA	_	_	_	0	_	_	_
+5	Symptomatik	Symptomatik	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Hat	Hat	VAFIN	VAFIN	_	_	_	0	_	_	_
+2	Schmerzen	Schmerzen	NN	NN	_	_	_	0	_	_	_
+3	und	und	KON	KON	_	_	_	0	_	_	_
+4	Engegefühl	Engegefühl	NN	NN	_	_	_	0	_	_	_
+5	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+6	Brust	Brust	NN	NN	_	_	_	0	_	_	_
+7	ohne	ohne	APPR	APPR	_	_	_	0	_	_	_
+8	Dyspnoe	Dyspnoe	NN	NN	_	_	_	0	_	_	_
+9	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+10	unauffälligem	unauffälligem	ADJA	ADJA	_	_	_	0	_	_	_
+11	EKG-Befund	EKG-Befund	NN	NN	_	_	_	0	_	_	_
+12	und	und	KON	KON	_	_	_	0	_	_	_
+13	normaler	normaler	ADJA	ADJA	_	_	_	0	_	_	_
+14	Labor	Labor	NN	NN	_	_	_	0	_	_	_
+15	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Vorstellung	Vorstellung	NN	NN	_	_	_	0	_	_	_
+2	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+3	Psychosomatik	Psychosomatik	NN	NN	_	_	_	0	_	_	_
+4	nächste	nächste	ADJA	ADJA	_	_	_	0	_	_	_
+5	Woche	Woche	NN	NN	_	_	_	0	_	_	_
+6	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+7	12.12.2012	12.12.2012	CARD	CARD	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kreatinin	Kreatinin	NN	NN	_	_	_	0	_	_	_
+2	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+3	1,0	1,0	CARD	CARD	_	_	_	0	_	_	_
+4	abgefallen	abgefallen	VVPP	VVPP	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Prograf	Prograf	NN	NN	_	_	_	0	_	_	_
+2	planmäßig	planmäßig	ADJD	ADJD	_	_	_	0	_	_	_
+3	reduziert	reduziert	VVPP	VVPP	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	Urbason	Urbason	NN	NN	_	_	_	0	_	_	_
+6	reduziert	reduziert	VVPP	VVPP	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono-Tx	Sono-Tx	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	iO	iO	ADJD	ADJD	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+

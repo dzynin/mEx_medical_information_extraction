@@ -1,0 +1,232 @@
+﻿Herrn/Frau	B-Person
+Dr.	I-Person
+med	B-Medication
+.	I-Medication
+
+Herr	B-Person
+Mustermann	I-Person
+,	O
+Max	B-Person
+Musterstraße	I-Person
+,	O
+22	O
+11111	O
+Musterort	O
+.	O
+
+Kurzarztbrief	O
+:	O
+
+Patient	B-Person
+Erwin	I-Person
+Schrödinger	I-Person
+29.4.2018	B-Time_information
+.	O
+
+Sehr	O
+geehrte	O
+Frau	O
+Kollegin	O
+,	O
+sehr	O
+geehrter	O
+Herr	O
+Kollege	O
+,	O
+o.	O
+g.	O
+Patient	B-Person
+befand	O
+sich	O
+bei	O
+uns	O
+von	O
+20.04.2018	B-Time_information
+bis	I-Time_information
+25.04.2018	I-Time_information
+in	O
+stationärer	B-Treatment
+Behandlung	I-Treatment
+.	O
+
+Diagnosen	B-Treatment
+:	O
+
+Ben.	B-Treatment
+ess	O
+.	O
+
+art	O
+Hypertonie	B-Medical_condition
+I10.00	I-Medical_condition
+.	O
+
+Katarakt	B-Biological_chemistry
+(	O
+H26.9	B-Measurement
+)	O
+.	O
+
+Letzte	O
+Medikation	B-Medication
+:	O
+
+Bisoprolol	B-Medication
+(	O
+Bisohexal	B-Medication
+10	B-Dosing
+mg	I-Dosing
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0.	I-Dosing
+Ramipril	B-Medication
+(	O
+Deli	B-Medication
+x	I-Medication
+10	B-Dosing
+mg	I-Dosing
+)	O
+=	O
+0	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+1.	I-Dosing
+Metformin	B-Medication
+(	O
+Siofor	B-Medication
+1000	I-Medication
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0.	I-Dosing
+Selbstverständlich	O
+können	O
+auch	O
+wirkstoffgleiche	O
+Präparate	O
+anderer	O
+Hersteller	O
+verwendet	O
+werden	O
+.	O
+
+Bemerkungen	O
+:	O
+
+Stationäre	B-Treatment
+Aufnahme	I-Treatment
+in	I-Treatment
+unserer	I-Treatment
+Klinik	I-Treatment
+zur	O
+Katarakt-Operation	B-Treatment
+bei	O
+seniler	B-Medical_condition
+Katarkt	I-Medical_condition
+.	O
+
+Die	O
+Operation	B-Treatment
+führten	O
+wir	O
+in	O
+Phakoemulsifikation-Technik	B-Treatment
+mit	O
+Einbau	O
+einer	O
+Kunstoff-Linse	B-Medical_device
+am	B-Time_information
+21.04.2018	I-Time_information
+durch	O
+.	O
+
+Der	O
+postoperative	B-Treatment
+Verlauf	I-Treatment
+gestaltete	O
+sich	O
+komplikationslos	B-State_of_health
+.	O
+
+Die	O
+im	B-Time_information
+Verlauf	I-Time_information
+gemessene	O
+RR-Werte	B-Process
+lagen	O
+bei	O
+häufiger	O
+Kontrolle	O
+weitgehend	O
+im	O
+normotensiven	B-State_of_health
+Bereich	I-State_of_health
+.	O
+
+Die	O
+Entlassung	B-Treatment
+erfolgt	O
+in	O
+Ihre	O
+weitere	O
+Behandlung	O
+.	O
+
+Weitere	O
+Einzelheiten	O
+entnehmen	O
+Sie	O
+bitte	O
+unserem	O
+nachfolgenden	O
+ausführlichen	O
+Entlassungsbericht	O
+.	O
+
+Mit	O
+freundlichen	O
+kollegialen	O
+Grüßen	O
+Dr.	O
+med	O
+.	O
+
+Albrecht	B-Medical_condition
+Gräfe	I-Medical_condition
+,	O
+Chefarzt	B-Person
+.	O
+
+Dr.	B-Person
+med	I-Person
+.	I-Person
+
+Joseph	B-Person
+Beuys	I-Person
+,	O
+Oberarzt/Oberärztin	B-Person
+.	O
+
+Dr.	B-Person
+med	I-Person
+.	O
+
+Leonardo	B-Medication
+DiCaprio	I-Medication
+,	O
+Stationsarzt/Ärztin	B-Treatment
+.	O

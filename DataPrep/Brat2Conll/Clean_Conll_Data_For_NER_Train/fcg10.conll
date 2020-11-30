@@ -1,0 +1,104 @@
+Weiter	O
+deutl	O
+.	O
+
+Leukopenie	B-Medical_condition
+,	O
+RR	B-Process
+noch	O
+nicht	B-Measurement
+gut	I-Measurement
+eingestellt	I-Measurement
+.	O
+3	O
+mal	O
+mindestens	O
+Nykturie	B-Medical_condition
+.	O
+
+Kein	O
+Fieber	B-Medical_condition
+.	O
+
+Pat.	B-Person
+beklagt	O
+etwas	O
+Beinoedeme	B-Medical_condition
+,	O
+kein	O
+Hinweis	O
+auf	O
+frische	B-Measurement
+Thrombose	B-Medical_condition
+.	O
+
+Furosemid-Dosis	B-Medication
+erhoeht	B-Treatment
+auf	O
+20	B-Dosing
+mg	I-Dosing
+.	O
+
+Stabile	B-State_of_health
+Tx-Funktion	B-Process
+.	O
+
+Engmaschige	O
+Gewichtskontrolle	O
+angeraten	O
+.	O
+
+RR	B-Process
+zu	O
+Hause	O
+noch	O
+zu	B-Medical_condition
+hoch	I-Medical_condition
+.	O
+
+Appetit	B-Biological_parameter
+gut	B-State_of_health
+.	O
+
+Keine	O
+GI-Beschwerden	B-Medical_condition
+.	O
+
+Ausreichende	B-Measurement
+Diurese	B-Process
+.	O
+
+Keine	O
+Entzuendungszeichen	B-Medical_condition
+.	O
+
+Keine	O
+Dyspnoe	B-Medical_condition
+.	O
+
+Urbason	B-Medication
+naechste	B-Time_information
+Woche	I-Time_information
+auf	O
+10mg	B-Dosing
+reduzieren	B-Treatment
+.	O
+
+Kreatinin	B-Biological_chemistry
+weiter	O
+fallend	B-Measurement
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+.	O
+
+Keine	O
+Lymphozele	B-Medical_condition
+.	O

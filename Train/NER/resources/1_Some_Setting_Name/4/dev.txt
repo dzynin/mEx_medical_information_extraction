@@ -1,0 +1,426 @@
+Bei	B-Time_information
+Aufnahme	I-Time_information
+wird	O
+berichtet	O
+über	O
+thorakale	B-Body_part
+Beschwerden	B-Medical_condition
+:	O
+
+Im	O
+Sono	O
+kein	O
+Stau	B-Medical_condition
+.	O
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+allg	O
+.	O
+
+Die	O
+stationäre	B-Treatment
+Aufnahme	I-Treatment
+erfolgte	O
+zur	O
+kardiologischen	B-Treatment
+Rehabilitationsbehandlung	I-Treatment
+bei	O
+Herzneurose	B-Medical_condition
+(	O
+F45.3	B-Time_information
+nach	O
+ICD-10	B-Biological_chemistry
+)	O
+.	O
+
+art	O
+Hypertonie	B-Medical_condition
+I10.00	B-Time_information
+.	O
+
+Keine	O
+Familienanamnese	O
+für	O
+kardiovaskuläre	B-Medical_condition
+Erkrankungen	I-Medical_condition
+.	O
+
+Klinische	B-Treatment
+Untersuchung	I-Treatment
+:	O
+
+Mit	O
+freundlichen	O
+,	O
+kollegialen	O
+Grüßen	O
+Michael	B-Person
+Mobitz	I-Person
+Oberarzt	I-Person
+Heute	O
+erste	O
+ambulante	B-Treatment
+Vorstellung	I-Treatment
+nach	O
+NTx	B-Treatment
+am	O
+01.01.2001	B-Time_information
+.	O
+
+Appetit	B-Process
+vermindert	B-Measurement
+,	O
+Einschlaf-	B-Medical_condition
+und	I-Medical_condition
+Durchschlafstörungen	I-Medical_condition
+seit	B-Time_information
+ca.	I-Time_information
+6	I-Time_information
+Monaten	I-Time_information
+.	O
+
+Rudolph	B-Medical_condition
+Virchow	I-Medical_condition
+,	O
+Chefarzt	B-Person
+.	O
+
+Fosamax	B-Medication
+neu	B-Treatment
+70	B-Dosing
+mg	I-Dosing
+.	O
+
+Bitte	O
+2	B-Time_information
+x	I-Time_information
+tgl	I-Time_information
+.	I-Time_information
+
+Anamnese	O
+:	O
+
+vesikuläres	B-Local_specification
+Atemgeräusch	B-Process
+bds	B-Local_specification
+.	I-Local_specification
+
+65	B-Measurement
+jährg	I-Measurement
+.	O
+
+:	O
+
+Bemerkungen	O
+:	O
+
+fieberhafter	B-Medical_condition
+Status	I-Medical_condition
+mit	O
+Temperaturen	B-Biological_parameter
+>	O
+38	B-Measurement
+C	I-Measurement
+.	O
+
+Etwas	O
+Dysurie	B-Medical_condition
+.	O
+
+Die	O
+Pat.	B-Person
+berichtet	O
+,	O
+seit	B-Time_information
+einem	I-Time_information
+Jahr	I-Time_information
+an	O
+Angstzuständen	B-Medical_condition
+zu	O
+leiden	O
+sowie	O
+an	O
+Herzrasen	B-Medical_condition
+,	O
+mit	O
+Verzweiflungsneigung	B-Medical_condition
+,	O
+sowie	O
+an	O
+Erschöpfungszustände	B-Medical_condition
+.	O
+
+Leukopenie	B-Medical_condition
+,	O
+RR	B-Process
+noch	O
+nicht	B-Measurement
+gut	I-Measurement
+eingestellt	I-Measurement
+.	O
+3	O
+mal	O
+mindestens	O
+Nykturie	B-Medical_condition
+.	O
+
+Stuhlgang	B-Process
+normal	B-State_of_health
+.	O
+
+Schuster	B-Medical_condition
+,	O
+Erika	B-Medical_condition
+;	O
+geb.	O
+am	O
+27.03.1978;	B-Time_information
+wohnhaft	O
+:	O
+
+Aurel	B-Body_part
+,	O
+Mark	B-Medical_condition
+;	O
+geb.	O
+am	O
+19.01.1930;	B-Time_information
+wohnhaft	O
+:	O
+
+Katarakt	B-Biological_chemistry
+(	O
+H26.9	B-Measurement
+)	O
+.	O
+
+Mg	B-Medication
+versuchen	B-Treatment
+.	O
+
+Valcyte	B-Medication
+angepasst	B-Treatment
+und	O
+Medikamente	B-Medication
+erneut	O
+besprochen	O
+.	O
+
+Appetit	B-Biological_parameter
+gut	B-State_of_health
+.	O
+
+Risikofaktoren	B-Medical_condition
+und	O
+Risikoverhalten	B-Process
+:	O
+
+kein	O
+Restharn	B-Medical_condition
+nach	O
+Miktion	B-Process
+.	O
+Allgemeines	B-State_of_health
+Wohlbefinden	I-State_of_health
+.	O
+
+Aktuell	O
+ist	O
+der	O
+Hb-Wert	B-Biological_chemistry
+bei	O
+110	B-Measurement
+g/dl	I-Measurement
+.	O
+
+Blase	B-Body_part
+nach	O
+Miktion	B-Process
+leer	B-Measurement
+.	O
+Insgesamt	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+keine	O
+Kraempfe	B-Medical_condition
+,	O
+gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+große	B-Measurement
+Transplantat-Niere	B-Body_part
+ohne	O
+Stau	B-Medical_condition
+.	O
+
+Bei	O
+WV	B-Treatment
+Protokoll	O
+.	O
+
+Mit	O
+freundlichen	O
+kollegialen	O
+Grüßen	O
+Dr.	O
+med	O
+.	O
+
+eine	B-Dosing
+Tablette	I-Dosing
+Bicanorm	B-Medication
+.	O
+Geht	B-State_of_health
+gut	I-State_of_health
+,	O
+RR	B-Process
+laut	O
+Protokoll	O
+iO	B-State_of_health
+.	O
+
+Im	O
+Röntgen-Thorax	B-Body_part
+und	O
+CT-Thorax	B-Body_part
+am	B-Time_information
+Tag	I-Time_information
+der	I-Time_information
+Aufnahme	I-Time_information
+zeigte	O
+sich	O
+für	O
+die	O
+Legionellen-Pneumonie	B-Medical_condition
+charakteristische	B-Measurement
+fleckige	B-Medical_condition
+Infiltration	I-Medical_condition
+im	O
+Unterlappen	B-Body_part
+linksseitig	B-Local_specification
+.	O
+
+Sono-Tx	O
+:	O
+
+Die	O
+ausführliche	O
+Vorgeschichte	O
+dürfen	O
+wir	O
+freundlicherweise	O
+als	O
+bekannt	O
+voraussetzen	O
+.	O
+
+Blut-PH	B-Biological_chemistry
+ist	O
+noch	O
+sehr	B-Measurement
+niedrig	I-Measurement
+.	O
+
+RR	B-Process
+sehr	B-Measurement
+hoch	I-Measurement
+,	O
+zu	O
+Hause	O
+allerdings	O
+besser	B-State_of_health
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+.	O
+
+Stabile	B-State_of_health
+Tx-Funktion	B-Process
+.	O
+
+Zuletzt	B-Time_information
+war	O
+die	O
+Mobilisierung	B-Treatment
+in	I-Treatment
+Begleitung	I-Treatment
+der	O
+Physiotherapeutin	B-Person
+im	O
+Zimmer	O
+möglich	O
+.	O
+
+Pulmo	B-Body_part
+:	O
+
+RR	B-Process
+gut	B-State_of_health
+eingestellt	I-State_of_health
+,	O
+weiter	O
+sehr	B-State_of_health
+gute	I-State_of_health
+Nierenfunktion	B-Body_part
+.	O
+
+Vegetative	O
+Anamnese	O
+:	O
+
+Paradestr	O
+777	O
+,	O
+12101	O
+Berlin	O
+.	O
+
+Pupillen	B-Body_part
+mittelweit	B-Measurement
+,	O
+prompt	B-Measurement
+auf	O
+Licht	O
+reagierend	B-Measurement
+,	O
+neurologische	O
+Untersuchung	O
+unauffällig	B-State_of_health
+.	O
+
+Tx-Niere	B-Body_part
+bis	O
+auf	O
+diskret	B-Measurement
+dilatiertes	I-Measurement
+NBKS	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+keine	O
+perirenale	B-Local_specification
+Flüssigkeit	O
+.	O
+Weiter	O
+deutl	O
+.	O
+
+Kreatinin	B-Biological_chemistry
+auf	O
+1,0	B-Measurement
+abgefallen	I-Measurement
+.	O
+
+Keine	O
+freie	B-Medical_condition
+Flüßigkeit	I-Medical_condition
+perirenal	B-Local_specification
+.	O

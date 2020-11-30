@@ -1,0 +1,105 @@
+1	Weiter	Weiter	ADV	ADV	_	_	_	0	_	_	_
+2	deutl	deutl	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Leukopenie	Leukopenie	NN	NN	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	RR	RR	NE	NE	_	_	_	0	_	_	_
+4	noch	noch	ADV	ADV	_	_	_	0	_	_	_
+5	nicht	nicht	PTKNEG	PTKNEG	_	_	_	0	_	_	_
+6	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+7	eingestellt	eingestellt	ADJD	ADJD	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+9	3	3	CARD	CARD	_	_	_	0	_	_	_
+10	mal	mal	NN	NN	_	_	_	0	_	_	_
+11	mindestens	mindestens	ADJA	ADJA	_	_	_	0	_	_	_
+12	Nykturie	Nykturie	NN	NN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Fieber	Fieber	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+2	beklagt	beklagt	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	etwas	etwas	ADV	ADV	_	_	_	0	_	_	_
+4	Beinoedeme	Beinoedeme	NN	NN	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+7	Hinweis	Hinweis	NN	NN	_	_	_	0	_	_	_
+8	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+9	frische	frische	ADJA	ADJA	_	_	_	0	_	_	_
+10	Thrombose	Thrombose	NN	NN	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Furosemid-Dosis	Furosemid-Dosis	NN	NN	_	_	_	0	_	_	_
+2	erhoeht	erhoeht	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+4	20	20	CARD	CARD	_	_	_	0	_	_	_
+5	mg	mg	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Stabile	Stabile	ADJA	ADJA	_	_	_	0	_	_	_
+2	Tx-Funktion	Tx-Funktion	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Engmaschige	Engmaschige	ADJA	ADJA	_	_	_	0	_	_	_
+2	Gewichtskontrolle	Gewichtskontrolle	NN	NN	_	_	_	0	_	_	_
+3	angeraten	angeraten	VVPP	VVPP	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+3	Hause	Hause	NN	NN	_	_	_	0	_	_	_
+4	noch	noch	ADV	ADV	_	_	_	0	_	_	_
+5	zu	zu	APPR	APPR	_	_	_	0	_	_	_
+6	hoch	hoch	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Appetit	Appetit	NN	NN	_	_	_	0	_	_	_
+2	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	GI-Beschwerden	GI-Beschwerden	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Ausreichende	Ausreichende	ADJA	ADJA	_	_	_	0	_	_	_
+2	Diurese	Diurese	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Entzuendungszeichen	Entzuendungszeichen	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Dyspnoe	Dyspnoe	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Urbason	Urbason	NN	NN	_	_	_	0	_	_	_
+2	naechste	naechste	ADJA	ADJA	_	_	_	0	_	_	_
+3	Woche	Woche	NN	NN	_	_	_	0	_	_	_
+4	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+5	10mg	10mg	NN	NN	_	_	_	0	_	_	_
+6	reduzieren	reduzieren	VVINF	VVINF	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kreatinin	Kreatinin	NN	NN	_	_	_	0	_	_	_
+2	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+3	fallend	fallend	ADJD	ADJD	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+5	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Lymphozele	Lymphozele	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+

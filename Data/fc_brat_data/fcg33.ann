@@ -1,0 +1,728 @@
+T1	Person 0 4	﻿Pat
+T2	Medical_condition 8 16	Schuster
+T3	Medical_condition 19 24	Erika
+T4	Time_information 35 45	27.03.1978
+T5	Person 140 153	Frau Schuster
+T6	Time_information 169 198	01.03.2018 bis zum 20.03.2018
+T7	Treatment 210 232	stationären Behandlung
+T8	Person 344 348	Pat.
+T9	Time_information 361 380	seit ca. einem Jahr
+T10	Medical_condition 384 398	Angstzuständen
+T11	Medical_condition 418 427	Herzrasen
+T12	Medical_condition 434 454	Verzweiflungsneigung
+T13	Medical_condition 466 486	Erschöpfungszustände
+T14	Process 511 518	Appetit
+T15	Measurement 519 529	vermindert
+T16	Medical_condition 532 567	Einschlaf- und Durchschlafstörungen
+T17	Time_information 568 586	seit ca. 6 Monaten
+T18	Process 589 596	Miktion
+T19	Process 601 610	Stuhlgang
+T20	State_of_health 611 622	unauffällig
+T21	Medical_condition 631 640	Allergien
+T22	Time_information 641 648	bekannt
+T23	Medical_condition 651 665	Risikofaktoren
+T24	Process 670 685	Risikoverhalten
+T25	Medical_condition 693 706	Nikotinkonsum
+T26	Measurement 715 723	erhöhten
+T27	Biological_chemistry 724 740	Cholesterinwerte
+T28	Medical_condition 756 773	Diabetes mellitus
+T29	Medical_condition 810 836	psychosozialen Belastungen
+T30	Time_information 839 851	gelegentlich
+T31	Medical_specification 852 863	körperliche
+T32	Process 864 872	Bewegung
+T33	Medical_condition 921 949	kardiovaskuläre Erkrankungen
+T34	Person 958 964	Eltern
+T35	State_of_health 965 971	gesund
+T36	Person 974 980	Mutter
+T37	Person 996 1001	Vater
+T38	Medical_condition 1025 1036	Beschwerden
+T39	Person 1043 1047	Pat.
+T40	State_of_health 1059 1075	normal belastbar
+T41	Process 1078 1092	Treppensteigen
+T42	Medical_condition 1129 1144	Einschränkungen
+T43	Person 1171 1175	Pat.
+T44	Process 1194 1207	Belastbarkeit
+T45	Medical_condition 1224 1235	Beschwerden
+T46	Measurement 1236 1258	deutlich eingeschränkt
+T47	Process 1261 1282	Krankheitsverständnis
+T48	Person 1393 1397	Pat.
+T49	Time_information 1410 1425	seit einem Jahr
+T50	Medical_condition 1429 1443	Angstzuständen
+T51	Medical_condition 1463 1472	Herzrasen
+T52	Medical_condition 1479 1499	Verzweiflungsneigung
+T53	Medical_condition 1511 1531	Erschöpfungszustände
+T54	Treatment 1534 1542	Therapie
+T55	Time_information 1543 1555	bei Aufnahme
+T56	Treatment 1562 1581	stationäre Aufnahme
+T57	Treatment 1595 1636	kardiologischen Rehabilitationsbehandlung
+T58	Medical_condition 1641 1652	Herzneurose
+T59	Time_information 1655 1660	F45.3
+T60	Biological_chemistry 1666 1672	ICD-10
+T61	Time_information 1844 1848	2000
+T62	Measurement 1878 1891	Mittelschwere
+T63	Measurement 1896 1903	schwere
+T64	Medical_condition 1904 1925	körperliche Belastung
+T65	Person 1932 1936	Pat.
+T66	Time_information 2025 2059	in den letzten 12 Monaten 3 Monate
+T67	Medical_condition 2060 2065	krank
+T68	Treatment 2068 2090	Klinische Untersuchung
+T69	Person 2093 2103	40-jährige
+T70	Person 2104 2109	Pat .
+T71	State_of_health 2113 2121	normalem
+T72	Biological_parameter 2122 2124	AZ
+T73	Biological_chemistry 2127 2130	BMI
+T74	Measurement 2131 2133	22
+T75	Medical_specification 2136 2147	psychischer
+T76	Biological_parameter 2148 2154	Status
+T77	Measurement 2155 2160	labil
+T78	Biological_chemistry 2163 2166	Cor
+T79	Biological_chemistry 2169 2178	Blutdruck
+T80	Measurement 2179 2190	100/60 mmHg
+T81	Process 2193 2197	Puls
+T82	Measurement 2198 2204	56/min
+T83	Measurement 2207 2217	regelmäßig
+T84	State_of_health 2220 2227	normale
+T85	Body_part 2228 2236	Herztöne
+T86	Medical_condition 2245 2270	vitientypischen Geräusche
+T87	Measurement 2271 2284	auskultierbar
+T88	Body_part 2287 2296	Karotiden
+T89	Body_part 2301 2316	Leistenarterien
+T90	Local_specification 2317 2326	beidseits
+T91	Measurement 2327 2342	auskultatorisch
+T92	State_of_health 2343 2354	unauffällig
+T93	Body_part 2357 2362	Pulmo
+T94	Medical_condition 2365 2389	vesikuläres Atemgeräusch
+T95	Local_specification 2395 2401	beiden
+T96	Body_part 2402 2408	Lungen
+T97	Medical_condition 2417 2419	RG
+T98	Body_part 2422 2429	Abdomen
+T99	Measurement 2430 2435	weich
+T100	Medical_condition 2443 2455	Druckschmerz
+T101	Medical_condition 2464 2475	Resistenzen
+T102	Body_part 2478 2491	Darmgeräusche
+T103	State_of_health 2492 2502	regelrecht
+T104	Medical_condition 2511 2529	Unterschenkelödeme
+T105	Local_specification 2532 2541	periphere
+T106	Process 2542 2547	Pulse
+T107	Measurement 2548 2568	seitengleich tastbar
+T108	Medical_specification 2571 2584	neurologische
+T109	Diaglab_procedure 2585 2597	Untersuchung
+T110	State_of_health 2611 2622	unauffällig
+T111	Biological_parameter 2625 2635	Fähigkeits
+T112	Process 2640 2663	Aktivitätseinschränkung
+T113	Diaglab_procedure 2714 2741	Psychosomatische Diagnostik
+T114	Diaglab_procedure 2744 2759	HADS-Fragebogen
+T115	Medical_condition 2762 2767	Angst
+T116	Medical_condition 2772 2785	Depressivität
+T117	Measurement 2786 2801	deutlich erhöht
+T118	Measurement 2806 2823	15 von 21 Punkten
+T119	Medical_condition 2828 2833	Angst
+T120	Measurement 2838 2855	10 von 21 Punkten
+T121	Medical_condition 2860 2873	Depressivität
+T122	Diaglab_procedure 2876 2892	Diagnostik Labor
+T123	Diaglab_procedure 2918 2935	Laboruntersuchung
+T124	Biological_parameter 2954 2959	Werte
+T125	State_of_health 2963 2974	Normbereich
+T126	Diaglab_procedure 2977 2987	Diagnostik
+T127	Diaglab_procedure 2988 2991	EKG
+T128	State_of_health 2994 3007	Sinusrhythmus
+T129	Measurement 3010 3018	Linkstyp
+T130	State_of_health 3035 3039	Norm
+T131	State_of_health 3048 3061	unauffälliger
+T132	Process 3062 3080	Stromkurvenverlauf
+T133	Diaglab_procedure 3083 3093	Ergometrie
+T134	Body_part 3096 3112	Fahrradergometer
+T135	Time_information 3115 3127	bei Aufnahme
+T136	Measurement 3144 3162	25 W an bis 21 Min
+T137	Measurement 3165 3170	275 W
+T138	Biological_parameter 3179 3181	HF
+T139	Measurement 3182 3189	180/min
+T140	Measurement 3192 3197	max .
+T141	Process 3198 3207	Blutdruck
+T142	Measurement 3208 3220	200/100 mmHg
+T143	Measurement 3223 3234	Durchgehend
+T144	State_of_health 3235 3248	Sinusrhythmus
+T145	Medical_condition 3270 3285	Rhythmusstörung
+T146	Medical_condition 3294 3296	AP
+T147	Measurement 3305 3317	signifikante
+T148	Medical_condition 3318 3332	ST-Veränderung
+T149	Medical_condition 3354 3369	Rhythmusstörung
+T150	Process 3378 3387	Belastung
+T151	Medical_condition 3431 3446	Auffälligkeiten
+T152	Body_part 3450 3460	Blutdruck-
+T153	Body_part 3465 3478	Pulsverhalten
+T154	Medical_condition 3487 3512	ST-Strecken-Veränderungen
+T155	Medical_condition 3518 3545	Angina pectoris-Beschwerden
+T156	Diaglab_procedure 3548 3554	LZ EKG
+T157	Time_information 3558 3568	07.03.2018
+T158	Measurement 3571 3582	Durchgehend
+T159	State_of_health 3583 3596	Sinusrhythmus
+T160	Measurement 3599 3614	maximal 120/min
+T161	Measurement 3619 3629	minimal 40
+T162	Measurement 3629 3635	/min .
+T163	Process 3654 3656	HF
+T164	Measurement 3657 3663	64/min
+T165	Medical_condition 3677 3681	SVES
+T166	Process 3687 3689	RR
+T167	Time_information 3693 3703	08.03.2018
+T168	State_of_health 3706 3718	Normotensive
+T169	Process 3719 3727	RR-Werte
+T170	Medical_condition 3745 3752	Dipping
+T171	Time_information 3773 3781	Tagsüber
+T172	Medication 3784 3789	Syst.
+T173	Measurement 3800 3820	110 mmHg 90-130 mmHg
+T174	Medication 3825 3831	Diast.
+T175	Measurement 3842 3860	70 mmHg 55-85 mmHg
+T176	Time_information 3865 3877	In der Nacht
+T177	Medical_condition 3880 3884	Syst
+T178	Measurement 3895 3917	100 mmHg 95 - 105 mmHg
+T179	Treatment 3922 3928	Diast.
+T180	Measurement 3939 3959	60 mmHg 55 - 65 mmHg
+T181	Diaglab_procedure 3964 3981	Echokardiographie
+T182	Measurement 3984 3997	Normal großer
+T183	Body_part 3998 4014	linker Ventrikel
+T184	State_of_health 4019 4027	normaler
+T185	Medical_specification 4028 4040	systolischer
+T186	Biological_parameter 4041 4049	Funktion
+T187	Local_specification 4058 4067	regionale
+T188	Medical_condition 4068 4088	Wandbewegungsstörung
+T189	Medical_condition 4097 4114	Compliancestörung
+T190	Medical_specification 4117 4129	Systolischer
+T191	Biological_chemistry 4130 4151	Pulmonalarteriendruck
+T192	State_of_health 4155 4166	Normbereich
+T193	Medical_condition 4182 4188	Befund
+T194	Medical_condition 4196 4210	Perikarderguss
+T195	Medical_condition 4218 4230	Pleuraerguss
+T196	Local_specification 4231 4240	beidseits
+T197	Medical_condition 4260 4271	Herzneurose
+T198	Measurement 4274 4279	F45.3
+T199	Biological_chemistry 4285 4291	ICD-10
+T200	Person 4313 4317	Pat.
+T201	Process 4349 4359	Stabilität
+T202	Biological_parameter 4442 4462	Belastbarkeitsgrenze
+T203	Process 4555 4577	Rehabilitationsverlauf
+T204	Medical_condition 4582 4590	Epikrise
+T205	Treatment 4602 4616	Rehabilitation
+T206	Medical_condition 4625 4645	muskuläre Kräftigung
+T207	Medical_specification 4652 4663	körperliche
+T208	Medical_specification 4668 4678	psychische
+T209	Process 4679 4693	Stabilisierung
+T210	Diaglab_procedure 4704 4716	Langzeit-EKG
+T211	Time_information 4720 4730	07.03.2018
+T212	State_of_health 4749 4764	normofrequenter
+T213	Biological_parameter 4765 4778	Sinusrhythmus
+T214	Measurement 4784 4796	höhergradige
+T215	Medical_condition 4797 4814	Rhythmusstörungen
+T216	Diaglab_procedure 4831 4844	Reha-Ergebnis
+T217	Diaglab_procedure 4849 4870	Abschlussuntersuchung
+T218	Diaglab_procedure 4881 4902	Abschlussuntersuchung
+T219	Person 4911 4915	Pat.
+T220	Process 4935 4948	Belastbarkeit
+T221	Biological_parameter 4953 4961	Ausdauer
+T222	Measurement 4962 4972	gesteigert
+T223	Measurement 5022 5031	kräftiger
+T224	Measurement 5036 5048	ausdauernder
+T225	Time_information 5051 5075	Während des Aufenthaltes
+T226	State_of_health 5101 5113	Verbesserung
+T227	Medical_condition 5118 5139	Erschöpfungszustandes
+T228	Person 5155 5159	Pat.
+T229	Process 5266 5270	Puls
+T230	Treatment 5279 5289	Entlassung
+T231	State_of_health 5290 5303	normofrequent
+T232	Measurement 5308 5318	regelmäßig
+T233	Medical_condition 5321 5348	Sozialmedizinische Epikrise
+T234	Person 5369 5374	Pat .
+T235	Diaglab_procedure 5390 5408	Selbsteinschätzung
+T236	Person 5413 5422	Patienten
+T237	Person 5429 5433	Pat.
+T238	State_of_health 5445 5456	in der Lage
+T239	Treatment 5503 5527	Ambulante Psychotherapie
+T240	Person 5601 5624	Michael Mobitz Oberarzt
+R1	has_time_info arg1:T3 arg2:T4
+R2	has_time_info arg1:T10 arg2:T9
+R3	has_time_info arg1:T11 arg2:T9
+R4	has_time_info arg1:T12 arg2:T9
+R5	has_time_info arg1:T13 arg2:T9
+R6	hasstate arg1:T10 arg2:T11
+R7	hasstate arg1:T10 arg2:T12
+R8	is_linked_to arg1:T10 arg2:T13
+R9	is_linked_to arg1:T11 arg2:T12
+R10	is_linked_to arg1:T11 arg2:T13
+R11	is_linked_to arg1:T12 arg2:T13
+R12	has_measure arg1:T14 arg2:T15
+R13	hasstate arg1:T14 arg2:T16
+R14	has_time_info arg1:T14 arg2:T17
+R15	has_measure arg1:T16 arg2:T15
+R16	has_time_info arg1:T15 arg2:T17
+R17	has_time_info arg1:T16 arg2:T17
+R18	affects arg1:T19 arg2:T18
+R19	hasstate arg1:T18 arg2:T20
+R20	hasstate arg1:T19 arg2:T20
+R21	has_time_info arg1:T21 arg2:T22
+R22	hasstate arg1:T24 arg2:T23
+R23	hasstate arg1:T23 arg2:T25
+R24	is_linked_to arg1:T24 arg2:T25
+R25	has_measure arg1:T27 arg2:T26
+R26	is_specified arg1:T32 arg2:T31
+R27	affects arg1:T34 arg2:T35
+R28	affects arg1:T34 arg2:T36
+R29	affects arg1:T34 arg2:T37
+R30	affects arg1:T35 arg2:T36
+R31	affects arg1:T35 arg2:T37
+R32	affects arg1:T36 arg2:T37
+R33	affects arg1:T38 arg2:T39
+R34	hasstate arg1:T38 arg2:T40
+R35	affects arg1:T40 arg2:T39
+R36	is_linked_to arg1:T42 arg2:T43
+R37	is_linked_to arg1:T44 arg2:T45
+R38	has_measure arg1:T44 arg2:T46
+R39	has_measure arg1:T45 arg2:T46
+R40	has_time_info arg1:T48 arg2:T49
+R41	affects arg1:T50 arg2:T48
+R42	affects arg1:T51 arg2:T48
+R43	affects arg1:T48 arg2:T52
+R44	affects arg1:T53 arg2:T48
+R45	has_time_info arg1:T50 arg2:T49
+R46	has_time_info arg1:T51 arg2:T49
+R47	has_time_info arg1:T52 arg2:T49
+R48	has_time_info arg1:T53 arg2:T49
+R49	hasstate arg1:T50 arg2:T51
+R50	hasstate arg1:T50 arg2:T52
+R51	is_linked_to arg1:T50 arg2:T53
+R52	is_linked_to arg1:T51 arg2:T52
+R53	is_linked_to arg1:T51 arg2:T53
+R54	is_linked_to arg1:T52 arg2:T53
+R55	has_time_info arg1:T54 arg2:T55
+R56	involves arg1:T56 arg2:T57
+R57	consequence arg1:T58 arg2:T56
+R58	has_time_info arg1:T56 arg2:T59
+R59	consequence arg1:T60 arg2:T56
+R60	treats arg1:T57 arg2:T58
+R61	has_time_info arg1:T57 arg2:T59
+R62	if_consequence arg1:T60 arg2:T57
+R63	has_time_info arg1:T58 arg2:T59
+R64	is_linked_to arg1:T58 arg2:T60
+R65	has_time_info arg1:T60 arg2:T59
+R66	affects arg1:T72 arg2:T73
+R67	has_measure arg1:T72 arg2:T74
+R68	is_specified arg1:T72 arg2:T75
+R69	affects arg1:T72 arg2:T76
+R70	has_measure arg1:T72 arg2:T77
+R71	affects arg1:T72 arg2:T78
+R72	affects arg1:T72 arg2:T79
+R73	has_measure arg1:T72 arg2:T80
+R74	shows arg1:T72 arg2:T81
+R75	has_measure arg1:T72 arg2:T82
+R76	has_measure arg1:T72 arg2:T83
+R77	has_measure arg1:T73 arg2:T74
+R78	is_specified arg1:T73 arg2:T75
+R79	affects arg1:T76 arg2:T73
+R80	has_measure arg1:T73 arg2:T77
+R81	is_linked_to arg1:T78 arg2:T73
+R82	is_linked_to arg1:T79 arg2:T73
+R83	has_measure arg1:T73 arg2:T80
+R84	is_linked_to arg1:T73 arg2:T81
+R85	has_measure arg1:T73 arg2:T82
+R86	has_measure arg1:T73 arg2:T83
+R87	has_measure arg1:T75 arg2:T74
+R88	has_measure arg1:T76 arg2:T74
+R89	has_measure arg1:T74 arg2:T77
+R90	has_measure arg1:T78 arg2:T74
+R91	has_measure arg1:T79 arg2:T74
+R92	has_measure arg1:T74 arg2:T80
+R93	has_measure arg1:T81 arg2:T74
+R94	has_measure arg1:T74 arg2:T82
+R95	has_measure arg1:T83 arg2:T74
+R96	is_specified arg1:T76 arg2:T75
+R97	is_specified arg1:T77 arg2:T75
+R98	is_specified arg1:T78 arg2:T75
+R99	is_specified arg1:T79 arg2:T75
+R100	has_measure arg1:T75 arg2:T80
+R101	is_specified arg1:T81 arg2:T75
+R102	has_measure arg1:T75 arg2:T82
+R103	is_specified arg1:T83 arg2:T75
+R104	has_measure arg1:T76 arg2:T77
+R105	affects arg1:T76 arg2:T78
+R106	affects arg1:T76 arg2:T79
+R107	has_measure arg1:T76 arg2:T80
+R108	affects arg1:T76 arg2:T81
+R109	has_measure arg1:T76 arg2:T82
+R110	has_measure arg1:T76 arg2:T83
+R111	has_measure arg1:T78 arg2:T77
+R112	has_measure arg1:T79 arg2:T77
+R113	has_measure arg1:T80 arg2:T77
+R114	has_measure arg1:T81 arg2:T77
+R115	has_measure arg1:T82 arg2:T77
+R116	has_measure arg1:T83 arg2:T77
+R117	is_linked_to arg1:T79 arg2:T78
+R118	has_measure arg1:T78 arg2:T80
+R119	affects arg1:T81 arg2:T78
+R120	has_measure arg1:T78 arg2:T82
+R121	has_measure arg1:T78 arg2:T83
+R122	has_measure arg1:T79 arg2:T80
+R123	consequence arg1:T79 arg2:T81
+R124	has_measure arg1:T79 arg2:T82
+R125	has_measure arg1:T79 arg2:T83
+R126	has_measure arg1:T81 arg2:T80
+R127	has_measure arg1:T80 arg2:T82
+R128	consequence arg1:T80 arg2:T83
+R129	has_measure arg1:T81 arg2:T82
+R130	has_measure arg1:T81 arg2:T83
+R131	has_measure arg1:T83 arg2:T82
+R132	hasstate arg1:T85 arg2:T84
+R133	hasstate arg1:T86 arg2:T84
+R134	has_measure arg1:T84 arg2:T87
+R135	hasstate arg1:T88 arg2:T84
+R136	hasstate arg1:T89 arg2:T84
+R137	is_located arg1:T84 arg2:T90
+R138	has_measure arg1:T84 arg2:T91
+R139	hasstate arg1:T84 arg2:T92
+R140	hasstate arg1:T85 arg2:T86
+R141	has_measure arg1:T85 arg2:T87
+R142	is_located arg1:T85 arg2:T88
+R143	is_located arg1:T85 arg2:T89
+R144	is_located arg1:T85 arg2:T90
+R145	has_measure arg1:T85 arg2:T91
+R146	hasstate arg1:T85 arg2:T92
+R147	has_measure arg1:T86 arg2:T87
+R148	hasstate arg1:T88 arg2:T86
+R149	hasstate arg1:T89 arg2:T86
+R150	is_located arg1:T86 arg2:T90
+R151	has_measure arg1:T86 arg2:T91
+R152	hasstate arg1:T86 arg2:T92
+R153	has_measure arg1:T88 arg2:T87
+R154	is_located arg1:T87 arg2:T89
+R155	is_located arg1:T87 arg2:T90
+R156	has_measure arg1:T91 arg2:T87
+R157	has_measure arg1:T92 arg2:T87
+R158	is_located arg1:T88 arg2:T89
+R159	is_located arg1:T88 arg2:T90
+R160	has_measure arg1:T88 arg2:T91
+R161	hasstate arg1:T88 arg2:T92
+R162	is_located arg1:T89 arg2:T90
+R163	is_located arg1:T91 arg2:T89
+R164	hasstate arg1:T89 arg2:T92
+R165	is_located arg1:T91 arg2:T90
+R166	is_located arg1:T92 arg2:T90
+R167	has_measure arg1:T92 arg2:T91
+R168	hasstate arg1:T93 arg2:T94
+R169	is_located arg1:T93 arg2:T95
+R170	is_located arg1:T96 arg2:T93
+R171	hasstate arg1:T93 arg2:T97
+R172	is_located arg1:T93 arg2:T98
+R173	has_measure arg1:T93 arg2:T99
+R174	hasstate arg1:T93 arg2:T100
+R175	hasstate arg1:T93 arg2:T101
+R176	is_located arg1:T93 arg2:T102
+R177	hasstate arg1:T93 arg2:T103
+R178	hasstate arg1:T93 arg2:T104
+R179	is_located arg1:T93 arg2:T105
+R180	is_located arg1:T106 arg2:T93
+R181	has_measure arg1:T93 arg2:T107
+R182	is_specified arg1:T93 arg2:T108
+R183	examines arg1:T109 arg2:T93
+R184	hasstate arg1:T93 arg2:T110
+R185	is_located arg1:T94 arg2:T95
+R186	hasstate arg1:T96 arg2:T94
+R187	is_linked_to arg1:T94 arg2:T97
+R188	is_located arg1:T94 arg2:T98
+R189	has_measure arg1:T94 arg2:T99
+R190	is_linked_to arg1:T94 arg2:T100
+R191	is_linked_to arg1:T94 arg2:T101
+R192	hasstate arg1:T102 arg2:T94
+R193	hasstate arg1:T94 arg2:T103
+R194	hasstate arg1:T94 arg2:T104
+R195	is_located arg1:T94 arg2:T105
+R196	hasstate arg1:T106 arg2:T94
+R197	has_measure arg1:T94 arg2:T107
+R198	is_specified arg1:T94 arg2:T108
+R199	shows arg1:T109 arg2:T94
+R200	hasstate arg1:T94 arg2:T110
+R201	is_located arg1:T96 arg2:T95
+R202	is_located arg1:T97 arg2:T95
+R203	is_located arg1:T98 arg2:T95
+R204	is_located arg1:T99 arg2:T95
+R205	is_located arg1:T100 arg2:T95
+R206	is_located arg1:T101 arg2:T95
+R207	is_located arg1:T102 arg2:T95
+R208	is_located arg1:T103 arg2:T95
+R209	is_located arg1:T104 arg2:T95
+R210	is_located arg1:T95 arg2:T105
+R211	is_located arg1:T106 arg2:T95
+R212	is_located arg1:T107 arg2:T95
+R213	is_located arg1:T108 arg2:T95
+R214	examines arg1:T109 arg2:T95
+R215	is_located arg1:T110 arg2:T95
+R216	hasstate arg1:T96 arg2:T97
+R217	is_located arg1:T96 arg2:T98
+R218	has_measure arg1:T96 arg2:T99
+R219	hasstate arg1:T96 arg2:T100
+R220	hasstate arg1:T96 arg2:T101
+R221	is_located arg1:T96 arg2:T102
+R222	hasstate arg1:T96 arg2:T103
+R223	hasstate arg1:T96 arg2:T104
+R224	is_located arg1:T96 arg2:T105
+R225	is_located arg1:T106 arg2:T96
+R226	has_measure arg1:T96 arg2:T107
+R227	is_specified arg1:T96 arg2:T108
+R228	examines arg1:T109 arg2:T96
+R229	hasstate arg1:T96 arg2:T110
+R230	is_located arg1:T97 arg2:T98
+R231	has_measure arg1:T97 arg2:T99
+R232	is_linked_to arg1:T97 arg2:T100
+R233	consequence arg1:T97 arg2:T101
+R234	is_located arg1:T97 arg2:T102
+R235	hasstate arg1:T97 arg2:T103
+R236	is_linked_to arg1:T97 arg2:T104
+R237	is_located arg1:T97 arg2:T105
+R238	hasstate arg1:T106 arg2:T97
+R239	has_measure arg1:T97 arg2:T107
+R240	is_specified arg1:T97 arg2:T108
+R241	shows arg1:T109 arg2:T97
+R242	hasstate arg1:T97 arg2:T110
+R243	has_measure arg1:T98 arg2:T99
+R244	hasstate arg1:T98 arg2:T100
+R245	hasstate arg1:T98 arg2:T101
+R246	is_located arg1:T98 arg2:T102
+R247	hasstate arg1:T98 arg2:T103
+R248	hasstate arg1:T98 arg2:T104
+R249	is_located arg1:T98 arg2:T105
+R250	is_located arg1:T106 arg2:T98
+R251	has_measure arg1:T98 arg2:T107
+R252	is_specified arg1:T98 arg2:T108
+R253	examines arg1:T109 arg2:T98
+R254	hasstate arg1:T98 arg2:T110
+R255	has_measure arg1:T100 arg2:T99
+R256	has_measure arg1:T101 arg2:T99
+R257	has_measure arg1:T102 arg2:T99
+R258	consequence arg1:T99 arg2:T103
+R259	has_measure arg1:T104 arg2:T99
+R260	is_located arg1:T99 arg2:T105
+R261	has_measure arg1:T106 arg2:T99
+R262	has_measure arg1:T107 arg2:T99
+R263	has_measure arg1:T108 arg2:T99
+R264	has_measure arg1:T109 arg2:T99
+R265	has_measure arg1:T110 arg2:T99
+R266	is_linked_to arg1:T100 arg2:T101
+R267	hasstate arg1:T102 arg2:T100
+R268	hasstate arg1:T100 arg2:T103
+R269	consequence arg1:T100 arg2:T104
+R270	is_located arg1:T100 arg2:T105
+R271	is_linked_to arg1:T100 arg2:T106
+R272	has_measure arg1:T100 arg2:T107
+R273	is_specified arg1:T100 arg2:T108
+R274	shows arg1:T109 arg2:T100
+R275	hasstate arg1:T100 arg2:T110
+R276	is_located arg1:T101 arg2:T102
+R277	hasstate arg1:T101 arg2:T103
+R278	is_linked_to arg1:T101 arg2:T104
+R279	is_located arg1:T101 arg2:T105
+R280	hasstate arg1:T106 arg2:T101
+R281	has_measure arg1:T101 arg2:T107
+R282	is_specified arg1:T101 arg2:T108
+R283	examines arg1:T109 arg2:T101
+R284	hasstate arg1:T101 arg2:T110
+R285	hasstate arg1:T102 arg2:T103
+R286	hasstate arg1:T102 arg2:T104
+R287	is_located arg1:T102 arg2:T105
+R288	is_located arg1:T106 arg2:T102
+R289	has_measure arg1:T102 arg2:T107
+R290	is_specified arg1:T102 arg2:T108
+R291	examines arg1:T109 arg2:T102
+R292	hasstate arg1:T102 arg2:T110
+R293	hasstate arg1:T104 arg2:T103
+R294	is_located arg1:T103 arg2:T105
+R295	hasstate arg1:T106 arg2:T103
+R296	has_measure arg1:T103 arg2:T107
+R297	is_specified arg1:T103 arg2:T108
+R298	shows arg1:T109 arg2:T103
+R299	hasstate arg1:T110 arg2:T103
+R300	is_located arg1:T104 arg2:T105
+R301	hasstate arg1:T106 arg2:T104
+R302	has_measure arg1:T104 arg2:T107
+R303	is_specified arg1:T104 arg2:T108
+R304	shows arg1:T109 arg2:T104
+R305	hasstate arg1:T104 arg2:T110
+R306	is_located arg1:T106 arg2:T105
+R307	is_located arg1:T107 arg2:T105
+R308	is_located arg1:T108 arg2:T105
+R309	examines arg1:T109 arg2:T105
+R310	is_located arg1:T110 arg2:T105
+R311	has_measure arg1:T106 arg2:T107
+R312	is_specified arg1:T106 arg2:T108
+R313	examines arg1:T109 arg2:T106
+R314	hasstate arg1:T106 arg2:T110
+R315	has_measure arg1:T108 arg2:T107
+R316	shows arg1:T109 arg2:T107
+R317	has_measure arg1:T110 arg2:T107
+R318	is_specified arg1:T109 arg2:T108
+R319	is_specified arg1:T110 arg2:T108
+R320	shows arg1:T109 arg2:T110
+R321	is_specified arg1:T112 arg2:T111
+R322	shows arg1:T114 arg2:T115
+R323	shows arg1:T114 arg2:T116
+R324	shows arg1:T114 arg2:T117
+R325	shows arg1:T114 arg2:T118
+R326	shows arg1:T114 arg2:T119
+R327	shows arg1:T114 arg2:T120
+R328	shows arg1:T114 arg2:T121
+R329	hasstate arg1:T115 arg2:T116
+R330	has_measure arg1:T115 arg2:T117
+R331	has_measure arg1:T115 arg2:T118
+R332	is_linked_to arg1:T115 arg2:T119
+R333	has_measure arg1:T115 arg2:T120
+R334	is_linked_to arg1:T115 arg2:T121
+R335	has_measure arg1:T116 arg2:T117
+R336	has_measure arg1:T116 arg2:T118
+R337	consequence arg1:T116 arg2:T119
+R338	has_measure arg1:T116 arg2:T120
+R339	is_linked_to arg1:T116 arg2:T121
+R340	has_measure arg1:T118 arg2:T117
+R341	has_measure arg1:T119 arg2:T117
+R342	has_measure arg1:T117 arg2:T120
+R343	has_measure arg1:T121 arg2:T117
+R344	has_measure arg1:T119 arg2:T118
+R345	has_measure arg1:T118 arg2:T120
+R346	has_measure arg1:T121 arg2:T118
+R347	has_measure arg1:T119 arg2:T120
+R348	is_linked_to arg1:T119 arg2:T121
+R349	has_measure arg1:T121 arg2:T120
+R350	consequence arg1:T122 arg2:T123
+R351	shows arg1:T122 arg2:T124
+R352	shows arg1:T122 arg2:T125
+R353	shows arg1:T123 arg2:T124
+R354	shows arg1:T123 arg2:T125
+R355	hasstate arg1:T124 arg2:T125
+R356	shows arg1:T127 arg2:T128
+R357	has_measure arg1:T127 arg2:T129
+R358	has_measure arg1:T128 arg2:T129
+R359	hasstate arg1:T132 arg2:T131
+R360	examines arg1:T133 arg2:T134
+R361	has_time_info arg1:T133 arg2:T135
+R362	has_time_info arg1:T134 arg2:T135
+R363	has_measure arg1:T138 arg2:T139
+R364	has_measure arg1:T138 arg2:T140
+R365	has_measure arg1:T139 arg2:T140
+R366	has_measure arg1:T141 arg2:T142
+R367	has_measure arg1:T144 arg2:T143
+R368	has_measure arg1:T145 arg2:T143
+R369	has_measure arg1:T146 arg2:T143
+R370	has_measure arg1:T147 arg2:T143
+R371	has_measure arg1:T148 arg2:T143
+R372	has_measure arg1:T149 arg2:T143
+R373	hasstate arg1:T145 arg2:T144
+R374	hasstate arg1:T146 arg2:T144
+R375	has_measure arg1:T144 arg2:T147
+R376	hasstate arg1:T148 arg2:T144
+R377	hasstate arg1:T149 arg2:T144
+R378	hasstate arg1:T145 arg2:T146
+R379	has_measure arg1:T145 arg2:T147
+R380	hasstate arg1:T145 arg2:T148
+R381	is_linked_to arg1:T145 arg2:T149
+R382	has_measure arg1:T146 arg2:T147
+R383	hasstate arg1:T146 arg2:T148
+R384	affects arg1:T149 arg2:T146
+R385	has_measure arg1:T148 arg2:T147
+R386	has_measure arg1:T149 arg2:T147
+R387	is_linked_to arg1:T148 arg2:T149
+R388	is_linked_to arg1:T150 arg2:T151
+R389	is_located arg1:T150 arg2:T152
+R390	is_located arg1:T150 arg2:T153
+R391	is_located arg1:T151 arg2:T152
+R392	is_located arg1:T151 arg2:T153
+R393	is_located arg1:T152 arg2:T153
+R394	hasstate arg1:T154 arg2:T155
+R395	has_time_info arg1:T156 arg2:T157
+R396	has_measure arg1:T159 arg2:T158
+R397	has_measure arg1:T160 arg2:T158
+R398	has_measure arg1:T158 arg2:T161
+R399	has_measure arg1:T159 arg2:T160
+R400	has_measure arg1:T159 arg2:T161
+R401	has_measure arg1:T160 arg2:T161
+R402	has_measure arg1:T163 arg2:T164
+R403	has_time_info arg1:T166 arg2:T167
+R404	hasstate arg1:T169 arg2:T168
+R405	hasstate arg1:T170 arg2:T168
+R406	hasstate arg1:T169 arg2:T170
+R407	has_time_info arg1:T172 arg2:T171
+R408	has_time_info arg1:T173 arg2:T171
+R409	has_time_info arg1:T174 arg2:T171
+R410	has_time_info arg1:T175 arg2:T171
+R411	has_measure arg1:T172 arg2:T173
+R412	is_linked_to arg1:T172 arg2:T174
+R413	has_measure arg1:T172 arg2:T175
+R414	consequence arg1:T173 arg2:T174
+R415	has_measure arg1:T173 arg2:T175
+R416	has_measure arg1:T174 arg2:T175
+R417	has_time_info arg1:T177 arg2:T176
+R418	has_measure arg1:T183 arg2:T182
+R419	has_measure arg1:T184 arg2:T182
+R420	has_measure arg1:T185 arg2:T182
+R421	has_measure arg1:T186 arg2:T182
+R422	is_located arg1:T182 arg2:T187
+R423	has_measure arg1:T188 arg2:T182
+R424	hasstate arg1:T183 arg2:T184
+R425	is_located arg1:T185 arg2:T183
+R426	is_located arg1:T186 arg2:T183
+R427	is_located arg1:T183 arg2:T187
+R428	hasstate arg1:T183 arg2:T188
+R429	hasstate arg1:T185 arg2:T184
+R430	hasstate arg1:T186 arg2:T184
+R431	hasstate arg1:T187 arg2:T184
+R432	hasstate arg1:T188 arg2:T184
+R433	is_specified arg1:T186 arg2:T185
+R434	is_specified arg1:T187 arg2:T185
+R435	is_specified arg1:T188 arg2:T185
+R436	is_located arg1:T186 arg2:T187
+R437	hasstate arg1:T186 arg2:T188
+R438	is_located arg1:T188 arg2:T187
+R439	is_specified arg1:T191 arg2:T190
+R440	is_specified arg1:T192 arg2:T190
+R441	hasstate arg1:T191 arg2:T192
+R442	is_linked_to arg1:T193 arg2:T194
+R443	is_located arg1:T195 arg2:T196
+R444	has_measure arg1:T197 arg2:T198
+R445	is_linked_to arg1:T197 arg2:T199
+R446	has_measure arg1:T199 arg2:T198
+R447	hasstate arg1:T203 arg2:T204
+R448	is_linked_to arg1:T205 arg2:T206
+R449	affects arg1:T205 arg2:T207
+R450	if_consequence arg1:T208 arg2:T205
+R451	if_consequence arg1:T209 arg2:T205
+R452	is_specified arg1:T206 arg2:T207
+R453	is_specified arg1:T206 arg2:T208
+R454	hasstate arg1:T209 arg2:T206
+R455	is_specified arg1:T208 arg2:T207
+R456	is_specified arg1:T209 arg2:T207
+R457	is_specified arg1:T209 arg2:T208
+R458	has_time_info arg1:T210 arg2:T211
+R459	shows arg1:T210 arg2:T212
+R460	shows arg1:T210 arg2:T213
+R461	shows arg1:T210 arg2:T214
+R462	shows arg1:T210 arg2:T215
+R463	has_time_info arg1:T212 arg2:T211
+R464	has_time_info arg1:T213 arg2:T211
+R465	has_time_info arg1:T214 arg2:T211
+R466	has_time_info arg1:T215 arg2:T211
+R467	hasstate arg1:T213 arg2:T212
+R468	hasstate arg1:T214 arg2:T212
+R469	hasstate arg1:T215 arg2:T212
+R470	has_measure arg1:T213 arg2:T214
+R471	affects arg1:T213 arg2:T215
+R472	has_measure arg1:T215 arg2:T214
+R473	examines arg1:T217 arg2:T216
+R474	shows arg1:T218 arg2:T219
+R475	affects arg1:T220 arg2:T221
+R476	has_measure arg1:T220 arg2:T222
+R477	has_measure arg1:T221 arg2:T222
+R478	has_measure arg1:T224 arg2:T223
+R479	has_time_info arg1:T226 arg2:T225
+R480	has_time_info arg1:T227 arg2:T225
+R481	hasstate arg1:T227 arg2:T226
+R482	affects arg1:T230 arg2:T229
+R483	hasstate arg1:T229 arg2:T231
+R484	has_measure arg1:T229 arg2:T232
+R485	is_linked_to arg1:T230 arg2:T231
+R486	if_consequence arg1:T232 arg2:T230
+R487	has_measure arg1:T231 arg2:T232
+R488	affects arg1:T233 arg2:T234

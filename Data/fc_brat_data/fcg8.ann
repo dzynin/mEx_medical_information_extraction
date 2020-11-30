@@ -1,0 +1,33 @@
+T1	Measurement 0 7	Haeufig
+T2	Process 8 17	Stuhlgang
+T3	Measurement 20 27	4 x/Tag
+T4	Measurement 35 42	geformt
+T5	Process 43 45	RR
+T6	Measurement 59 63	hoch
+T7	Treatment 66 72	Beginn
+T8	Medication 84 98	Beloc Zok mite
+T9	Treatment 114 129	Dosissteigerung
+T10	Medical_condition 164 180	Taubheitsgefuehl
+T11	Body_part 188 195	Haenden
+T12	Measurement 202 214	nachgelassen
+T13	Medical_condition 223 230	Dysurie
+T14	Medical_condition 239 245	Oedeme
+T15	Medical_condition 253 259	Fieber
+R1	has_measure arg1:T2 arg2:T1
+R2	has_measure arg1:T3 arg2:T1
+R3	has_measure arg1:T1 arg2:T4
+R4	has_measure arg1:T2 arg2:T3
+R5	has_measure arg1:T2 arg2:T4
+R6	has_measure arg1:T3 arg2:T4
+R7	has_measure arg1:T5 arg2:T6
+R8	treats arg1:T7 arg2:T5
+R9	treats arg1:T8 arg2:T5
+R10	consequence arg1:T5 arg2:T9
+R11	has_measure arg1:T7 arg2:T6
+R12	consequence arg1:T6 arg2:T8
+R13	has_measure arg1:T9 arg2:T6
+R14	involves arg1:T7 arg2:T8
+R15	consequence arg1:T7 arg2:T9
+R16	involves arg1:T9 arg2:T8
+R17	has_measure arg1:T11 arg2:T12
+R18	is_linked_to arg1:T14 arg2:T15

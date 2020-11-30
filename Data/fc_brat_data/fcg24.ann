@@ -1,0 +1,86 @@
+T1	Person 0 6	﻿Herrn
+T2	Person 7 15	Frau Dr.
+T3	Medication 16 21	med .
+T4	Person 22 37	Herr Mustermann
+T5	Person 40 56	Max Musterstraße
+T6	Person 96 121	Patient Erwin Schrödinger
+T7	Time_information 122 131	29.4.2018
+T8	Person 198 205	Patient
+T9	Time_information 230 255	20.04.2018 bis 25.04.2018
+T10	Treatment 259 281	stationärer Behandlung
+T11	Treatment 284 293	Diagnosen
+T12	Treatment 296 300	Ben.
+T13	Medical_condition 311 328	Hypertonie I10.00
+T14	Biological_chemistry 331 339	Katarakt
+T15	Measurement 342 347	H26.9
+T16	Medication 359 369	Medikation
+T17	Medication 372 382	Bisoprolol
+T18	Medication 385 394	Bisohexal
+T19	Dosing 395 400	10 mg
+T20	Dosing 405 419	1 - 0 - 0 - 0.
+T21	Medication 420 428	Ramipril
+T22	Medication 431 437	Deli x
+T23	Dosing 438 443	10 mg
+T24	Dosing 448 462	0 - 0 - 0 - 1.
+T25	Medication 463 472	Metformin
+T26	Medication 475 486	Siofor 1000
+T27	Dosing 491 505	1 - 0 - 0 - 0.
+T28	Treatment 616 653	Stationäre Aufnahme in unserer Klinik
+T29	Treatment 658 676	Katarakt-Operation
+T30	Medical_condition 681 696	seniler Katarkt
+T31	Treatment 703 712	Operation
+T32	Treatment 728 755	Phakoemulsifikation-Technik
+T33	Medical_device 773 787	Kunstoff-Linse
+T34	Time_information 788 801	am 21.04.2018
+T35	Treatment 814 835	postoperative Verlauf
+T36	State_of_health 852 868	komplikationslos
+T37	Time_information 875 885	im Verlauf
+T38	Process 896 904	RR-Werte
+T39	Diaglab_procedure 924 933	Kontrolle
+T40	State_of_health 948 969	normotensiven Bereich
+T41	Treatment 976 986	Entlassung
+T42	Medical_condition 1168 1182	Albrecht Gräfe
+T43	Person 1185 1193	Chefarzt
+T44	Person 1196 1218	Dr. med . Joseph Beuys
+T45	Person 1221 1229	Oberarzt
+T46	Person 1243 1250	Dr. med
+T47	Medication 1253 1270	Leonardo DiCaprio
+T48	Treatment 1273 1292	Stationsarzt/Ärztin
+R1	affects arg1:T1 arg2:T2
+R2	affects arg1:T4 arg2:T5
+R3	has_time_info arg1:T6 arg2:T7
+R4	has_time_info arg1:T8 arg2:T9
+R5	affects arg1:T10 arg2:T8
+R6	has_time_info arg1:T10 arg2:T9
+R7	is_linked_to arg1:T11 arg2:T12
+R8	consequence arg1:T17 arg2:T18
+R9	has_dosing arg1:T17 arg2:T19
+R10	has_dosing arg1:T18 arg2:T19
+R11	has_dosing arg1:T21 arg2:T20
+R12	has_dosing arg1:T22 arg2:T23
+R13	has_dosing arg1:T22 arg2:T24
+R14	is_linked_to arg1:T22 arg2:T25
+R15	is_linked_to arg1:T22 arg2:T26
+R16	has_dosing arg1:T23 arg2:T24
+R17	has_dosing arg1:T25 arg2:T23
+R18	has_dosing arg1:T26 arg2:T23
+R19	has_dosing arg1:T25 arg2:T24
+R20	has_dosing arg1:T26 arg2:T24
+R21	is_linked_to arg1:T25 arg2:T26
+R22	is_linked_to arg1:T28 arg2:T29
+R23	treats arg1:T28 arg2:T30
+R24	treats arg1:T29 arg2:T30
+R25	involves arg1:T31 arg2:T32
+R26	involves arg1:T31 arg2:T33
+R27	has_time_info arg1:T31 arg2:T34
+R28	involves arg1:T32 arg2:T33
+R29	has_time_info arg1:T32 arg2:T34
+R30	has_time_info arg1:T33 arg2:T34
+R31	is_linked_to arg1:T35 arg2:T36
+R32	has_time_info arg1:T38 arg2:T37
+R33	has_time_info arg1:T39 arg2:T37
+R34	has_time_info arg1:T40 arg2:T37
+R35	examines arg1:T39 arg2:T38
+R36	hasstate arg1:T38 arg2:T40
+R37	shows arg1:T39 arg2:T40
+R38	involves arg1:T48 arg2:T47

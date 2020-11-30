@@ -1,0 +1,63 @@
+1	Heute	Heute	ADV	ADV	_	_	_	0	_	_	_
+2	erste	erste	ADJA	ADJA	_	_	_	0	_	_	_
+3	ambulante	ambulante	ADJA	ADJA	_	_	_	0	_	_	_
+4	Vorstellung	Vorstellung	NN	NN	_	_	_	0	_	_	_
+5	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+6	NTx	NTx	NN	NN	_	_	_	0	_	_	_
+7	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+8	01.01.2001	01.01.2001	CARD	CARD	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Subjektives	Subjektives	ADJA	ADJA	_	_	_	0	_	_	_
+2	Wohlbefinden	Wohlbefinden	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+5	Wundschmerzen	Wundschmerzen	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Diurese	Diurese	NN	NN	_	_	_	0	_	_	_
+2	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Ödeme	Ödeme	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Dyspnoe	Dyspnoe	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+3	Normbereich.Medikation	Normbereich.Medikation	NN	NN	_	_	_	0	_	_	_
+4	ausführlich	ausführlich	ADJD	ADJD	_	_	_	0	_	_	_
+5	besprochen	besprochen	VVPP	VVPP	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR-Messgerät	RR-Messgerät	NN	NN	_	_	_	0	_	_	_
+2	für	für	APPR	APPR	_	_	_	0	_	_	_
+3	zuhause	zuhause	ADJA	ADJA	_	_	_	0	_	_	_
+4	verschrieben	verschrieben	VVPP	VVPP	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	große	große	ADJA	ADJA	_	_	_	0	_	_	_
+2	Transplantat-Niere	Transplantat-Niere	NN	NN	_	_	_	0	_	_	_
+3	ohne	ohne	APPR	APPR	_	_	_	0	_	_	_
+4	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	freie	freie	ADJA	ADJA	_	_	_	0	_	_	_
+3	Flüßigkeit	Flüßigkeit	NN	NN	_	_	_	0	_	_	_
+4	perirenal	perirenal	ADJD	ADJD	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Blase	Blase	NN	NN	_	_	_	0	_	_	_
+2	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+3	Miktion	Miktion	NN	NN	_	_	_	0	_	_	_
+4	leer	leer	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+

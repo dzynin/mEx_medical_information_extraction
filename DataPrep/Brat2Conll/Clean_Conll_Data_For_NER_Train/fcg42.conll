@@ -1,0 +1,51 @@
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+"allgemeine	O
+Schlappheit	B-Medical_condition
+"	O
+.	O
+
+Berichtet	O
+häufiges	B-Measurement
+Wasserlassen	B-Process
+.	O
+
+Etwas	O
+Dysurie	B-Medical_condition
+.	O
+
+Stuhlgang	B-Process
+gut	B-State_of_health
+.	O
+
+Keine	O
+wesentlichen	B-Measurement
+Oedeme	B-Medical_condition
+.	O
+
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Valcyte	B-Medication
+angepasst	B-Treatment
+und	O
+Medikamente	B-Medication
+erneut	O
+besprochen	O
+.	O
+
+Sono:	O
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+keine	O
+perirenale	B-Local_specification
+Fluessigkeit	O
+.	O

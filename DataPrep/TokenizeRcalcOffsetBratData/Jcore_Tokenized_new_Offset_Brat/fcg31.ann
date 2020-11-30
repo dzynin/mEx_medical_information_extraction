@@ -1,0 +1,14 @@
+T0	Body_part 4 18	Nierenfunktion
+T1	State_of_health 35 44	gebessert
+T2	Biological_chemistry 51 65	Prografspiegel
+T3	State_of_health 70 84	im Zielbereich
+T4	Treatment 93 106	Dosisänderung
+T5	Biological_chemistry 109 116	Blut-PH
+T6	Measurement 126 138	sehr niedrig
+T7	Time_information 147 156	2 x tgl .
+T8	Dosing 157 170	eine Tablette
+T9	Medication 171 179	Bicanorm
+R1	hasstate arg1:T0 arg2:T0
+R2	hasstate arg1:T2 arg2:T2
+R3	has_measure arg1:T5 arg2:T5
+R4	has_dosing arg1:T8 arg2:T8

@@ -1,0 +1,28 @@
+Subjektives	B-State_of_health
+Wohlbefinden	I-State_of_health
+.	O
+
+Kein	O
+Übelkeit	B-Medical_condition
+,	O
+kein	O
+Erbrechen	B-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffällig	B-State_of_health
+.	O
+
+Bekannte	O
+Lymphozele	B-Medical_condition
+größenkonstant	B-Measurement
+(	O
+5	B-Measurement
+x	I-Measurement
+5	I-Measurement
+cm	I-Measurement
+)	O
+.	O

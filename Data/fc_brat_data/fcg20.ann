@@ -1,0 +1,27 @@
+T1	State_of_health 10 24	gutes Befinden
+T2	Medical_condition 33 41	Kraempfe
+T3	State_of_health 44 48	gute
+T4	Process 49 56	Diurese
+T5	Process 59 61	RR
+T6	State_of_health 62 77	gut eingestellt
+T7	State_of_health 87 96	sehr gute
+T8	Body_part 97 111	Nierenfunktion
+T9	Body_part 114 124	Leberwerte
+T10	Measurement 125 137	ruecklaeufig
+T11	Medical_condition 146 152	Oedeme
+T12	Diaglab_procedure 158 162	Sono
+T13	Medical_condition 168 172	Stau
+R1	hasstate arg1:T2 arg2:T1
+R2	hasstate arg1:T1 arg2:T3
+R3	hasstate arg1:T4 arg2:T1
+R4	hasstate arg1:T2 arg2:T3
+R5	hasstate arg1:T4 arg2:T2
+R6	hasstate arg1:T4 arg2:T3
+R7	hasstate arg1:T5 arg2:T6
+R8	hasstate arg1:T5 arg2:T7
+R9	is_located arg1:T5 arg2:T8
+R10	hasstate arg1:T6 arg2:T7
+R11	hasstate arg1:T8 arg2:T6
+R12	hasstate arg1:T8 arg2:T7
+R13	has_measure arg1:T9 arg2:T10
+R14	shows arg1:T12 arg2:T13

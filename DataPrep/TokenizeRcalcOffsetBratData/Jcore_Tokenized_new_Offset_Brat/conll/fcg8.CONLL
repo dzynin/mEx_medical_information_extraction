@@ -1,0 +1,47 @@
+1	Haeufig	Haeufig	NN	NN	_	_	_	0	_	_	_
+2	Stuhlgang	Stuhlgang	NN	NN	_	_	_	0	_	_	_
+3	(	(	$(	$(	_	_	_	0	_	_	_
+4	4	4	CARD	CARD	_	_	_	0	_	_	_
+5	x/Tag	x/Tag	NN	NN	_	_	_	0	_	_	_
+6	)	)	$(	$(	_	_	_	0	_	_	_
+7	aber	aber	ADV	ADV	_	_	_	0	_	_	_
+8	geformt.RR	geformt.RR	ADJD	ADJD	_	_	_	0	_	_	_
+9	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+10	etwas	etwas	ADV	ADV	_	_	_	0	_	_	_
+11	hoch	hoch	ADJD	ADJD	_	_	_	0	_	_	_
+12	,	,	$,	$,	_	_	_	0	_	_	_
+13	Beginn	Beginn	NN	NN	_	_	_	0	_	_	_
+14	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+15	halber	halber	ADJA	ADJA	_	_	_	0	_	_	_
+16	Beloc	Beloc	NN	NN	_	_	_	0	_	_	_
+17	Zok	Zok	NN	NN	_	_	_	0	_	_	_
+18	mite	mite	ADJA	ADJA	_	_	_	0	_	_	_
+19	,	,	$,	$,	_	_	_	0	_	_	_
+20	ggf.	ggf.	ADV	ADV	_	_	_	0	_	_	_
+21	weitere	weitere	ADJA	ADJA	_	_	_	0	_	_	_
+22	Dosissteigerung	Dosissteigerung	NN	NN	_	_	_	0	_	_	_
+23	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Medikamentenplan	Medikamentenplan	NN	NN	_	_	_	0	_	_	_
+2	aktualisiert	aktualisiert	VVPP	VVPP	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Taubheitsgefuehl	Taubheitsgefuehl	NN	NN	_	_	_	0	_	_	_
+2	in	in	APPR	APPR	_	_	_	0	_	_	_
+3	den	den	ART	ART	_	_	_	0	_	_	_
+4	Haenden	Haenden	NN	NN	_	_	_	0	_	_	_
+5	haben	haben	VAFIN	VAFIN	_	_	_	0	_	_	_
+6	nachgelassen	nachgelassen	VVPP	VVPP	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Dysurie	Dysurie	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Oedeme	Oedeme	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+5	Fieber	Fieber	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+

@@ -1,0 +1,51 @@
+Seit	B-Time_information
+2	I-Time_information
+Wochen	I-Time_information
+depressive	B-Medical_condition
+Symptomatik	I-Medical_condition
+.	O
+
+Hat	O
+Schmerzen	B-Medical_condition
+und	O
+Engegefühl	B-Medical_condition
+im	O
+Brust	B-Body_part
+ohne	O
+Dyspnoe	B-Medical_condition
+bei	O
+unauffälligem	B-State_of_health
+EKG-Befund	B-Biological_parameter
+und	O
+normaler	B-State_of_health
+Labor	O
+.	O
+
+Vorstellung	B-Treatment
+bei	I-Treatment
+Psychosomatik	I-Treatment
+nächste	B-Time_information
+Woche	I-Time_information
+am	O
+12.12.2012	B-Time_information
+.	O
+
+Kreatinin	B-Biological_chemistry
+auf	O
+1,0	B-Measurement
+abgefallen	I-Measurement
+.	O
+
+Prograf	B-Medication
+planmäßig	O
+reduziert	B-Treatment
+,	O
+Urbason	B-Medication
+reduziert	B-Treatment
+.	O
+
+Sono-Tx	O
+:	O
+
+iO	B-State_of_health
+.	O

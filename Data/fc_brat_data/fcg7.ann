@@ -1,0 +1,18 @@
+T1	State_of_health 0 15	Geht soweit gut
+T2	Medical_condition 31 46	Muskelschwaeche
+T3	Process 49 51	RR
+T4	Measurement 64 75	130/80 mmHg
+T5	Process 78 87	Stuhlgang
+T6	State_of_health 88 94	normal
+T7	Medical_condition 103 109	Oedeme
+T8	Medical_condition 118 131	Infektzeichen
+T9	Medical_condition 150 166	Rueckenschmerzen
+T10	Diaglab_procedure 169 173	Sono
+T11	Body_part 176 184	Tx-Niere
+T12	State_of_health 185 197	unauffaellig
+T13	Medical_condition 205 209	Stau
+R1	has_measure arg1:T3 arg2:T4
+R2	hasstate arg1:T5 arg2:T6
+R3	shows arg1:T10 arg2:T11
+R4	shows arg1:T10 arg2:T12
+R5	hasstate arg1:T11 arg2:T12

@@ -1,0 +1,68 @@
+Geht	B-State_of_health
+gut	I-State_of_health
+,	O
+RR	B-Process
+laut	O
+Protokoll	O
+iO	B-State_of_health
+.	O
+
+Seit	O
+Kreon	B-Medication
+Stuhlgang	B-Process
+geformter	B-Measurement
+,	O
+Pat.	B-Person
+schleicht	O
+Omniflora	B-Medication
+langsam	O
+aus	O
+.	O
+
+Narbe	B-Medical_condition
+macht	O
+noch	O
+etwas	O
+Beschwerden	B-Medical_condition
+.	O
+
+Keine	O
+Knochenschmerzen	B-Medical_condition
+,	O
+keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Cibacen	B-Medication
+neu	B-Treatment
+seit	O
+03.03.07	B-Time_information
+,	O
+da	O
+Amlodipin	B-Medication
+wegen	O
+NW	B-Medical_condition
+reduziert	B-Treatment
+wurde	O
+.	O
+
+Stabile	B-State_of_health
+Tx-Funktion	B-Process
+,	O
+im	O
+Sono	O
+kein	O
+Stau	B-Medical_condition
+.	O
+
+Im	B-Time_information
+Mai	I-Time_information
+Reise	O
+nach	O
+Afrika	O
+:	O
+
+Cipro	B-Medication
+prophylaktisch	B-Treatment
+rezeptiert	I-Treatment
+.	O

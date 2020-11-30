@@ -1,0 +1,43 @@
+1	Zu	Zu	APPR	APPR	_	_	_	0	_	_	_
+2	Hause	Hause	NN	NN	_	_	_	0	_	_	_
+3	gutes	gutes	ADJA	ADJA	_	_	_	0	_	_	_
+4	Befinden	Befinden	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Gute	Gute	ADJA	ADJA	_	_	_	0	_	_	_
+2	Diurese	Diurese	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Etwas	Etwas	ADV	ADV	_	_	_	0	_	_	_
+2	Brennen	Brennen	NN	NN	_	_	_	0	_	_	_
+3	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+4	Miktion	Miktion	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Urin-Stix	Urin-Stix	NN	NN	_	_	_	0	_	_	_
+2	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Kultur	Kultur	NN	NN	_	_	_	0	_	_	_
+5	abgenommen	abgenommen	VVPP	VVPP	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono-Tx	Sono-Tx	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Niere	Niere	NN	NN	_	_	_	0	_	_	_
+2	in	in	APPR	APPR	_	_	_	0	_	_	_
+3	situ	situ	LAT	LAT	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	nicht	nicht	PTKNEG	PTKNEG	_	_	_	0	_	_	_
+6	gestaut	gestaut	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	freie	freie	ADJA	ADJA	_	_	_	0	_	_	_
+3	Flüßigkeit	Flüßigkeit	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Restklammern	Restklammern	NN	NN	_	_	_	0	_	_	_
+2	entfernt	entfernt	VVPP	VVPP	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+

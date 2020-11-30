@@ -1,0 +1,39 @@
+1	Seit	Seit	APPR	APPR	_	_	_	0	_	_	_
+2	Mittwoch	Mittwoch	NN	NN	_	_	_	0	_	_	_
+3	starke	starke	ADJA	ADJA	_	_	_	0	_	_	_
+4	Blaehungen	Blaehungen	NN	NN	_	_	_	0	_	_	_
+5	und	und	KON	KON	_	_	_	0	_	_	_
+6	Magenbeschwerden	Magenbeschwerden	NN	NN	_	_	_	0	_	_	_
+7	,	,	$,	$,	_	_	_	0	_	_	_
+8	Kreon	Kreon	NN	NN	_	_	_	0	_	_	_
+9	versuchsweise	versuchsweise	ADV	ADV	_	_	_	0	_	_	_
+10	pausieren	pausieren	VVINF	VVINF	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Diurese	Diurese	NN	NN	_	_	_	0	_	_	_
+2	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	RR	RR	NE	NE	_	_	_	0	_	_	_
+5	iO	iO	NE	NE	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kreatinin	Kreatinin	NN	NN	_	_	_	0	_	_	_
+2	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+3	Entlassung	Entlassung	NN	NN	_	_	_	0	_	_	_
+4	angestiegen	angestiegen	VVPP	VVPP	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	daher	daher	PROAV	PROAV	_	_	_	0	_	_	_
+7	kurzfristige	kurzfristige	ADJA	ADJA	_	_	_	0	_	_	_
+8	Kontrolle	Kontrolle	NN	NN	_	_	_	0	_	_	_
+9	und	und	KON	KON	_	_	_	0	_	_	_
+10	eventuell	eventuell	ADJD	ADJD	_	_	_	0	_	_	_
+11	stationäre	stationäre	ADJA	ADJA	_	_	_	0	_	_	_
+12	Aufnahme	Aufnahme	NN	NN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Deutliche	Deutliche	ADJA	ADJA	_	_	_	0	_	_	_
+2	Konstellation	Konstellation	NN	NN	_	_	_	0	_	_	_
+3	eines	eines	ART	ART	_	_	_	0	_	_	_
+4	HWI	HWI	NE	NE	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+

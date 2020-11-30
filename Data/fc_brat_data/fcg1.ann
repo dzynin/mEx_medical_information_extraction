@@ -1,0 +1,43 @@
+T1	State_of_health 27 42	Befundbesserung
+T2	Medical_condition 51 58	Dysurie
+T3	Process 61 68	Diurese
+T4	State_of_health 69 80	unauffällig
+T5	Medical_condition 89 96	Infekte
+T6	Biological_parameter 99 106	Gewicht
+T7	State_of_health 107 113	stabil
+T8	Measurement 120 129	niedrigem
+T9	Biological_chemistry 130 140	Fk-Spiegel
+T10	Time_information 141 146	heute
+T11	Treatment 153 169	Urbasonreduktion
+T12	Treatment 172 175	Neu
+T13	Medication 176 188	Benzbromaron
+T14	State_of_health 191 195	Gute
+T15	Body_part 196 210	Nierenfunktion
+T16	Medical_condition 219 224	Ödeme
+T17	Process 227 229	RR
+T18	State_of_health 244 255	Normbereich
+T19	Medication 266 277	Nitrendipin
+T20	Treatment 278 284	erhöht
+R1	hasstate arg1:T3 arg2:T2
+R2	hasstate arg1:T2 arg2:T4
+R3	is_linked_to arg1:T2 arg2:T5
+R4	hasstate arg1:T3 arg2:T4
+R5	is_linked_to arg1:T3 arg2:T5
+R6	hasstate arg1:T5 arg2:T4
+R7	hasstate arg1:T6 arg2:T7
+R8	has_measure arg1:T9 arg2:T8
+R9	has_time_info arg1:T8 arg2:T10
+R10	consequence arg1:T8 arg2:T11
+R11	has_time_info arg1:T9 arg2:T10
+R12	consequence arg1:T9 arg2:T11
+R13	has_time_info arg1:T11 arg2:T10
+R14	involves arg1:T12 arg2:T13
+R15	hasstate arg1:T15 arg2:T14
+R16	hasstate arg1:T16 arg2:T14
+R17	is_located arg1:T16 arg2:T15
+R18	hasstate arg1:T17 arg2:T18
+R19	treats arg1:T19 arg2:T17
+R20	consequence arg1:T17 arg2:T20
+R21	consequence arg1:T18 arg2:T19
+R22	consequence arg1:T18 arg2:T20
+R23	involves arg1:T20 arg2:T19

@@ -1,0 +1,28 @@
+1	Geht	Geht	NN	NN	_	_	_	0	_	_	_
+2	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	hat	hat	VAFIN	VAFIN	_	_	_	0	_	_	_
+5	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+6	abgenommen	abgenommen	VVPP	VVPP	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kreatininwert	Kreatininwert	NN	NN	_	_	_	0	_	_	_
+2	perfekt	perfekt	ADJD	ADJD	_	_	_	0	_	_	_
+3	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+4	1,2.	1,2.	CARD	CARD	_	_	_	0	_	_	_
+5	Reduktion	Reduktion	NN	NN	_	_	_	0	_	_	_
+6	von	von	APPR	APPR	_	_	_	0	_	_	_
+7	Lasix	Lasix	NN	NN	_	_	_	0	_	_	_
+8	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+9	250-125-0	250-125-0	CARD	CARD	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Prograf	Prograf	NN	NN	_	_	_	0	_	_	_
+2	reduziert	reduziert	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+4	2	2	CARD	CARD	_	_	_	0	_	_	_
+5	x	x	XY	XY	_	_	_	0	_	_	_
+6	3	3	CARD	CARD	_	_	_	0	_	_	_
+7	mg	mg	NN	NN	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+

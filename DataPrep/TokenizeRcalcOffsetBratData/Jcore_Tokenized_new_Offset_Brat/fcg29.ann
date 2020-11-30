@@ -1,0 +1,46 @@
+T0	Time_information 0 13	Seit Mittwoch
+T1	Measurement 14 20	starke
+T2	Medical_condition 21 31	Blaehungen
+T3	Medical_condition 36 52	Magenbeschwerden
+T4	Medication 55 60	Kreon
+T5	Treatment 75 84	pausieren
+T6	Process 87 94	Diurese
+T7	State_of_health 95 107	unauffaellig
+T8	Process 110 112	RR
+T9	State_of_health 113 115	iO
+T10	Biological_chemistry 118 127	Kreatinin
+T11	Treatment 133 143	Entlassung
+T12	Measurement 144 155	angestiegen
+T13	Treatment 177 186	Kontrolle
+T14	Treatment 201 220	stationäre Aufnahme
+T15	Medical_condition 253 256	HWI
+R1	has_time_info arg1:T0 arg2:T0
+R2	has_time_info arg1:T1 arg2:T0
+R3	has_time_info arg1:T2 arg2:T0
+R4	has_time_info arg1:T3 arg2:T0
+R5	has_time_info arg1:T4 arg2:T0
+R6	has_measure arg1:T1 arg2:T0
+R7	has_measure arg1:T2 arg2:T0
+R8	has_measure arg1:T3 arg2:T0
+R9	consequence arg1:T0 arg2:T4
+R10	hasstate arg1:T1 arg2:T2
+R11	treats arg1:T3 arg2:T1
+R12	consequence arg1:T1 arg2:T4
+R13	treats arg1:T3 arg2:T2
+R14	consequence arg1:T2 arg2:T4
+R15	involves arg1:T4 arg2:T3
+R16	hasstate arg1:T6 arg2:T6R17	affects arg1:T7 arg2:T6
+R18	hasstate arg1:T6 arg2:T8
+R19	hasstate arg1:T7 arg2:T6
+R20	hasstate arg1:T6 arg2:T8
+R21	hasstate arg1:T7 arg2:T8
+R22	treats arg1:T10 arg2:T10
+R23	has_measure arg1:T10 arg2:T11
+R24	consequence arg1:T10 arg2:T12
+R25	consequence arg1:T10 arg2:T13
+R26	has_measure arg1:T10 arg2:T11
+R27	consequence arg1:T10 arg2:T12
+R28	if_consequence arg1:T13 arg2:T10
+R29	consequence arg1:T11 arg2:T12
+R30	consequence arg1:T11 arg2:T13
+R31	involves arg1:T12 arg2:T13

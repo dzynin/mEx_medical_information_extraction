@@ -1,0 +1,23 @@
+T1	Biological_parameter 0 2	AZ
+T2	State_of_health 3 11	ganz gut
+T3	Medical_condition 20 26	Oedeme
+T4	Medical_condition 35 48	Infektzeichen
+T5	Medical_condition 56 65	Durchfall
+T6	Biological_parameter 68 75	Appetit
+T7	State_of_health 76 84	sehr gut
+T8	Medical_condition 93 100	Dysurie
+T9	Medical_condition 109 115	Oedeme
+T10	Medication 118 125	Urbason
+T11	Treatment 126 135	abgesetzt
+R1	hasstate arg1:T1 arg2:T2
+R2	hasstate arg1:T1 arg2:T3
+R3	hasstate arg1:T1 arg2:T4
+R4	hasstate arg1:T1 arg2:T5
+R5	hasstate arg1:T3 arg2:T2
+R6	hasstate arg1:T4 arg2:T2
+R7	hasstate arg1:T5 arg2:T2
+R8	hasstate arg1:T3 arg2:T4
+R9	consequence arg1:T3 arg2:T5
+R10	is_linked_to arg1:T4 arg2:T5
+R11	hasstate arg1:T6 arg2:T7
+R12	involves arg1:T11 arg2:T10

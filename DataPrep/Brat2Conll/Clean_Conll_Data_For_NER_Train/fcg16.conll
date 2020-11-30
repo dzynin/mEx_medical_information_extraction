@@ -1,0 +1,52 @@
+Allgemeines	B-State_of_health
+Wohlbefinden	I-State_of_health
+.	O
+
+Appetit	B-Biological_parameter
+schlecht	B-Medical_condition
+,	O
+2	B-Measurement
+kg	I-Measurement
+abgenommen	I-Measurement
+.	O
+
+Kein	O
+Fieber	B-Medical_condition
+,	O
+kein	O
+Infekt	B-Medical_condition
+,	O
+keine	O
+GI-Symptome	B-Medical_condition
+.	O
+
+Retentionsparameter	B-Medical_condition
+iO	B-State_of_health
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffällig	B-State_of_health
+,	O
+bekanntes	B-Time_information
+Hämatom	B-Medical_condition
+am	O
+unteren	B-Local_specification
+Nierenpol	B-Body_part
+hat	O
+sich	O
+von	O
+ca.	O
+3	B-Measurement
+x	I-Measurement
+2	I-Measurement
+cm	I-Measurement
+auf	O
+2	B-Measurement
+x	I-Measurement
+1	I-Measurement
+cm	I-Measurement
+verkleinert	I-Measurement
+.	O

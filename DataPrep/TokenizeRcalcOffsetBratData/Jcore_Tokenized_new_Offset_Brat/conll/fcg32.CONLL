@@ -1,0 +1,69 @@
+1	Geht	Geht	NN	NN	_	_	_	0	_	_	_
+2	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	RR	RR	NE	NE	_	_	_	0	_	_	_
+5	laut	laut	VVFIN	VVFIN	_	_	_	0	_	_	_
+6	Protokoll	Protokoll	NN	NN	_	_	_	0	_	_	_
+7	iO	iO	NE	NE	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Seit	Seit	APPR	APPR	_	_	_	0	_	_	_
+2	Kreon	Kreon	NN	NN	_	_	_	0	_	_	_
+3	Stuhlgang	Stuhlgang	NN	NN	_	_	_	0	_	_	_
+4	geformter	geformter	ADJA	ADJA	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	Pat.	Pat.	NN	NN	_	_	_	0	_	_	_
+7	schleicht	schleicht	VVFIN	VVFIN	_	_	_	0	_	_	_
+8	Omniflora	Omniflora	NN	NN	_	_	_	0	_	_	_
+9	langsam	langsam	ADJD	ADJD	_	_	_	0	_	_	_
+10	aus	aus	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Narbe	Narbe	NN	NN	_	_	_	0	_	_	_
+2	macht	macht	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	noch	noch	ADV	ADV	_	_	_	0	_	_	_
+4	etwas	etwas	ADV	ADV	_	_	_	0	_	_	_
+5	Beschwerden	Beschwerden	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Knochenschmerzen	Knochenschmerzen	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+5	Dysurie	Dysurie	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Cibacen	Cibacen	NE	NE	_	_	_	0	_	_	_
+2	neu	neu	ADJD	ADJD	_	_	_	0	_	_	_
+3	seit	seit	APPR	APPR	_	_	_	0	_	_	_
+4	03.03.07	03.03.07	CARD	CARD	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	da	da	KOUS	KOUS	_	_	_	0	_	_	_
+7	Amlodipin	Amlodipin	NN	NN	_	_	_	0	_	_	_
+8	wegen	wegen	APPR	APPR	_	_	_	0	_	_	_
+9	NW	NW	NE	NE	_	_	_	0	_	_	_
+10	reduziert	reduziert	VVPP	VVPP	_	_	_	0	_	_	_
+11	wurde	wurde	VAFIN	VAFIN	_	_	_	0	_	_	_
+12	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Stabile	Stabile	ADJA	ADJA	_	_	_	0	_	_	_
+2	Tx-Funktion	Tx-Funktion	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+5	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+6	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+7	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Im	Im	APPRART	APPRART	_	_	_	0	_	_	_
+2	Mai	Mai	NN	NN	_	_	_	0	_	_	_
+3	Reise	Reise	NN	NN	_	_	_	0	_	_	_
+4	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+5	Afrika	Afrika	NN	NN	_	_	_	0	_	_	_
+6	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Cipro	Cipro	ADV	ADV	_	_	_	0	_	_	_
+2	prophylaktisch	prophylaktisch	ADJD	ADJD	_	_	_	0	_	_	_
+3	rezeptiert	rezeptiert	VVPP	VVPP	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+

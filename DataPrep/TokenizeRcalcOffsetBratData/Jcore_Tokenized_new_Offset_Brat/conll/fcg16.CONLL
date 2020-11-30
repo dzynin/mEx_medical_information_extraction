@@ -1,0 +1,53 @@
+1	Allgemeines	Allgemeines	ADJA	ADJA	_	_	_	0	_	_	_
+2	Wohlbefinden	Wohlbefinden	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Appetit	Appetit	NN	NN	_	_	_	0	_	_	_
+2	schlecht	schlecht	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	2	2	CARD	CARD	_	_	_	0	_	_	_
+5	kg	kg	NN	NN	_	_	_	0	_	_	_
+6	abgenommen	abgenommen	VVPP	VVPP	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Fieber	Fieber	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+5	Infekt	Infekt	NN	NN	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+8	GI-Symptome	GI-Symptome	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Retentionsparameter	Retentionsparameter	NN	NN	_	_	_	0	_	_	_
+2	iO	iO	NE	NE	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	bekanntes	bekanntes	ADJA	ADJA	_	_	_	0	_	_	_
+5	Hämatom	Hämatom	NN	NN	_	_	_	0	_	_	_
+6	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+7	unteren	unteren	ADJA	ADJA	_	_	_	0	_	_	_
+8	Nierenpol	Nierenpol	NN	NN	_	_	_	0	_	_	_
+9	hat	hat	VAFIN	VAFIN	_	_	_	0	_	_	_
+10	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+11	von	von	APPR	APPR	_	_	_	0	_	_	_
+12	ca.	ca.	ADV	ADV	_	_	_	0	_	_	_
+13	3	3	CARD	CARD	_	_	_	0	_	_	_
+14	x	x	XY	XY	_	_	_	0	_	_	_
+15	2	2	CARD	CARD	_	_	_	0	_	_	_
+16	cm	cm	NN	NN	_	_	_	0	_	_	_
+17	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+18	2	2	CARD	CARD	_	_	_	0	_	_	_
+19	x	x	XY	XY	_	_	_	0	_	_	_
+20	1	1	CARD	CARD	_	_	_	0	_	_	_
+21	cm	cm	NN	NN	_	_	_	0	_	_	_
+22	verkleinert	verkleinert	VVFIN	VVFIN	_	_	_	0	_	_	_
+23	.	.	$.	$.	_	_	_	0	_	_	_
+

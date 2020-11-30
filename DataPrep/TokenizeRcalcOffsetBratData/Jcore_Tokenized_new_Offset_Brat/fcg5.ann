@@ -1,0 +1,33 @@
+T0	State_of_health 0 12	Wohlbefinden
+T1	Medical_condition 21 46	Infekte.keine GI-Symptome
+T2	Biological_parameter 53 60	Gewicht
+T3	Measurement 61 71	zugenommen
+T4	Process 74 76	RR
+T5	Medical_condition 89 99	hypotensiv
+T6	State_of_health 107 120	gut toleriert
+T7	Medical_condition 139 145	Ödemen
+T8	Medication 146 151	Torem
+T9	Treatment 152 161	verordnet
+T10	Diaglab_procedure 164 168	Sono
+T11	Body_part 171 179	Tx-Niere
+T12	State_of_health 180 192	unauffaellig
+T13	Treatment 195 205	Dilatation
+T14	Body_part 210 214	NBKS
+T15	Measurement 220 232	ruecklaeufig
+R1	hasstate arg1:T0 arg2:T0
+R2	has_measure arg1:T2 arg2:T2
+R3	hasstate arg1:T4 arg2:T4
+R4	hasstate arg1:T4 arg2:T5
+R5	hasstate arg1:T4 arg2:T5
+R6	treats arg1:T7 arg2:T7
+R7	consequence arg1:T7 arg2:T8
+R8	involves arg1:T8 arg2:T7
+R14	hasstate arg1:T11 arg2:T11
+R15	treats arg1:T12 arg2:T11
+R16	is_located arg1:T11 arg2:T13
+R17	has_measure arg1:T11 arg2:T14
+R18	affects arg1:T11 arg2:T12
+R19	hasstate arg1:T13 arg2:T11
+R20	consequence arg1:T11 arg2:T14
+R21	treats arg1:T12 arg2:T13R22	if_consequence arg1:T14 arg2:T12
+R23	is_located arg1:T14 arg2:T13

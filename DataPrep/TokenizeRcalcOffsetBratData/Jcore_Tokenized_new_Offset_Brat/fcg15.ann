@@ -1,0 +1,46 @@
+T0	Medical_condition 11 18	schwach
+T1	Process 21 23	RR
+T2	Measurement 24 30	115/70
+T3	Process 33 37	Puls
+T4	Measurement 38 40	88
+T5	Medical_condition 43 55	arrhythmisch
+T6	Treatment 64 75	Vorstellung
+T7	Person 80 91	Kardiologen
+T8	Process 103 110	Miktion
+T9	State_of_health 111 117	normal
+T10	Medical_condition 126 133	Dysurie
+T11	Medical_condition 142 147	Ödeme
+T12	Medical_condition 155 163	Diarrhoe
+T13	Biological_chemistry 166 181	Prograf-Spiegel
+T14	State_of_health 182 196	im Zielbereich
+T15	Diaglab_procedure 199 203	Sono
+T16	Body_part 206 214	Tx-Niere
+T17	State_of_health 217 228	unauffällig
+T18	Body_part 231 236	Blase
+T19	Medical_condition 244 252	Restharn
+T20	Process 258 265	Miktion
+R1	has_measure arg1:T1 arg2:T1
+R2	is_linked_to arg1:T1 arg2:T2
+R3	has_measure arg1:T1 arg2:T3
+R4	hasstate arg1:T1 arg2:T4
+R5	consequence arg1:T1 arg2:T5
+R6	affects arg1:T6 arg2:T1
+R7	has_measure arg1:T2 arg2:T1
+R8	has_measure arg1:T1 arg2:T3
+R9	has_measure arg1:T4 arg2:T1
+R10	consequence arg1:T1 arg2:T5
+R11	has_measure arg1:T6 arg2:T1
+R12	has_measure arg1:T2 arg2:T3
+R13	hasstate arg1:T2 arg2:T4
+R14	consequence arg1:T2 arg2:T5
+R15	affects arg1:T2 arg2:T6
+R16	has_measure arg1:T4 arg2:T3
+R17	consequence arg1:T3 arg2:T5
+R18	has_measure arg1:T6 arg2:T3
+R19	consequence arg1:T4 arg2:T5
+R20	affects arg1:T4 arg2:T6
+R21	affects arg1:T5 arg2:T6R22	hasstate arg1:T8 arg2:T8
+R23	hasstate arg1:T8 arg2:T9
+R24	hasstate arg1:T9 arg2:T8
+R25	hasstate arg1:T13 arg2:T13
+R31	hasstate arg1:T19 arg2:T19

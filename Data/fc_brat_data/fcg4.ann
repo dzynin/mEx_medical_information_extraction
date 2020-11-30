@@ -1,0 +1,31 @@
+T1	State_of_health 0 8	Geht gut
+T2	Process 11 13	RR
+T3	Diaglab_procedure 20 29	Protokoll
+T4	Measurement 30 41	um 140 mmHg
+T5	Process 44 51	Appetit
+T6	Process 56 65	Stuhlgang
+T7	State_of_health 66 72	normal
+T8	Medical_condition 75 80	Ödeme
+T9	Measurement 81 91	rückläufig
+T10	Person 94 98	Pat.
+T11	Time_information 103 108	heute
+T12	Treatment 109 120	Vorstellung
+T13	Person 129 137	Urologen
+T14	Medical_condition 142 156	Harnwegsinfekt
+T15	Medication 159 167	Cortison
+T16	Medication 172 180	Myfortic
+T17	Treatment 191 200	reduziert
+R1	shows arg1:T3 arg2:T4
+R2	affects arg1:T6 arg2:T5
+R3	hasstate arg1:T5 arg2:T7
+R4	hasstate arg1:T6 arg2:T7
+R5	has_measure arg1:T8 arg2:T9
+R6	has_time_info arg1:T10 arg2:T11
+R7	affects arg1:T12 arg2:T10
+R8	affects arg1:T10 arg2:T13
+R9	has_time_info arg1:T12 arg2:T11
+R10	has_time_info arg1:T13 arg2:T11
+R11	affects arg1:T12 arg2:T13
+R12	treats arg1:T16 arg2:T15
+R13	involves arg1:T17 arg2:T15
+R14	involves arg1:T17 arg2:T16

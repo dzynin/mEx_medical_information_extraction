@@ -1,0 +1,65 @@
+T0	Measurement 0 10	Abnehmende
+T1	Medical_condition 11 18	Dysurie
+T2	Process 21 28	Miktion
+T3	Measurement 29 36	haeufig
+T4	Measurement 41 52	zunehmender
+T5	Body_part 53 69	Blasenkapazitaet
+T6	Medical_condition 88 104	Rueckenschmerzen
+T7	Process 131 133	RR
+T8	Treatment 147 159	Med-Einnahme
+T9	Medical_condition 170 177	zu hoch
+T10	Medication 180 185	Beloc
+T11	Treatment 193 203	gesteigert
+T12	Diaglab_procedure 206 210	Sono
+T13	Body_part 213 221	Tx-Niere
+T14	Measurement 230 249	diskret dilatiertes
+T15	Body_part 250 254	NBKS
+T16	State_of_health 255 267	unauffaellig
+T17	Medical_condition 275 279	Stau
+T18	Local_specification 288 298	perirenale
+T19	Body_fluid 299 310	Flüssigkeit
+R1	has_measure arg1:T0 arg2:T0
+R2	has_measure arg1:T1 arg2:T0
+R3	has_measure arg1:T0 arg2:T2
+R4	has_measure arg1:T0 arg2:T3
+R5	has_measure arg1:T4 arg2:T0
+R6	hasstate arg1:T1 arg2:T0
+R7	has_measure arg1:T0 arg2:T2
+R8	has_measure arg1:T0 arg2:T3
+R9	is_located arg1:T0 arg2:T4
+R10	has_measure arg1:T1 arg2:T2
+R11	has_measure arg1:T1 arg2:T3
+R12	is_located arg1:T1 arg2:T4
+R13	has_measure arg1:T3 arg2:T2
+R14	has_measure arg1:T4 arg2:T2
+R15	has_measure arg1:T4 arg2:T3
+R16	consequence arg1:T7 arg2:T7
+R17	hasstate arg1:T7 arg2:T8
+R18	treats arg1:T9 arg2:T7
+R19	consequence arg1:T7 arg2:T10
+R20	treats arg1:T7 arg2:T8R21	involves arg1:T7 arg2:T9
+R22	consequence arg1:T7 arg2:T10
+R23	treats arg1:T9 arg2:T8
+R24	consequence arg1:T8 arg2:T10
+R25	involves arg1:T10 arg2:T9
+R33	has_measure arg1:T13 arg2:T13
+R34	is_located arg1:T13 arg2:T14
+R35	hasstate arg1:T13 arg2:T15
+R36	hasstate arg1:T13 arg2:T16
+R37	is_located arg1:T13 arg2:T17
+R38	is_located arg1:T18 arg2:T13
+R39	has_measure arg1:T14 arg2:T13
+R40	has_measure arg1:T15 arg2:T13
+R41	has_measure arg1:T16 arg2:T13
+R42	is_located arg1:T13 arg2:T17
+R43	has_measure arg1:T18 arg2:T13
+R44	hasstate arg1:T14 arg2:T15
+R45	hasstate arg1:T14 arg2:T16
+R46	is_located arg1:T14 arg2:T17
+R47	is_located arg1:T18 arg2:T14
+R48	hasstate arg1:T16 arg2:T15
+R49	is_located arg1:T15 arg2:T17
+R50	hasstate arg1:T18 arg2:T15
+R51	is_located arg1:T16 arg2:T17
+R52	hasstate arg1:T18 arg2:T16
+R53	is_located arg1:T18 arg2:T17

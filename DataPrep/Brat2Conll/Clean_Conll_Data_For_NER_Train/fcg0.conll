@@ -1,0 +1,27 @@
+Geht	B-State_of_health
+gut	I-State_of_health
+,	O
+hat	O
+deutlich	B-Measurement
+abgenommen	I-Measurement
+.	O
+
+Kreatininwert	B-Biological_chemistry
+perfekt	B-State_of_health
+mit	O
+1,2.	B-Measurement
+Reduktion	B-Treatment
+von	O
+Lasix	B-Medication
+auf	O
+250-125-0	B-Measurement
+.	O
+
+Prograf	B-Medication
+reduziert	B-Treatment
+auf	O
+2	B-Dosing
+x	I-Dosing
+3	I-Dosing
+mg	B-Medication
+.	O

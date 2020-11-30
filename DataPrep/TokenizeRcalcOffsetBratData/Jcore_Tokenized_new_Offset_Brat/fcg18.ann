@@ -1,0 +1,36 @@
+T0	Process 0 2	RR
+T1	State_of_health 9 24	besser geworden
+T2	Time_information 32 38	abends
+T3	Measurement 39 59	zwischen 150 und 160
+T4	Medical_specification 60 70	systolisch
+T5	State_of_health 73 89	Gutes Ansprechen
+T6	Medication 94 102	Diblocin
+T7	Medication 105 110	Locol
+T8	State_of_health 111 124	gut vertragen
+T9	Process 127 136	Stuhlgang
+T10	State_of_health 137 143	besser
+T11	Measurement 157 164	weniger
+T12	Medical_condition 165 173	Nykturie
+T13	Medical_condition 182 188	Oedeme
+T14	Medical_condition 197 204	Dysurie
+T15	Medical_condition 213 228	Narbenschmerzen
+T16	Time_information 231 244	Naechstes Mal
+T17	Treatment 264 272	Urologie
+R1	hasstate arg1:T0 arg2:T0
+R2	has_time_info arg1:T0 arg2:T1
+R3	has_measure arg1:T0 arg2:T2
+R4	is_specified arg1:T0 arg2:T3
+R5	has_time_info arg1:T0 arg2:T1
+R6	has_measure arg1:T0 arg2:T2
+R7	hasstate arg1:T3 arg2:T0
+R8	has_time_info arg1:T2 arg2:T1
+R9	has_time_info arg1:T3 arg2:T1
+R10	has_measure arg1:T3 arg2:T2
+R11	causes arg1:T5 arg2:T5
+R12	hasstate arg1:T7 arg2:T7
+R13	hasstate arg1:T9 arg2:T9
+R14	has_measure arg1:T11 arg2:T11
+R15	is_linked_to arg1:T13 arg2:T13
+R16	is_linked_to arg1:T13 arg2:T14
+R17	is_linked_to arg1:T13 arg2:T14
+R18	has_time_info arg1:T16 arg2:T16

@@ -1,0 +1,54 @@
+1	Geht	Geht	NN	NN	_	_	_	0	_	_	_
+2	soweit	soweit	ADV	ADV	_	_	_	0	_	_	_
+3	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+4	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+5	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+6	"allgemeine	"allgemeine	ADJA	ADJA	_	_	_	0	_	_	_
+7	Schlappheit	Schlappheit	NN	NN	_	_	_	0	_	_	_
+8	"	"	$(	$(	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Berichtet	Berichtet	ADJD	ADJD	_	_	_	0	_	_	_
+2	häufiges	häufiges	ADJA	ADJA	_	_	_	0	_	_	_
+3	Wasserlassen	Wasserlassen	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Etwas	Etwas	ADV	ADV	_	_	_	0	_	_	_
+2	Dysurie	Dysurie	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Stuhlgang	Stuhlgang	NN	NN	_	_	_	0	_	_	_
+2	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	wesentlichen	wesentlichen	ADJA	ADJA	_	_	_	0	_	_	_
+3	Oedeme	Oedeme	NN	NN	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Gewicht	Gewicht	NN	NN	_	_	_	0	_	_	_
+2	stabil	stabil	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Valcyte	Valcyte	NN	NN	_	_	_	0	_	_	_
+2	angepasst	angepasst	VVPP	VVPP	_	_	_	0	_	_	_
+3	und	und	KON	KON	_	_	_	0	_	_	_
+4	Medikamente	Medikamente	NN	NN	_	_	_	0	_	_	_
+5	erneut	erneut	ADJD	ADJD	_	_	_	0	_	_	_
+6	besprochen	besprochen	VVPP	VVPP	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+5	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+8	perirenale	perirenale	ADJA	ADJA	_	_	_	0	_	_	_
+9	Fluessigkeit	Fluessigkeit	NN	NN	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+

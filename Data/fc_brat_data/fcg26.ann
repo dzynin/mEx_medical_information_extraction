@@ -1,0 +1,42 @@
+T1	Person 0 7	Patient
+T2	Medical_condition 23 39	Knochenschmerzen
+T3	Medical_condition 44 51	Krämpfe
+T4	Body_part 55 61	Beinen
+T5	Medication 90 92	Mg
+T6	Treatment 93 102	versuchen
+T7	Medication 105 112	Valcyte
+T8	Treatment 113 122	abgesetzt
+T9	Medication 125 131	Cotrim
+T10	Treatment 132 141	reduziert
+T11	State_of_health 152 164	normotensive
+T12	Process 165 173	RR-Werte
+T13	Medical_condition 182 189	Infekte
+T14	Diaglab_procedure 192 196	Sono
+T15	Body_part 199 207	Tx-Niere
+T16	State_of_health 208 220	unauffaellig
+T17	Medical_condition 228 232	Stau
+T18	Medical_device 235 242	Schiene
+T19	State_of_health 243 250	in situ
+R1	affects arg1:T2 arg2:T1
+R2	affects arg1:T3 arg2:T1
+R3	is_located arg1:T1 arg2:T4
+R4	hasstate arg1:T2 arg2:T3
+R5	is_located arg1:T2 arg2:T4
+R6	is_located arg1:T3 arg2:T4
+R7	involves arg1:T6 arg2:T5
+R8	involves arg1:T8 arg2:T7
+R9	involves arg1:T9 arg2:T7
+R10	involves arg1:T10 arg2:T7
+R11	involves arg1:T8 arg2:T9
+R12	consequence arg1:T8 arg2:T10
+R13	involves arg1:T10 arg2:T9
+R14	hasstate arg1:T12 arg2:T11
+R15	hasstate arg1:T13 arg2:T11
+R16	is_linked_to arg1:T12 arg2:T13
+R17	shows arg1:T14 arg2:T15
+R18	shows arg1:T14 arg2:T16
+R19	shows arg1:T14 arg2:T17
+R20	hasstate arg1:T15 arg2:T16
+R21	hasstate arg1:T15 arg2:T17
+R22	hasstate arg1:T17 arg2:T16
+R23	hasstate arg1:T18 arg2:T19

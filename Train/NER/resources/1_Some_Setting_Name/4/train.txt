@@ -1,0 +1,3214 @@
+Jetzt	O
+ewas	O
+weniger	B-Measurement
+Nykturie	B-Medical_condition
+.	O
+
+Es	O
+erfolgte	O
+notfallmäßige	O
+konventionelle	O
+offene	B-Medical_specification
+Appendektomie	B-Treatment
+am	O
+26.04.2018	B-Time_information
+.	O
+
+Die	O
+ausführliche	O
+Vorgeschichte	O
+dürfen	O
+wir	O
+freundlicherweise	O
+als	O
+bekannt	O
+voraussetzen	O
+.	O
+
+Kein	O
+Diarrhoe	B-Medical_condition
+.	O
+
+Leukopenie	B-Medical_condition
+,	O
+RR	B-Process
+noch	O
+nicht	B-Measurement
+gut	I-Measurement
+eingestellt	I-Measurement
+.	O
+
+Bauchdecken	B-Body_part
+weich	B-Measurement
+,	O
+eindrückbar	B-Measurement
+,	O
+leicht	O
+schmerzhaft	B-Medical_condition
+,	O
+Darmgeräusche	B-Body_part
+über	B-Local_specification
+alle	I-Local_specification
+4	I-Local_specification
+Quadranten	I-Local_specification
+vorhanden	O
+,	O
+keine	O
+Abwehrspannung	B-Medical_condition
+,	O
+kein	O
+Druckschmerz	B-Medical_condition
+,	O
+Nierenlager	B-Body_part
+nicht	O
+klopfschmerzhaft	B-Medical_condition
+.	O
+
+Keine	O
+Ödeme	B-Medical_condition
+.	O
+
+Der	O
+Prografspiegel	B-Biological_chemistry
+ist	O
+im	B-State_of_health
+Zielbereich	I-State_of_health
+.	O
+
+Pulmo	B-Body_part
+:	O
+
+Pat.	B-Person
+Auto.-Messgeraet	B-Medical_device
+verschrieben	B-Treatment
+.	O
+
+Psychosomatische	O
+Diagnostik	O
+:	O
+
+RR	B-Process
+sehr	B-Measurement
+hoch	I-Measurement
+,	O
+zu	O
+Hause	O
+allerdings	O
+besser	B-State_of_health
+.	O
+
+Hat	O
+jetzt	O
+etwas	O
+Rueckenschmerzen	B-Medical_condition
+,	O
+schon	O
+laenger	O
+bekannt	O
+.	O
+
+Therapie	B-Treatment
+und	O
+Verlauf	O
+:	O
+
+kein	O
+Stau	B-Medical_condition
+,	O
+Polabstand	B-Biological_parameter
+11	B-Measurement
+cm	I-Measurement
+.	O
+﻿Pat	B-Person
+.	O
+
+kein	O
+Nikotinkonsum	B-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Aus	O
+der	O
+Vorgeschichte	O
+ist	O
+ein	O
+Schwimmbad-Besuch	B-Treatment
+am	O
+07.04.2018	B-Time_information
+während	O
+der	O
+Aufenthalt	O
+des	O
+Patienten	B-Person
+bei	O
+Tochter	B-Person
+in	O
+Wien	O
+bekannt	O
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+keine	O
+Dysurie	B-Medical_condition
+,	O
+keine	O
+Narbenschmerzen	B-Medical_condition
+.	O
+
+Röntgen-Thorax	B-Body_part
+:	O
+
+Narbe	B-Medical_condition
+macht	O
+noch	O
+etwas	O
+Beschwerden	B-Medical_condition
+.	O
+
+Weitere	O
+Einzelheiten	O
+entnehmen	O
+Sie	O
+bitte	O
+unserem	O
+nachfolgenden	O
+ausführlichen	O
+Entlassungsbericht	O
+.	O
+
+Kein	O
+Dyspnoe	B-Medical_condition
+.	O
+
+Krankheitsverständnis	B-Process
+und	O
+Verarbeitung	O
+:	O
+
+Locol	B-Medication
+gut	B-State_of_health
+vertragen	I-State_of_health
+.	O
+
+Pupillen	B-Body_part
+mittelweit	B-Measurement
+,	O
+prompt	B-Measurement
+auf	O
+Licht	O
+reagierend	B-Measurement
+,	O
+neurologische	O
+Untersuchung	O
+unauffällig	B-State_of_health
+.	O
+
+60	B-Measurement
+mmHg	I-Measurement
+55	I-Measurement
+-	I-Measurement
+65	I-Measurement
+mmHg	I-Measurement
+)	O
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+Stabile	B-State_of_health
+Tx-Funktion	B-Process
+.	O
+
+Urbason	B-Medication
+abgesetzt	B-Treatment
+.	O
+Insgesamt	O
+weitere	O
+langsame	O
+Befundbesserung	B-State_of_health
+.	O
+
+Tacrolimus-Spiegel	B-Biological_chemistry
+in	B-State_of_health
+Ordnung	I-State_of_health
+.	O
+
+Es	O
+konnte	O
+im	O
+Verlauf	O
+eine	O
+Verbesserung	B-State_of_health
+der	O
+respiratorischen	O
+Situation	O
+erzielt	O
+werden	O
+.	O
+
+RR	B-Process
+zu	O
+Hause	O
+vor	O
+Med-Einnahme	B-Treatment
+teilweise	O
+zu	B-Medical_condition
+hoch	I-Medical_condition
+,	O
+Beloc	B-Medication
+weiter	O
+gesteigert	B-Treatment
+.	O
+
+Mitt.	O
+:	O
+
+Echokardiographie	O
+:	O
+
+Aktuell	O
+normotensive	B-State_of_health
+RR-Werte	B-Process
+,	O
+keine	O
+Infekte	B-Medical_condition
+.	O
+
+Medikamentenplan	O
+aktualisiert	O
+.	O
+
+Urin-Stix	O
+unauffällig	B-State_of_health
+,	O
+Kultur	B-Biological_parameter
+abgenommen	B-Measurement
+.	O
+
+Zusammenfassung	O
+:	O
+
+Blasenkapazitaez	B-Medical_condition
+hat	O
+zugenommen	B-Measurement
+.	O
+
+RR	B-Process
+iO	B-State_of_health
+Kreatinin	B-Biological_chemistry
+stabil	B-State_of_health
+Transplantat-Sono	O
+unauffaellig	B-State_of_health
+.	O
+Die	O
+Nierenfunktion	B-Body_part
+hat	O
+sich	O
+leicht	O
+gebessert	B-State_of_health
+.	O
+
+Appetit	B-Biological_parameter
+sehr	B-State_of_health
+gut	I-State_of_health
+.	O
+
+Wir	O
+führten	O
+in	O
+Zusammenarbeit	O
+mit	O
+unserer	O
+physiotherapeutischen	O
+Abteilung	O
+nach	O
+dem	O
+Eingriff	O
+eine	O
+Frühmobilisation	B-Treatment
+unter	O
+Vollbelastung	B-Treatment
+durch	O
+.	O
+
+Sono:	O
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+keine	O
+perirenale	B-Local_specification
+Fluessigkeit	O
+.	O
+Subjektiv	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+keine	O
+Problem	B-Medical_condition
+.	O
+
+Ausbildung	O
+in	O
+2000	B-Time_information
+.	O
+
+Muskelschwaeche	B-Medical_condition
+.	O
+
+RR	B-Process
+weiter	O
+eher	O
+hypotensiv	B-Medical_condition
+,	O
+aber	O
+gut	B-State_of_health
+toleriert	I-State_of_health
+.	O
+
+Deutliche	O
+Konstellation	O
+eines	O
+HWI	B-Medical_condition
+.	O
+Subjektives	O
+Wohlbefinden	B-State_of_health
+,	O
+KG	B-Biological_parameter
+konstant	B-Measurement
+,	O
+Appetit	B-Process
+noch	O
+recht	O
+groß	B-Measurement
+,	O
+keine	O
+Schmerzen	B-Medical_condition
+.	O
+
+Cymeven	B-Medication
+noch	O
+zu	B-Treatment
+Ende	I-Treatment
+nehmen	I-Treatment
+.	O
+
+Die	O
+Beschwerden	B-Medical_condition
+bestanden	O
+seit	B-Time_information
+20.04.2018	I-Time_information
+.	O
+
+Cymeven	B-Medication
+wenn	O
+aufgebraucht	B-Treatment
+->	O
+absetzen	B-Treatment
+.	O
+
+Müllerstr	O
+.	O
+
+Etwas	O
+Brennen	B-Medical_condition
+bei	O
+Miktion	B-Process
+.	O
+
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Tagsüber	B-Time_information
+:	O
+Syst	B-Medication
+.	I-Medication
+
+Pat.	B-Person
+der	O
+systemische	B-Medical_specification
+Blutdruck	B-Process
+wird	O
+mit	O
+120/80	B-Measurement
+mmHg	I-Measurement
+gemessen	O
+.	O
+
+Die	O
+Patientin	B-Person
+stellte	O
+sich	O
+selbst	O
+in	O
+unserer	O
+Ambulanz	O
+vor	O
+.	O
+
+:	O
+Mitt	O
+.	O
+
+Durchgehend	B-Measurement
+Sinusrhythmus	B-State_of_health
+,	O
+keine	O
+höhergradige	O
+Rhythmusstörung	B-Medical_condition
+,	O
+Keine	O
+AP	B-Medical_condition
+,	O
+keine	O
+signifikante	B-Measurement
+ST-Veränderung	B-Medical_condition
+,	O
+keine	O
+höhergradige	O
+Rhythmusstörung	B-Medical_condition
+.	O
+
+RR	B-Process
+zu	O
+Hause	O
+noch	O
+zu	B-Medical_condition
+hoch	I-Medical_condition
+.	O
+
+Sinusrhythmus	B-State_of_health
+,	O
+Linkstyp	B-Measurement
+.	O
+
+Sehr	O
+geehrte	O
+Kollegen	O
+,	O
+wir	O
+berichten	O
+Ihnen	O
+über	O
+Frau	B-Person
+Schuster	I-Person
+,	O
+die	O
+sich	O
+vom	O
+01.03.2018	B-Time_information
+bis	I-Time_information
+zum	I-Time_information
+20.03.2018	I-Time_information
+in	O
+unserer	O
+stationären	B-Treatment
+Behandlung	I-Treatment
+befand	O
+.	O
+
+vesikuläres	B-Medical_condition
+Atemgeräusch	I-Medical_condition
+über	O
+beiden	B-Local_specification
+Lungen	B-Body_part
+,	O
+keine	O
+RG	B-Medical_condition
+,	O
+Abdomen	B-Body_part
+weich	B-Measurement
+,	O
+kein	O
+Druckschmerz	B-Medical_condition
+,	O
+keine	O
+Resistenzen	B-Medical_condition
+,	O
+Darmgeräusche	B-Body_part
+regelrecht	B-State_of_health
+,	O
+keine	O
+Unterschenkelödeme	B-Medical_condition
+,	O
+periphere	B-Local_specification
+Pulse	B-Process
+seitengleich	B-Measurement
+tastbar	I-Measurement
+,	O
+neurologische	B-Medical_specification
+Untersuchung	O
+orientierend	O
+unauffällig	B-State_of_health
+.	O
+
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+Lymphozele	B-Medical_condition
+regredient	B-Measurement
+.	O
+Stuhlgang	B-Process
+weiter	O
+recht	O
+hart	B-Measurement
+,	O
+Kreon	B-Medication
+weiter	O
+pausiert	B-Treatment
+.	O
+
+Unter	O
+Belastung	B-Process
+und	O
+nach	O
+Belastungsende	O
+keine	O
+wesentlichen	O
+Auffälligkeiten	B-Medical_condition
+im	O
+Blutdruck-	B-Body_part
+und	O
+Pulsverhalten	B-Body_part
+.	O
+keine	O
+ST-Strecken-Veränderungen	B-Medical_condition
+bzw.	O
+Angina	B-Medical_condition
+pectoris-Beschwerden	I-Medical_condition
+.	O
+
+v.	O
+a.	O
+akute	B-Medical_specification
+Appendizitis	B-Medical_condition
+.	O
+
+Keine	O
+wesentlichen	B-Measurement
+Oedeme	B-Medical_condition
+.	O
+
+Valcyte	B-Medication
+angepasst	B-Treatment
+und	O
+Medikamente	B-Medication
+erneut	O
+besprochen	O
+.	O
+
+Stationäre	B-Treatment
+Aufnahme	I-Treatment
+in	I-Treatment
+unserer	I-Treatment
+Klinik	I-Treatment
+am	O
+23.04.2018	B-Time_information
+bei	O
+COPD-Exazerbation	B-Medical_condition
+.	O
+
+Keine	O
+freie	B-Medical_condition
+Flüßigkeit	I-Medical_condition
+.	O
+
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Taubheitsgefuehl	B-Medical_condition
+in	O
+den	O
+Haenden	B-Body_part
+haben	O
+nachgelassen	B-Measurement
+.	O
+
+Kurzfritige	B-Time_information
+Kontrolle	B-Treatment
+.	O
+﻿Pat	B-Person
+.	O
+
+Seit	O
+Kreon	B-Medication
+Stuhlgang	B-Process
+geformter	B-Measurement
+,	O
+Pat.	B-Person
+schleicht	O
+Omniflora	B-Medication
+langsam	O
+aus	O
+.	O
+
+Tx-Niere	B-Body_part
+unauffällig	B-State_of_health
+,	O
+bekanntes	B-Time_information
+Hämatom	B-Medical_condition
+am	O
+unteren	B-Local_specification
+Nierenpol	B-Body_part
+hat	O
+sich	O
+von	O
+ca.	O
+3	B-Measurement
+x	I-Measurement
+2	I-Measurement
+cm	I-Measurement
+auf	O
+2	B-Measurement
+x	I-Measurement
+1	I-Measurement
+cm	I-Measurement
+verkleinert	I-Measurement
+.	O
+Befinden	B-Process
+seit	B-Time_information
+Entlassung	I-Time_information
+verschlechtert	B-State_of_health
+.	O
+
+Sono	O
+:	O
+
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Reduzierter	B-Measurement
+AZ	B-Biological_parameter
+,	O
+72-jähr	B-Measurement
+.	O
+
+Valcyte	B-Medication
+abgesetzt	B-Treatment
+,	O
+Cotrim	B-Medication
+reduziert	B-Treatment
+.	O
+
+Im	O
+Serum	O
+lag	O
+die	O
+zuletzt	O
+gemessene	O
+Kreatininkonzentration	B-Biological_chemistry
+bei	O
+1,0	B-Measurement
+mg/d	I-Measurement
+.	O
+
+:	O
+
+Pulmo	B-Body_part
+:	O
+
+unauffällig	B-State_of_health
+.	O
+
+Sono	O
+:	O
+
+Cipro	B-Medication
+prophylaktisch	B-Treatment
+rezeptiert	I-Treatment
+.	O
+﻿Pat	B-Person
+.	O
+
+Dr.	B-Person
+med	I-Person
+.	I-Person
+
+Fitnesstrainerin	O
+.	O
+
+In	B-Time_information
+der	I-Time_information
+Nacht	I-Time_information
+:	O
+Syst.	B-Medical_condition
+:	O
+
+Pat.	B-Person
+beklagt	O
+etwas	O
+Beinoedeme	B-Medical_condition
+,	O
+kein	O
+Hinweis	O
+auf	O
+frische	B-Measurement
+Thrombose	B-Medical_condition
+.	O
+
+Keine	O
+Dyspnoe	B-Medical_condition
+.	O
+
+Zeiten	O
+in	O
+der	O
+Norm	B-State_of_health
+.	O
+
+RR	B-Process
+lat	O
+.	O
+
+Sehr	O
+geehrte	O
+Frau	O
+Kollegin	O
+,	O
+sehr	O
+geehrter	O
+Herr	O
+Kollege	O
+,	O
+o.	B-State_of_health
+g.	I-State_of_health
+Patient	B-Person
+befand	O
+sich	O
+bei	O
+uns	O
+seit	B-Time_information
+23.4.2018	I-Time_information
+in	O
+stationärer	B-Treatment
+Behandlung	I-Treatment
+.	O
+
+Systolischer	B-Medical_specification
+Pulmonalarteriendruck	B-Biological_chemistry
+im	O
+Normbereich	B-State_of_health
+.	O
+
+Urbason	B-Medication
+ab	B-Time_information
+naechster	I-Time_information
+Woche	I-Time_information
+auf	O
+12	B-Dosing
+mg	I-Dosing
+/	O
+die	O
+reduzieren	B-Treatment
+.	O
+
+Sonst	O
+unauffälliger	B-State_of_health
+Stromkurvenverlauf	B-Process
+.	O
+
+Kreatinin	B-Biological_chemistry
+nach	O
+Entlassung	B-Treatment
+angestiegen	B-Measurement
+,	O
+daher	O
+kurzfristige	O
+Kontrolle	B-Treatment
+und	O
+eventuell	O
+stationäre	B-Treatment
+Aufnahme	I-Treatment
+.	O
+
+Retentionsparameter	B-Medical_condition
+iO	B-State_of_health
+.	O
+
+Hat	O
+jetzt	O
+etwas	O
+Rueckenschmerzen	B-Medical_condition
+,	O
+schon	O
+laenger	O
+bekannt	O
+.	O
+
+Verlegungsdiagnose	O
+:	O
+
+40-jährige	B-Person
+Pat	I-Person
+.	I-Person
+in	O
+normalem	B-State_of_health
+AZ	B-Biological_parameter
+,	O
+BMI	B-Biological_chemistry
+22	B-Measurement
+,	O
+psychischer	B-Medical_specification
+Status	B-Biological_parameter
+labil	B-Measurement
+,	O
+Cor	B-Biological_chemistry
+:	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Kein	O
+Stau	B-Medical_condition
+.	O
+Subjektives	O
+Wohlbefinden	B-State_of_health
+,	O
+KG	B-Biological_parameter
+konstant	B-Measurement
+,	O
+Appetit	B-Process
+noch	O
+recht	O
+groß	B-Measurement
+,	O
+keine	O
+Schmerzen	B-Medical_condition
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Gutes	B-State_of_health
+Ansprechen	I-State_of_health
+auf	O
+Diblocin	B-Medication
+.	O
+
+Cortison	B-Medication
+und	O
+Myfortic	B-Medication
+planmäßig	O
+reduziert	B-Treatment
+.	O
+Wohlbefinden	B-State_of_health
+,	O
+keine	O
+Infekte.keine	B-Medical_condition
+GI-Symptome	I-Medical_condition
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Appetit	B-Biological_parameter
+schlecht	B-Medical_condition
+,	O
+2	B-Measurement
+kg	I-Measurement
+abgenommen	I-Measurement
+.	O
+
+Die	O
+Pat.	B-Person
+fühlt	O
+sich	O
+normal	B-State_of_health
+belastbar	I-State_of_health
+.	O
+
+Fragmin	B-Medication
+abgesetzt	B-Treatment
+.	O
+
+Kreatinin	B-Biological_chemistry
+weiter	O
+fallend	B-Measurement
+.	O
+
+Keine	O
+Lymphozele	B-Medical_condition
+.	O
+﻿An	O
+den	O
+weiterbehandelnden	O
+Arzt	B-Person
+.	O
+
+Urbason	B-Medication
+reduziert	B-Treatment
+.	O
+
+Miktion	B-Process
+und	O
+Stuhlgang	B-Process
+unauffällig	B-State_of_health
+.	O
+
+Gutes	B-State_of_health
+Ansprechen	I-State_of_health
+auf	O
+Diblocin	B-Medication
+.	O
+
+Mit	O
+freundlichen	O
+kollegialen	O
+Grüßen	O
+Dr.	O
+med	O
+.	O
+
+Sono	O
+:	O
+
+Schadow	B-Medical_condition
+,	O
+Hans	B-Person
+.	I-Person
+
+Ben.	B-Treatment
+ess	O
+.	O
+
+Ramipril	B-Medication
+(	O
+z.	B-Dosing
+B.	I-Dosing
+Deli	B-Medication
+x	I-Medication
+10	B-Dosing
+mg	I-Dosing
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0.	I-Dosing
+Tiotropiumbromid	B-Medication
+(	O
+z.	O
+B.	O
+Spiriva	B-Medication
+22ug	O
+Hub	B-Medical_condition
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+1-	I-Dosing
+0.	O
+Selbstverständlich	O
+können	O
+auch	O
+wirkstoffgleiche	B-Medication
+Präparate	I-Medication
+anderer	O
+Hersteller	O
+verwendet	O
+werden	O
+.	O
+
+Eine	O
+deutliche	B-Measurement
+Beschwerdesymptomatik	B-Medical_condition
+bestand	O
+mit	O
+rechtseitigen	B-Measurement
+abdominellen	B-Body_part
+Schmerzen	B-Medical_condition
+,	O
+Übelkeit	B-Medical_condition
+und	O
+Obstipation	B-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Blasenkapazitaez	B-Medical_condition
+hat	O
+zugenommen	B-Measurement
+.	O
+
+Fragmin	B-Medication
+abgesetzt	B-Treatment
+.	O
+
+Kein	O
+Fieber	B-Medical_condition
+.	O
+
+Die	O
+engmaschige	O
+Pulsoxymetrie-Kontrolle	O
+zeigte	O
+eine	O
+ausreichende	B-Measurement
+Sauerstoffsättigung	B-Process
+.	O
+
+Sozialmedizinische	B-Medical_condition
+Epikrise	I-Medical_condition
+:	O
+
+Erfreulicherweise	O
+zeigte	O
+sich	O
+ein	O
+Rückgang	B-Measurement
+der	O
+Entzündungsparameter	B-Medical_condition
+.	O
+
+Tx-Niere	B-Body_part
+unauffällig	B-State_of_health
+.	O
+
+Urbason	B-Medication
+reduziert	B-Treatment
+.	O
+
+Pat.	B-Person
+hat	O
+heute	B-Time_information
+Vorstellung	B-Treatment
+bei	O
+dem	O
+Urologen	B-Person
+wg.	O
+Harnwegsinfekt	B-Medical_condition
+.	O
+
+feuchte	B-Measurement
+RG	B-Process
+bds.	B-Local_specification
+Sauerstoffsättigung	B-Process
+unter	O
+Raumluft	B-Biological_chemistry
+96	B-Measurement
+%	I-Measurement
+.	O
+
+Muskelschwaeche	B-Medical_condition
+.	O
+
+Hat	O
+jetzt	O
+etwas	O
+Rueckenschmerzen	B-Medical_condition
+.	O
+
+Sono-Tx	O
+:	O
+
+Schonungsverhalten	O
+aufgrund	O
+der	O
+Hauptdiagnose	O
+.	O
+
+Sono	O
+:	O
+
+Das	O
+Fieber	B-Medical_condition
+ging	O
+zurück	O
+.	O
+
+Ödeme	B-Medical_condition
+rückläufig	B-Measurement
+.	O
+
+Keine	O
+GI-Beschwerden	B-Medical_condition
+.	O
+
+Sono-Tx	O
+:	O
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+Lymphozele	B-Medical_condition
+regredient	B-Measurement
+.	O
+﻿Herrn/Frau	B-Person
+Dr.	I-Person
+med	B-Medication
+.	I-Medication
+
+Bitte	O
+in	B-Time_information
+14	I-Time_information
+Tagen	I-Time_information
+Ca-Kontrolle	O
+.	O
+
+70	B-Measurement
+mmHg	I-Measurement
+55-85	I-Measurement
+mmHg	I-Measurement
+)	O
+.	O
+
+Selbsteinschätzung	O
+des	O
+Patienten	B-Person
+:	O
+
+Magenschmerzen	B-Medical_condition
+ruecklaeufig	B-Measurement
+,	O
+Kreatinin	B-Biological_chemistry
+weiter	O
+ruecklaeufig	B-Measurement
+,	O
+keine	O
+Oedeme	B-Medical_condition
+,	O
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Diurese	B-Process
+gut	B-State_of_health
+.	O
+
+RR	B-Process
+zu	O
+Hause	O
+vor	O
+Med-Einnahme	B-Treatment
+teilweise	O
+zu	B-Medical_condition
+hoch	I-Medical_condition
+,	O
+Beloc	B-Medication
+weiter	O
+gesteigert	B-Treatment
+.	O
+
+Sono	O
+:	O
+
+Auch	O
+im	O
+Langzeit-EKG	O
+am	O
+07.03.2018	B-Time_information
+wurde	O
+durchgehend	O
+normofrequenter	B-State_of_health
+Sinusrhythmus	B-Biological_parameter
+ohne	O
+höhergradige	B-Measurement
+Rhythmusstörungen	B-Medical_condition
+aufgezeichnet	O
+.	O
+
+Cibacen	B-Medication
+neu	B-Treatment
+seit	O
+03.03.07	B-Time_information
+,	O
+da	O
+Amlodipin	B-Medication
+wegen	O
+NW	B-Medical_condition
+reduziert	B-Treatment
+wurde	O
+.	O
+
+Hat	O
+Gewicht	B-Biological_parameter
+zugenommen	B-Measurement
+.	O
+
+Angst	B-Medical_condition
+und	O
+Depressivität	B-Medical_condition
+deutlich	B-Measurement
+erhöht	I-Measurement
+mit	O
+15	B-Measurement
+von	I-Measurement
+21	I-Measurement
+Punkten	I-Measurement
+für	O
+Angst	B-Medical_condition
+und	O
+10	B-Measurement
+von	I-Measurement
+21	I-Measurement
+Punkten	I-Measurement
+für	O
+Depressivität	B-Medical_condition
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+.	O
+
+Kontralateraler	B-Local_specification
+Loslasschmerz	B-Medical_condition
+,	O
+Darmgeräusche	B-Medical_condition
+nicht	O
+auskultierbar	B-Measurement
+über	B-Local_specification
+allen	I-Local_specification
+Quadranten	I-Local_specification
+.	O
+
+Blase	B-Body_part
+:	O
+
+Neurologischer	O
+Befund	O
+:	O
+
+Stuhlgang	B-Process
+besser	B-State_of_health
+.	O
+
+Stuhlgang	B-Process
+gut	B-State_of_health
+.	O
+
+Kreatininwert	B-Biological_chemistry
+perfekt	B-State_of_health
+mit	O
+1,2.	B-Measurement
+Reduktion	B-Treatment
+von	O
+Lasix	B-Medication
+auf	O
+250-125-0	B-Measurement
+.	O
+
+Körperliche	O
+Untersuchung	O
+:	O
+
+Jetzt	O
+ewas	O
+weniger	B-Measurement
+Nykturie	B-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Die	O
+Operation	B-Treatment
+führten	O
+wir	O
+in	O
+Phakoemulsifikation-Technik	B-Treatment
+mit	O
+Einbau	O
+einer	O
+Kunstoff-Linse	B-Medical_device
+am	B-Time_information
+21.04.2018	I-Time_information
+durch	O
+.	O
+
+Durchschnittliche	O
+HF	B-Process
+64/min	B-Measurement
+,	O
+vereinzelt	O
+SVES	B-Medical_condition
+.	O
+
+Diurese	B-Process
+unauffaellig	B-State_of_health
+,	O
+RR	B-Process
+iO	B-State_of_health
+.	O
+
+Kurzarztbrief	O
+.	O
+
+Weiterhin	O
+besserte	O
+sich	O
+unter	O
+den	O
+kreislaufunterstützenden	B-Treatment
+Maßnahmen	I-Treatment
+und	O
+supportiver	B-State_of_health
+Therapie	I-State_of_health
+der	O
+Allgemeinzustandes	B-Process
+deutlich	B-Measurement
+.	O
+
+:	O
+
+Kein	O
+Diabetes	B-Medical_condition
+mellitus	I-Medical_condition
+.	O
+gelegentlich	O
+ein	O
+Glas	O
+Wein/Bier	O
+.	O
+psychosozialen	B-Medical_condition
+Belastungen	I-Medical_condition
+.	O
+gelegentlich	B-Time_information
+körperliche	B-Medical_specification
+Bewegung	B-Process
+.	O
+
+Locol	B-Medication
+gut	B-State_of_health
+vertragen	I-State_of_health
+.	O
+
+Appetit	B-Process
+und	O
+Stuhlgang	B-Process
+normal	B-State_of_health
+.	O
+
+Normal	B-Measurement
+großer	I-Measurement
+linker	B-Body_part
+Ventrikel	I-Body_part
+mit	O
+normaler	B-State_of_health
+systolischer	B-Medical_specification
+Funktion	B-Biological_parameter
+,	O
+keine	O
+regionale	B-Local_specification
+Wandbewegungsstörung	B-Medical_condition
+.	O
+keine	O
+Compliancestörung	B-Medical_condition
+.	O
+
+TM	B-Biological_parameter
+auf	O
+2	B-Measurement
+Liter	I-Measurement
+erhöhen	B-Treatment
+.	O
+RR	B-Process
+schon	O
+besser	B-State_of_health
+geworden	I-State_of_health
+,	O
+aber	O
+abends	B-Time_information
+zwischen	B-Measurement
+150	I-Measurement
+und	I-Measurement
+160	I-Measurement
+systolisch	B-Medical_specification
+.	O
+
+Schiene	B-Medical_device
+in	B-State_of_health
+situ	I-State_of_health
+.	O
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+"allgemeine	O
+Schlappheit	B-Medical_condition
+"	O
+.	O
+
+Naechstes	B-Time_information
+Mal	I-Time_information
+auch	O
+Termin	O
+in	O
+der	O
+Urologie	B-Treatment
+.	O
+AZ	B-Biological_parameter
+ganz	B-State_of_health
+gut	I-State_of_health
+,	O
+keine	O
+Oedeme	B-Medical_condition
+,	O
+keine	O
+Infektzeichen	B-Medical_condition
+,	O
+kein	O
+Durchfall	B-Medical_condition
+.	O
+
+Urbason	B-Medication
+weiter	O
+reduziert	B-Treatment
+,	O
+bitte	O
+in	B-Time_information
+ca.	I-Time_information
+einer	I-Time_information
+Woche	I-Time_information
+weiter	O
+reduzieren	B-Treatment
+auf	O
+6mg	B-Dosing
+reduzieren	B-Treatment
+.	O
+
+Keine	O
+erhöhten	B-Measurement
+Cholesterinwerte	B-Biological_chemistry
+bekannt	O
+.	O
+
+Die	O
+im	B-Time_information
+Verlauf	I-Time_information
+gemessene	O
+RR-Werte	B-Process
+lagen	O
+bei	O
+häufiger	O
+Kontrolle	O
+weitgehend	O
+im	O
+normotensiven	B-State_of_health
+Bereich	I-State_of_health
+.	O
+
+Die	O
+Pat.	B-Person
+berichtet	O
+,	O
+seit	B-Time_information
+ca.	I-Time_information
+einem	I-Time_information
+Jahr	I-Time_information
+an	O
+Angstzuständen	B-Medical_condition
+zu	O
+leiden	O
+sowie	O
+an	O
+Herzrasen	B-Medical_condition
+,	O
+mit	O
+Verzweiflungsneigung	B-Medical_condition
+,	O
+sowie	O
+an	O
+Erschöpfungszustände	B-Medical_condition
+.	O
+
+Körperliche	O
+Untersuchung	O
+:	O
+
+Letzte	O
+Medikation	B-Medication
+:	O
+
+Paul	B-Person
+Ehrlich	O
+,	O
+Stationsarzt/Ärztin	B-Person
+.	O
+Abnehmende	B-Measurement
+Dysurie	B-Medical_condition
+,	O
+Miktion	B-Process
+haeufig	B-Measurement
+bei	O
+zunehmender	B-Measurement
+Blasenkapazitaet	B-Body_part
+.	O
+
+:	O
+
+Reha	O
+Ziele	O
+:	O
+
+Die	O
+Pat.	B-Person
+fühlt	O
+sich	O
+in	O
+der	O
+Belastbarkeit	B-Process
+durch	O
+die	O
+o.	O
+b.	O
+Beschwerden	B-Medical_condition
+deutlich	B-Measurement
+eingeschränkt	I-Measurement
+.	O
+
+Die	O
+Pat.	B-Person
+ist	O
+mit	O
+ihrer	O
+Arbeit	O
+zufrieden	O
+und	O
+traut	O
+sie	O
+sich	O
+weiterhin	O
+zu	O
+.	O
+
+Normotensive	B-State_of_health
+RR-Werte	B-Process
+,	O
+entsprechendes	O
+Dipping	B-Medical_condition
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+keine	O
+perirenale	B-Local_specification
+Fluessigkeit	O
+.	O
+Subjektiv	O
+recht	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+RR	B-Process
+zu	O
+Hause	O
+zwischen	O
+140	B-Measurement
+und	I-Measurement
+150	I-Measurement
+mmHg	I-Measurement
+lt	O
+.	O
+
+Stuhlgang	B-Process
+normal	B-State_of_health
+.	O
+
+Gute	B-State_of_health
+Nierenfunktion	B-Body_part
+,	O
+keine	O
+Ödeme	B-Medical_condition
+.	O
+
+Leonardo	B-Medication
+DiCaprio	I-Medication
+,	O
+Stationsarzt/Ärztin	B-Treatment
+.	O
+Zu	O
+Hause	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+RR	B-Process
+iO	B-State_of_health
+Kreatinin	B-Biological_chemistry
+stabil	B-State_of_health
+Transplantat-Sono	O
+unauffaellig	B-State_of_health
+.	O
+AZ	B-Biological_parameter
+ganz	B-State_of_health
+gut	I-State_of_health
+,	O
+keine	O
+Oedeme	B-Medical_condition
+,	O
+keine	O
+Infektzeichen	B-Medical_condition
+,	O
+kein	O
+Durchfall	B-Medical_condition
+.	O
+
+Ergometrie	O
+(	O
+Fahrradergometer	B-Body_part
+)	O
+bei	B-Time_information
+Aufnahme	I-Time_information
+:	O
+
+Beide	O
+Eltern	B-Person
+gesund	B-State_of_health
+,	O
+Mutter	B-Person
+70	O
+Jahre	O
+alt	O
+,	O
+Vater	B-Person
+75	O
+Jahre	O
+alt	O
+.	O
+
+Herr	B-Person
+Mustermann	I-Person
+,	O
+Max	B-Person
+Musterstraße	I-Person
+,	O
+22	O
+11111	O
+Musterort	O
+.	O
+
+Vorstellung	B-Treatment
+bei	I-Treatment
+Psychosomatik	I-Treatment
+nächste	B-Time_information
+Woche	I-Time_information
+am	O
+12.12.2012	B-Time_information
+.	O
+
+Keine	O
+wesentlichen	B-Measurement
+Oedeme	B-Medical_condition
+.	O
+
+Gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+Stabile	B-State_of_health
+Tx-Funktion	B-Process
+,	O
+im	O
+Sono	O
+kein	O
+Stau	B-Medical_condition
+.	O
+
+29.4.2018	B-Time_information
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+RR	B-Process
+gut	B-State_of_health
+eingestellt	I-State_of_health
+,	O
+weiter	O
+sehr	B-State_of_health
+gute	I-State_of_health
+Nierenfunktion	B-Body_part
+.	O
+
+Die	O
+stationäre	B-Treatment
+Einweisung	I-Treatment
+erfolgte	O
+am	O
+20.04.2018	B-Time_information
+durch	O
+den	O
+Hausarzt	B-Person
+.	O
+
+Der	O
+Husten	B-Medical_condition
+bestand	O
+seit	B-Time_information
+15.04.2018	I-Time_information
+und	O
+zeigte	O
+die	O
+Verschlechterungstendenz	B-Medical_condition
+.	O
+
+Leberwerte	B-Body_part
+ruecklaeufig	B-Measurement
+.	O
+
+Ausserdem	O
+ab	O
+und	O
+zu	O
+Knochenschmerzen	B-Medical_condition
+in	O
+Haenden	B-Body_part
+und	O
+Beinen	B-Body_part
+.	O
+
+Kein	O
+Stau	B-Medical_condition
+.	O
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+oefters	B-Measurement
+verstopfte	B-Medical_condition
+oder	O
+laufende	B-Medical_condition
+Nase	I-Medical_condition
+.	O
+
+Die	O
+Entlassung	B-Treatment
+erfolgt	O
+in	O
+Ihre	O
+weitere	O
+Behandlung	O
+.	O
+
+Sono	O
+:	O
+
+Mittelschwere	B-Measurement
+bis	O
+schwere	B-Measurement
+körperliche	B-Medical_condition
+Belastung	I-Medical_condition
+.	O
+
+Fosamax	B-Medication
+neu	B-Treatment
+70	B-Dosing
+mg	I-Dosing
+.	O
+
+Die	O
+Entzündungswerte	B-Biological_chemistry
+sind	O
+auch	O
+in	O
+Bezug	O
+auf	O
+das	O
+CRP	B-Biological_chemistry
+deutlich	O
+erhöht	B-Measurement
+.	O
+
+Die	O
+Entlassung	B-Treatment
+erfolgt	O
+in	O
+Ihre	O
+weitere	O
+ambulante	B-Treatment
+Betreuung	I-Treatment
+am	O
+03.05.2018	B-Time_information
+.	O
+
+:	O
+
+Wir	O
+entließen	O
+die	O
+Pat	B-Person
+.	I-Person
+arbeitsfähig	O
+.	O
+
+Bauchbeschwerden	B-Medical_condition
+waren	O
+verneint	O
+.	O
+
+Diagnosen	B-Treatment
+:	O
+
+Keine	O
+Knochenschmerzen	B-Medical_condition
+,	O
+keine	O
+Dysurie	B-Medical_condition
+.	O
+
+123	O
+,	O
+13110	O
+München	O
+.	O
+
+Freiedrichstraße	O
+543	O
+,	O
+10117	O
+Berlin	O
+.	O
+
+In	O
+der	O
+Phase	O
+der	O
+Immobilisierung	B-Treatment
+wurde	O
+eine	O
+Thromboseprophylaxe	B-Treatment
+mit	O
+niedermolekularen	B-Medical_specification
+Heparinen	B-Medication
+durchgeführt	O
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+.	O
+
+Klappen	O
+ohne	O
+Befund	B-Medical_condition
+,	O
+Kein	O
+Perikarderguss	B-Medical_condition
+.	O
+
+Bei	O
+abendlichen	O
+Ödemen	B-Medical_condition
+Torem	B-Medication
+verordnet	B-Treatment
+.	O
+
+Dr.	B-Person
+med	I-Person
+.	O
+
+Appetit	B-Biological_parameter
+sehr	B-State_of_health
+gut	I-State_of_health
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+.	O
+
+Herzneurose	B-Medical_condition
+(	O
+F45.3	B-Measurement
+nach	O
+ICD-10	B-Biological_chemistry
+)	O
+.	O
+
+art	O
+Hypertonie	B-Medical_condition
+I10.00	I-Medical_condition
+.	O
+
+Eine	O
+engmaschige	B-Medical_specification
+SpO2-Kontrolle	O
+zeigte	O
+eine	O
+gute	B-State_of_health
+Sauerstoffsättigung	B-Process
+unter	O
+Raumluft	B-Biological_chemistry
+.	O
+
+Kurzarztbrief	O
+:	O
+
+RR	B-Process
+zu	O
+Hause	O
+um	O
+130/80	B-Measurement
+mmHg	I-Measurement
+.	O
+
+Pulmo	B-Body_part
+:	O
+
+Reduzierter	B-Measurement
+AZ	B-Biological_parameter
+.	O
+
+HADS-Fragebogen	O
+:	O
+
+Kreatinin	B-Biological_chemistry
+faellt	B-Measurement
+weiter	I-Measurement
+.	O
+
+Urbason	B-Medication
+abgesetzt	B-Treatment
+.	O
+AZ	B-Biological_parameter
+ganz	B-State_of_health
+gut	I-State_of_health
+,	O
+keine	O
+Oedeme	B-Medical_condition
+,	O
+keine	O
+Infektzeichen	B-Medical_condition
+,	O
+kein	O
+Durchfall	B-Medical_condition
+.	O
+
+Sie	O
+möchte	O
+ihren	O
+Informationsstand	O
+verbessern	O
+,	O
+erfahren	O
+,	O
+wo	O
+ihre	O
+Belastbarkeitsgrenze	B-Biological_parameter
+liegt	O
+,	O
+sowie	O
+im	O
+geschützten	O
+Rahmen	O
+wieder	O
+Sicherheit	O
+bei	O
+körperlicher	O
+Belastung	O
+bekommen	O
+.	O
+
+Neu	B-Treatment
+Blopress	B-Medication
+.	O
+
+Sauerstoffsättigung	B-Process
+unter	O
+Raumluft	B-Biological_chemistry
+98	B-Measurement
+%	I-Measurement
+,	O
+Abdomen	B-Biological_chemistry
+:	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+AU	O
+-Zeiten	O
+:	O
+
+Protokoll	O
+um	B-Measurement
+140	I-Measurement
+mmHg	I-Measurement
+.	O
+
+Erhoehte	B-Measurement
+BZ-Werte	B-Biological_chemistry
+.	O
+Subjektiv	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+keine	O
+Problem	B-Medical_condition
+.	O
+
+Will	O
+zum	O
+Augenarzt	B-Person
+,	O
+da	O
+etwas	O
+Sehverschlechterung	B-Medical_condition
+.	O
+
+3	O
+mal	O
+mindestens	O
+Nykturie	B-Medical_condition
+.	O
+
+Nikotinabusus	B-Medical_condition
+F17.1	B-Measurement
+.	O
+
+Fitnesstrainerin	O
+;	O
+arbeitet	O
+in	O
+Vollzeit	O
+.	O
+
+Familienanamnese	O
+:	O
+
+Restklammern	B-Medical_device
+entfernt	B-Treatment
+.	O
+Patient	B-Person
+berichtet	O
+über	O
+Knochenschmerzen	B-Medical_condition
+und	O
+Krämpfe	B-Medical_condition
+in	O
+Beinen	B-Body_part
+-	O
+bei	O
+weiter	O
+Bestehen	O
+evl	O
+.	O
+
+Keine	O
+Infektzeichen	B-Medical_condition
+.	O
+
+Abdomen	B-Body_part
+:	O
+
+Reha-Ergebnis	O
+und	O
+Abschlussuntersuchung	O
+:	O
+
+Allgemeinchirurgie	O
+.	O
+
+Kreatinin	B-Biological_chemistry
+faellt	B-Measurement
+weiter	I-Measurement
+.	O
+
+Urbason	B-Medication
+ab	B-Time_information
+naechster	I-Time_information
+Woche	I-Time_information
+auf	O
+12	B-Dosing
+mg	I-Dosing
+/	O
+die	O
+reduzieren	B-Treatment
+.	O
+
+Im	B-Time_information
+Mai	I-Time_information
+Reise	O
+nach	O
+Afrika	O
+:	O
+
+Sono	O
+:	O
+
+Therapie	B-Treatment
+bei	B-Time_information
+Aufnahme	I-Time_information
+:	O
+
+erweitertes	B-Measurement
+Nierenbecken	B-Body_part
+wie	O
+in	O
+Vorbefunden	B-Measurement
+,	O
+Haematom	B-Medical_condition
+perirenal	B-Local_specification
+Seit	B-Time_information
+Mittwoch	I-Time_information
+starke	B-Measurement
+Blaehungen	B-Medical_condition
+und	O
+Magenbeschwerden	B-Medical_condition
+,	O
+Kreon	B-Medication
+versuchsweise	O
+pausieren	B-Treatment
+.	O
+
+RR	B-Process
+jetzt	O
+gut	B-State_of_health
+eingestellt	I-State_of_health
+.	O
+
+Kein	O
+Fieber	B-Medical_condition
+,	O
+kein	O
+Infekt	B-Medical_condition
+,	O
+keine	O
+GI-Symptome	B-Medical_condition
+.	O
+
+Keine	O
+Dyspnoe	B-Medical_condition
+.	O
+
+Letzte	O
+Medikation	B-Medication
+:	O
+
+Erhoehte	B-Measurement
+BZ-Werte	B-Biological_chemistry
+.	O
+RR	B-Process
+schon	O
+besser	B-State_of_health
+geworden	I-State_of_health
+,	O
+aber	O
+abends	B-Time_information
+zwischen	B-Measurement
+150	I-Measurement
+und	I-Measurement
+160	I-Measurement
+systolisch	B-Medical_specification
+.	O
+
+Robert	B-Person
+Koch	I-Person
+,	O
+Oberarzt/Oberärztin	B-Person
+.	O
+
+Mit	O
+freundlichen	O
+,	O
+kollegialen	O
+Grüßen	O
+Robert	O
+Koch	O
+Oberarzt	O
+Geht	B-State_of_health
+ganz	I-State_of_health
+gut	I-State_of_health
+.	O
+
+Ambulante	B-Treatment
+Psychotherapie	I-Treatment
+(	O
+Verhaltenstherapie	O
+)	O
+empfohlen	O
+.	O
+
+Keine	O
+Lymphozele	B-Medical_condition
+.	O
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+"allgemeine	O
+Schlappheit	B-Medical_condition
+"	O
+.	O
+
+Der	O
+postoperative	B-Treatment
+Verlauf	I-Treatment
+gestaltete	O
+sich	O
+komplikationslos	B-State_of_health
+.	O
+
+100	B-Measurement
+mmHg	I-Measurement
+95	I-Measurement
+-	I-Measurement
+105	I-Measurement
+mmHg	I-Measurement
+)	O
+,	O
+Diast	B-Treatment
+.	I-Treatment
+
+:	O
+
+Tx-Niere	B-Body_part
+:	O
+
+Der	O
+postoperative	B-Treatment
+Verlauf	I-Treatment
+gestaltete	O
+sich	O
+komplikationslos	B-State_of_health
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+gute	B-State_of_health
+Diurese	B-Process
+Keine	O
+Angstzustaende	B-Medical_condition
+Sono	O
+:	O
+
+Ausreichende	B-Measurement
+Diurese	B-Process
+.	O
+
+COPD	O
+J44.99	B-Measurement
+.	O
+
+Cholesterin	B-Biological_chemistry
+unter	O
+Rapamycin	B-Medication
+weiterhin	O
+erhoeht	B-Treatment
+.	O
+
+Labordiagnostisch	O
+erhöhte	B-Measurement
+Leukozyten	B-Biological_chemistry
+und	O
+CRP	B-Biological_chemistry
+.	O
+
+Die	O
+Beschwerden	B-Medical_condition
+bestanden	O
+seit	B-Time_information
+26.04.2018	I-Time_information
+.	O
+
+Bei	O
+der	O
+Abschlussuntersuchung	O
+gab	O
+die	O
+Pat.	B-Person
+an	O
+,	O
+sich	O
+in	O
+ihrer	O
+Belastbarkeit	B-Process
+und	O
+Ausdauer	B-Biological_parameter
+gesteigert	B-Measurement
+zu	O
+haben	O
+.	O
+
+Abdominelle	B-Body_part
+Beschwerden	B-Medical_condition
+mit	O
+kolikartigen	B-Measurement
+Schmerzen	B-Medical_condition
+,	O
+letzter	O
+Stuhlgang	B-Process
+am	O
+28.04.2018	B-Time_information
+,	O
+Übelkeit	B-Medical_condition
+und	O
+Erbrechen	B-Medical_condition
+.	O
+Bef	O
+.	O
+
+Furosemid-Dosis	B-Medication
+erhoeht	B-Treatment
+auf	O
+20	B-Dosing
+mg	I-Dosing
+.	O
+
+Keine	O
+Infektzeichen	B-Medical_condition
+.	O
+
+Gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+Hat	O
+Schmerzen	B-Medical_condition
+und	O
+Engegefühl	B-Medical_condition
+im	O
+Brust	B-Body_part
+ohne	O
+Dyspnoe	B-Medical_condition
+bei	O
+unauffälligem	B-State_of_health
+EKG-Befund	B-Biological_parameter
+und	O
+normaler	B-State_of_health
+Labor	O
+.	O
+
+Magenschmerzen	B-Medical_condition
+ruecklaeufig	B-Measurement
+,	O
+Kreatinin	B-Biological_chemistry
+weiter	O
+ruecklaeufig	B-Measurement
+,	O
+keine	O
+Oedeme	B-Medical_condition
+,	O
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Bei	O
+der	O
+routinemäßigen	O
+Laboruntersuchung	O
+lagen	O
+die	O
+meisten	O
+Werte	B-Biological_parameter
+im	O
+Normbereich	B-State_of_health
+.	O
+
+Keine	O
+GI-Beschwerden	B-Medical_condition
+.	O
+
+Gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+RR	B-Process
+noch	O
+nicht	O
+im	O
+Normbereich	B-State_of_health
+,	O
+deshalb	O
+Nitrendipin	B-Medication
+erhöht	B-Treatment
+.	O
+Insgesamt	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+keine	O
+Kraempfe	B-Medical_condition
+,	O
+gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+Beruf	O
+:	O
+
+Diagnosen	B-Treatment
+:	O
+
+LZ	O
+RR	B-Process
+am	O
+08.03.2018	B-Time_information
+:	O
+
+Prograf	B-Medication
+planmäßig	O
+reduziert	B-Treatment
+,	O
+Urbason	B-Medication
+reduziert	B-Treatment
+.	O
+
+Diagnostik	O
+Labor	O
+:	O
+
+RR	B-Process
+gut	B-State_of_health
+eingestellt	I-State_of_health
+.	O
+
+Sehr	O
+geehrte	O
+Frau	O
+Kollegin	O
+,	O
+sehr	O
+geehrter	O
+Herr	O
+Kollege	O
+,	O
+o.	O
+g.	O
+Patient	B-Person
+befand	O
+sich	O
+bei	O
+uns	O
+von	O
+20.04.2018	B-Time_information
+bis	I-Time_information
+25.04.2018	I-Time_information
+in	O
+stationärer	B-Treatment
+Behandlung	I-Treatment
+.	O
+
+Pat	B-Person
+.	I-Person
+
+Labordiagnostisch	O
+deutlich	B-Measurement
+erhöhte	I-Measurement
+Entzündungsparameter	B-Biological_chemistry
+.	O
+
+Sozialanamnese	O
+:	O
+
+Eine	O
+Besserung	B-State_of_health
+zeigte	O
+sich	O
+auch	O
+hinsichtlich	O
+der	O
+Entfieberung	B-Treatment
+.	O
+
+Auch	O
+die	O
+BZ-Werte	B-Biological_chemistry
+lagen	O
+weitgehend	O
+im	O
+zufriedenstellenden	B-State_of_health
+Bereich	I-State_of_health
+.	O
+
+Dr.	B-Person
+med	I-Person
+.	I-Person
+
+Sono-Tx	O
+:	O
+
+Abdomen	B-Body_part
+bretthart	B-Measurement
+,	O
+Abwehrspannung	B-Medical_condition
+,	O
+Druckschmerz	B-Medical_condition
+im	O
+unteren	B-Local_specification
+rechten	I-Local_specification
+Quadranten	I-Local_specification
+.	O
+
+Lenze	B-Person
+,	I-Person
+Ida	I-Person
+;	O
+geb.	O
+am	O
+20.02.1992;	B-Time_information
+wohnhaft	O
+:	O
+
+:	O
+Mitt	O
+.	O
+
+Kardiovaskuläre	B-Medical_condition
+Risikofaktoren	I-Medical_condition
+:	O
+
+Urbason	B-Medication
+naechste	B-Time_information
+Woche	I-Time_information
+auf	O
+10mg	B-Dosing
+reduzieren	B-Treatment
+.	O
+
+Frequenz	B-Biological_parameter
+100/min	B-Measurement
+.	O
+
+Ausserdem	O
+ab	O
+und	O
+zu	O
+Knochenschmerzen	B-Medical_condition
+in	O
+Haenden	B-Body_part
+und	O
+Beinen	B-Body_part
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+Dilatation	B-Treatment
+des	O
+NBKS	B-Body_part
+eher	O
+ruecklaeufig	B-Measurement
+.	O
+Seit	B-Time_information
+2	I-Time_information
+Wochen	I-Time_information
+depressive	B-Medical_condition
+Symptomatik	I-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Kreatinin	B-Biological_chemistry
+weiter	O
+fallend	B-Measurement
+.	O
+
+Etwas	O
+Dysurie	B-Medical_condition
+.	O
+
+Cymeven	B-Medication
+noch	O
+zu	B-Treatment
+Ende	I-Treatment
+nehmen	I-Treatment
+.	O
+
+Miktion	B-Process
+normal	B-State_of_health
+,	O
+keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Leberwerte	B-Body_part
+ruecklaeufig	B-Measurement
+.	O
+
+Jetzige	O
+Beschwerden	B-Medical_condition
+:	O
+
+Der	O
+Puls	B-Process
+war	O
+bei	O
+Entlassung	B-Treatment
+normofrequent	B-State_of_health
+und	O
+regelmäßig	B-Measurement
+.	O
+
+Berichtet	O
+häufiges	B-Measurement
+Wasserlassen	B-Process
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+,	O
+Diurese	B-Process
+unauffällig	B-State_of_health
+,	O
+keine	O
+Infekte	B-Medical_condition
+.	O
+
+Frequenz	B-Biological_parameter
+90/min	B-Measurement
+.	O
+
+Appetit	B-Biological_parameter
+sehr	B-State_of_health
+gut	I-State_of_health
+.	O
+
+LZ	O
+EKG	O
+am	O
+07.03.2018	B-Time_information
+:	O
+
+Cholesterin	B-Biological_chemistry
+unter	O
+Rapamycin	B-Medication
+weiterhin	O
+erhoeht	B-Treatment
+.	O
+
+Kein	O
+Fieber	B-Medical_condition
+.	O
+
+Es	O
+fanden	O
+sich	O
+deutlich	B-Measurement
+erhöhte	I-Measurement
+Entzündungswerte	B-Biological_chemistry
+mit	O
+einem	O
+CRP	B-Biological_chemistry
+von	O
+50	B-Measurement
+mg/dl	I-Measurement
+.	O
+
+Keine	O
+Allergien	B-Medical_condition
+bekannt	B-Time_information
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Während	B-Time_information
+des	I-Time_information
+Aufenthaltes	I-Time_information
+war	O
+es	O
+zu	O
+einer	O
+leichten	O
+Verbesserung	B-State_of_health
+des	O
+Erschöpfungszustandes	B-Medical_condition
+gekommen	O
+.	O
+
+Die	O
+Pat.	B-Person
+fühlt	O
+sich	O
+in	B-State_of_health
+der	I-State_of_health
+Lage	I-State_of_health
+ihren	O
+Beruf	O
+weiterhin	O
+auszuüben	O
+.	O
+
+Insgesamt	O
+in	B-Time_information
+den	I-Time_information
+letzten	I-Time_information
+12	I-Time_information
+Monaten	I-Time_information
+3	I-Time_information
+Monate	I-Time_information
+krank	B-Medical_condition
+.	O
+
+Rehabilitationsverlauf	B-Process
+und	O
+Epikrise	B-Medical_condition
+:	O
+
+Ziel	O
+der	O
+Rehabilitation	B-Treatment
+war	O
+die	O
+muskuläre	B-Medical_condition
+Kräftigung	I-Medical_condition
+sowie	O
+körperliche	B-Medical_specification
+und	O
+psychische	B-Medical_specification
+Stabilisierung	B-Process
+.	O
+
+Kurzfritige	B-Time_information
+Kontrolle	B-Treatment
+.	O
+Geht	B-State_of_health
+gut	I-State_of_health
+.	O
+
+Albrecht	B-Medical_condition
+Gräfe	I-Medical_condition
+,	O
+Chefarzt	B-Person
+.	O
+
+Insbesondere	O
+fühlte	O
+sie	O
+sich	O
+deutlich	O
+kräftiger	B-Measurement
+und	O
+ausdauernder	B-Measurement
+.	O
+
+Furosemid-Dosis	B-Medication
+erhoeht	B-Treatment
+auf	O
+20	B-Dosing
+mg	I-Dosing
+.	O
+
+Weitere	O
+Befunde	O
+anbei	O
+.	O
+
+Neu	B-Treatment
+Blopress	B-Medication
+.	O
+
+Anamnese	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+.	O
+
+Sehr	O
+geehrte	O
+Kollegen	O
+,	O
+wir	O
+berichten	O
+Ihnen	O
+über	O
+Herr	B-Person
+Aurel	I-Person
+,	O
+der	O
+sich	O
+vom	O
+20.04.2018	B-Time_information
+bis	I-Time_information
+zum	I-Time_information
+30.04.2018	I-Time_information
+in	O
+unserer	O
+stationären	B-Treatment
+Behandlung	I-Treatment
+befand	O
+.	O
+
+Der	O
+systemische	B-Medical_specification
+Blutdruck	B-Process
+wird	O
+mit	O
+110/70	B-Measurement
+mmHg	I-Measurement
+gemessen	O
+.	O
+
+RR	B-Process
+im	O
+Normbereich.Medikation	B-State_of_health
+ausführlich	O
+besprochen	O
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+Prograf	B-Medication
+reduziert	B-Treatment
+auf	O
+2	B-Dosing
+x	I-Dosing
+3	I-Dosing
+mg	B-Medication
+.	O
+Weiter	O
+deutl	O
+.	O
+
+Ausreichende	B-Measurement
+Diurese	B-Process
+.	O
+
+Akutes	B-Measurement
+Abdomen	B-Medical_condition
+(	O
+v.	O
+a.	O
+Appandizitis	B-Medical_condition
+)	O
+.	O
+
+Patient	B-Person
+Erwin	I-Person
+Schrödinger	I-Person
+29.4.2018	B-Time_information
+.	O
+
+Naechstes	B-Time_information
+Mal	I-Time_information
+auch	O
+Termin	O
+in	O
+der	O
+Urologie	B-Treatment
+.	O
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+oefters	B-Measurement
+verstopfte	B-Medical_condition
+oder	O
+laufende	B-Medical_condition
+Nase	I-Medical_condition
+.	O
+
+Leber	B-Body_part
+und	O
+Milz	B-Body_part
+nicht	O
+palpabel	B-Measurement
+.	O
+
+Bisoprolol	B-Medication
+(	O
+Bisohexal	B-Medication
+10	B-Dosing
+mg	I-Dosing
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0.	I-Dosing
+Ramipril	B-Medication
+(	O
+Deli	B-Medication
+x	I-Medication
+10	B-Dosing
+mg	I-Dosing
+)	O
+=	O
+0	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+1.	I-Dosing
+Metformin	B-Medication
+(	O
+Siofor	B-Medication
+1000	I-Medication
+)	O
+=	O
+1	B-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0	I-Dosing
+-	I-Dosing
+0.	I-Dosing
+Selbstverständlich	O
+können	O
+auch	O
+wirkstoffgleiche	O
+Präparate	O
+anderer	O
+Hersteller	O
+verwendet	O
+werden	O
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+kein	O
+Fieber	B-Medical_condition
+.	O
+Subjektives	B-State_of_health
+Wohlbefinden	I-State_of_health
+.	O
+
+Sono	O
+:	O
+
+RR	B-Process
+zu	O
+Hause	O
+um	O
+130/80	B-Measurement
+mmHg	I-Measurement
+.	O
+
+Stationäre	B-Treatment
+Aufnahme	I-Treatment
+in	I-Treatment
+unserer	I-Treatment
+Klinik	I-Treatment
+zur	O
+Katarakt-Operation	B-Treatment
+bei	O
+seniler	B-Medical_condition
+Katarkt	I-Medical_condition
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+.	O
+
+Urbason	B-Medication
+weiter	O
+reduziert	B-Treatment
+,	O
+bitte	O
+in	B-Time_information
+ca.	I-Time_information
+einer	I-Time_information
+Woche	I-Time_information
+weiter	O
+reduzieren	B-Treatment
+auf	O
+6mg	B-Dosing
+reduzieren	B-Treatment
+.	O
+
+Keine	O
+Dosisänderung	B-Treatment
+.	O
+
+Wie	O
+bereits	O
+mit	O
+Ihrem	O
+Mitarbeiter	B-Person
+Dr.	I-Person
+Langenbeck	I-Person
+am	O
+besprochen	O
+erfolgt	O
+die	O
+Verlegung	O
+am	O
+29.04.2018	B-Time_information
+in	O
+Ihre	O
+Abteilung	O
+zur	O
+weiteren	O
+Diagnostik	B-Treatment
+und	O
+Behandlung	B-Treatment
+.	O
+
+Die	O
+Einweisung	B-Treatment
+erfolgte	O
+über	O
+unsere	O
+Notaufnahme	O
+.	O
+
+RR	B-Process
+gut	B-State_of_health
+eingestellt	I-State_of_health
+.	O
+
+RR-Messgerät	B-Process
+für	O
+zuhause	O
+verschrieben	B-Treatment
+.	O
+
+iO	B-State_of_health
+.	O
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+allg	O
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+gute	B-State_of_health
+Diurese	B-Process
+Keine	O
+Angstzustaende	B-Medical_condition
+Sono	O
+:	O
+
+Keine	O
+Entzuendungszeichen	B-Medical_condition
+.	O
+
+VAG	B-Medical_condition
+.	O
+
+Im	O
+Röntgenbild	O
+der	O
+Lunge	B-Body_part
+deutliche	B-Measurement
+Besserung	B-State_of_health
+des	O
+Befundes	B-Medical_condition
+.	O
+
+Zusätzlich	O
+erfolgte	O
+bilanzierte	B-Measurement
+Flüssigkeitsgabe	B-Process
+,	O
+entsprechende	O
+Schmerzanalgesie	B-Medical_condition
+sowie	O
+begleitenden	O
+Maßnahmen	O
+worunter	O
+sich	O
+der	O
+AZ	B-Biological_chemistry
+stabilisierte	O
+und	O
+der	O
+klinische	O
+Zustand	O
+besserte	O
+.	O
+
+Reha	O
+Diagnosen	O
+:	O
+
+Blutdruck	B-Biological_chemistry
+100/60	B-Measurement
+mmHg	I-Measurement
+,	O
+Puls	B-Process
+56/min	B-Measurement
+,	O
+regelmäßig	B-Measurement
+.	O
+normale	B-State_of_health
+Herztöne	B-Body_part
+,	O
+keine	O
+vitientypischen	B-Medical_condition
+Geräusche	I-Medical_condition
+auskultierbar	B-Measurement
+,	O
+Karotiden	B-Body_part
+und	O
+Leistenarterien	B-Body_part
+beidseits	B-Local_specification
+auskultatorisch	B-Measurement
+unauffällig	B-State_of_health
+.	O
+
+Neu	B-Treatment
+Benzbromaron	B-Medication
+.	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+.	O
+
+Urbason	B-Medication
+abgesetzt	B-Treatment
+.	O
+Geht	B-State_of_health
+ganz	I-State_of_health
+gut	I-State_of_health
+.	O

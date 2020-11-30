@@ -1,0 +1,49 @@
+T1	State_of_health 12 24	Wohlbefinden
+T2	Biological_parameter 27 29	KG
+T3	Measurement 30 38	konstant
+T4	Process 41 48	Appetit
+T5	Measurement 60 64	groß
+T6	Medical_condition 73 82	Schmerzen
+T7	Process 85 87	RR
+T8	State_of_health 88 103	gut eingestellt
+T9	Medication 106 113	Urbason
+T10	Time_information 114 132	ab naechster Woche
+T11	Dosing 137 142	12 mg
+T12	Treatment 149 159	reduzieren
+T13	Medical_condition 162 178	Blasenkapazitaez
+T14	Measurement 183 193	zugenommen
+T15	Biological_chemistry 196 205	Kreatinin
+T16	Measurement 206 219	faellt weiter
+T17	Biological_chemistry 222 233	Cholesterin
+T18	Medication 240 249	Rapamycin
+T19	Treatment 260 267	erhoeht
+T20	Measurement 270 278	Erhoehte
+T21	Biological_chemistry 279 287	BZ-Werte
+R1	if_consequence arg1:T1 arg2:T2
+R2	consequence arg1:T1 arg2:T3
+R3	if_consequence arg1:T1 arg2:T4
+R4	affects arg1:T1 arg2:T5
+R5	affects arg1:T1 arg2:T6
+R6	affects arg1:T2 arg2:T3
+R7	affects arg1:T2 arg2:T4
+R8	affects arg1:T2 arg2:T5
+R9	is_linked_to arg1:T6 arg2:T2
+R10	consequence arg1:T3 arg2:T4
+R11	if_consequence arg1:T3 arg2:T5
+R12	is_linked_to arg1:T6 arg2:T3
+R13	affects arg1:T4 arg2:T5
+R14	consequence arg1:T6 arg2:T4
+R15	is_linked_to arg1:T6 arg2:T5
+R16	is_linked_to arg1:T7 arg2:T8
+R17	if_consequence arg1:T9 arg2:T10
+R18	if_consequence arg1:T9 arg2:T11
+R19	if_consequence arg1:T9 arg2:T12
+R20	examines arg1:T11 arg2:T10
+R21	if_consequence arg1:T10 arg2:T12
+R22	if_consequence arg1:T11 arg2:T12
+R23	if_consequence arg1:T13 arg2:T14
+R24	if_consequence arg1:T15 arg2:T16
+R25	if_consequence arg1:T17 arg2:T18
+R26	if_consequence arg1:T17 arg2:T19
+R27	affects arg1:T19 arg2:T18
+R28	if_consequence arg1:T20 arg2:T21

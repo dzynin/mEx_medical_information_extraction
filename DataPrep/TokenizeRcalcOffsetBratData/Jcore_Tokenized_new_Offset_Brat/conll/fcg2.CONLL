@@ -1,0 +1,53 @@
+1	Subjektives	Subjektives	ADJA	ADJA	_	_	_	0	_	_	_
+2	Wohlbefinden	Wohlbefinden	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	KG	KG	NE	NE	_	_	_	0	_	_	_
+5	konstant	konstant	ADJD	ADJD	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	Appetit	Appetit	NN	NN	_	_	_	0	_	_	_
+8	noch	noch	ADV	ADV	_	_	_	0	_	_	_
+9	recht	recht	ADV	ADV	_	_	_	0	_	_	_
+10	groß	groß	ADJD	ADJD	_	_	_	0	_	_	_
+11	,	,	$,	$,	_	_	_	0	_	_	_
+12	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+13	Schmerzen	Schmerzen	NN	NN	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	gut	gut	ADJD	ADJD	_	_	_	0	_	_	_
+3	eingestellt	eingestellt	ADJD	ADJD	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Urbason	Urbason	NN	NN	_	_	_	0	_	_	_
+2	ab	ab	APPR	APPR	_	_	_	0	_	_	_
+3	naechster	naechster	ADJA	ADJA	_	_	_	0	_	_	_
+4	Woche	Woche	NN	NN	_	_	_	0	_	_	_
+5	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+6	12	12	CARD	CARD	_	_	_	0	_	_	_
+7	mg	mg	NN	NN	_	_	_	0	_	_	_
+8	/	/	$(	$(	_	_	_	0	_	_	_
+9	die	die	ART	ART	_	_	_	0	_	_	_
+10	reduzieren	reduzieren	VVINF	VVINF	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Blasenkapazitaez	Blasenkapazitaez	NN	NN	_	_	_	0	_	_	_
+2	hat	hat	VAFIN	VAFIN	_	_	_	0	_	_	_
+3	zugenommen	zugenommen	VVPP	VVPP	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kreatinin	Kreatinin	NN	NN	_	_	_	0	_	_	_
+2	faellt	faellt	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Cholesterin	Cholesterin	NN	NN	_	_	_	0	_	_	_
+2	unter	unter	APPR	APPR	_	_	_	0	_	_	_
+3	Rapamycin	Rapamycin	NE	NE	_	_	_	0	_	_	_
+4	weiterhin	weiterhin	ADV	ADV	_	_	_	0	_	_	_
+5	erhoeht	erhoeht	VVPP	VVPP	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Erhoehte	Erhoehte	ADJA	ADJA	_	_	_	0	_	_	_
+2	BZ-Werte	BZ-Werte	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+

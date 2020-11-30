@@ -1,0 +1,49 @@
+1	Patient	Patient	NN	NN	_	_	_	0	_	_	_
+2	berichtet	berichtet	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	über	über	APPR	APPR	_	_	_	0	_	_	_
+4	Knochenschmerzen	Knochenschmerzen	NN	NN	_	_	_	0	_	_	_
+5	und	und	KON	KON	_	_	_	0	_	_	_
+6	Krämpfe	Krämpfe	NN	NN	_	_	_	0	_	_	_
+7	in	in	APPR	APPR	_	_	_	0	_	_	_
+8	Beinen	Beinen	NN	NN	_	_	_	0	_	_	_
+9	-	-	$(	$(	_	_	_	0	_	_	_
+10	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+11	weiter	weiter	ADJA	ADJA	_	_	_	0	_	_	_
+12	Bestehen	Bestehen	NN	NN	_	_	_	0	_	_	_
+13	evl	evl	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Mg	Mg	ADJD	ADJD	_	_	_	0	_	_	_
+2	versuchen	versuchen	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Valcyte	Valcyte	NN	NN	_	_	_	0	_	_	_
+2	abgesetzt	abgesetzt	VVPP	VVPP	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	Cotrim	Cotrim	NN	NN	_	_	_	0	_	_	_
+5	reduziert	reduziert	VVPP	VVPP	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Aktuell	Aktuell	ADJD	ADJD	_	_	_	0	_	_	_
+2	normotensive	normotensive	ADJA	ADJA	_	_	_	0	_	_	_
+3	RR-Werte	RR-Werte	NN	NN	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+6	Infekte	Infekte	NN	NN	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+5	Stau	Stau	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Schiene	Schiene	NN	NN	_	_	_	0	_	_	_
+2	in	in	APPR	APPR	_	_	_	0	_	_	_
+3	situ	situ	LAT	LAT	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+

@@ -1,0 +1,35 @@
+Subjektiv	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+keine	O
+Problem	B-Medical_condition
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Urbason	B-Medication
+weiter	O
+reduziert	B-Treatment
+,	O
+bitte	O
+in	B-Time_information
+ca.	I-Time_information
+einer	I-Time_information
+Woche	I-Time_information
+weiter	O
+reduzieren	B-Treatment
+auf	O
+6mg	B-Dosing
+reduzieren	B-Treatment
+.	O
+
+RR	B-Process
+iO	B-State_of_health
+Kreatinin	B-Biological_chemistry
+stabil	B-State_of_health
+Transplantat-Sono	O
+unauffaellig	B-State_of_health
+.	O

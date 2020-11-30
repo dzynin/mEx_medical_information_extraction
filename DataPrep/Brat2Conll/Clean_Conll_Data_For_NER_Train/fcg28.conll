@@ -1,0 +1,52 @@
+Subjektiv	O
+recht	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+RR	B-Process
+zu	O
+Hause	O
+zwischen	O
+140	B-Measurement
+und	I-Measurement
+150	I-Measurement
+mmHg	I-Measurement
+lt	O
+.	O
+
+Pat.	B-Person
+Auto.-Messgeraet	B-Medical_device
+verschrieben	B-Treatment
+.	O
+
+Bei	O
+WV	B-Treatment
+Protokoll	O
+.	O
+
+Jetzt	O
+Calcium	B-Medication
+reduziert	B-Treatment
+und	O
+neu	B-Treatment
+Rocaltrol	B-Medication
+.	O
+
+Bitte	O
+in	B-Time_information
+14	I-Time_information
+Tagen	I-Time_information
+Ca-Kontrolle	O
+.	O
+
+Sono	O
+:	O
+
+erweitertes	B-Measurement
+Nierenbecken	B-Body_part
+wie	O
+in	O
+Vorbefunden	B-Measurement
+,	O
+Haematom	B-Medical_condition
+perirenal	B-Local_specification

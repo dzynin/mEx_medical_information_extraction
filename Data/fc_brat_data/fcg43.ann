@@ -1,0 +1,41 @@
+T1	State_of_health 10 24	gutes Befinden
+T2	Medical_condition 32 39	Problem
+T3	Medical_condition 47 54	Dysurie
+T4	Medication 56 63	Urbason
+T5	Treatment 71 80	reduziert
+T6	Time_information 88 106	in ca. einer Woche
+T7	Treatment 114 124	reduzieren
+T8	Dosing 129 132	6mg
+T9	Treatment 133 143	reduzieren
+T10	Process 145 147	RR
+T11	State_of_health 148 150	iO
+T12	Biological_chemistry 151 160	Kreatinin
+T13	State_of_health 161 167	stabil
+T14	Diaglab_procedure 168 185	Transplantat-Sono
+T15	State_of_health 186 198	unauffaellig
+R1	hasstate arg1:T2 arg2:T1
+R2	involves arg1:T5 arg2:T4
+R3	has_time_info arg1:T4 arg2:T6
+R4	involves arg1:T7 arg2:T4
+R5	has_dosing arg1:T4 arg2:T8
+R6	involves arg1:T9 arg2:T4
+R7	has_time_info arg1:T5 arg2:T6
+R8	consequence arg1:T5 arg2:T7
+R9	has_dosing arg1:T5 arg2:T8
+R10	consequence arg1:T5 arg2:T9
+R11	has_time_info arg1:T7 arg2:T6
+R12	has_time_info arg1:T8 arg2:T6
+R13	has_time_info arg1:T9 arg2:T6
+R14	has_dosing arg1:T7 arg2:T8
+R15	involves arg1:T7 arg2:T9
+R16	has_dosing arg1:T9 arg2:T8
+R17	hasstate arg1:T12 arg2:T11
+R18	hasstate arg1:T11 arg2:T13
+R19	shows arg1:T14 arg2:T11
+R20	hasstate arg1:T11 arg2:T15
+R21	hasstate arg1:T12 arg2:T13
+R22	examines arg1:T14 arg2:T12
+R23	hasstate arg1:T12 arg2:T15
+R24	shows arg1:T14 arg2:T13
+R25	hasstate arg1:T13 arg2:T15
+R26	shows arg1:T14 arg2:T15

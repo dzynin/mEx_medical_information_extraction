@@ -1,0 +1,34 @@
+Insgesamt	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+keine	O
+Kraempfe	B-Medical_condition
+,	O
+gute	B-State_of_health
+Diurese	B-Process
+.	O
+
+RR	B-Process
+gut	B-State_of_health
+eingestellt	I-State_of_health
+,	O
+weiter	O
+sehr	B-State_of_health
+gute	I-State_of_health
+Nierenfunktion	B-Body_part
+.	O
+
+Leberwerte	B-Body_part
+ruecklaeufig	B-Measurement
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+Im	O
+Sono	O
+kein	O
+Stau	B-Medical_condition
+.	O

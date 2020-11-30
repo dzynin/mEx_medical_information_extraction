@@ -1,0 +1,48 @@
+Patient	B-Person
+berichtet	O
+über	O
+Knochenschmerzen	B-Medical_condition
+und	O
+Krämpfe	B-Medical_condition
+in	O
+Beinen	B-Body_part
+-	O
+bei	O
+weiter	O
+Bestehen	O
+evl	O
+.	O
+
+Mg	B-Medication
+versuchen	B-Treatment
+.	O
+
+Valcyte	B-Medication
+abgesetzt	B-Treatment
+,	O
+Cotrim	B-Medication
+reduziert	B-Treatment
+.	O
+
+Aktuell	O
+normotensive	B-State_of_health
+RR-Werte	B-Process
+,	O
+keine	O
+Infekte	B-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+.	O
+
+Schiene	B-Medical_device
+in	B-State_of_health
+situ	I-State_of_health
+.	O

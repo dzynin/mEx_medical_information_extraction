@@ -1,0 +1,84 @@
+2020-11-27 17:15:08,600 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:15:08,601 Model: "SequenceTagger(
+  (embeddings): StackedEmbeddings(
+    (list_embedding_0): FlairEmbeddings(
+      (lm): LanguageModel(
+        (drop): Dropout(p=0.25, inplace=False)
+        (encoder): Embedding(275, 100)
+        (rnn): LSTM(100, 2048)
+        (decoder): Linear(in_features=2048, out_features=275, bias=True)
+      )
+    )
+    (list_embedding_1): FlairEmbeddings(
+      (lm): LanguageModel(
+        (drop): Dropout(p=0.25, inplace=False)
+        (encoder): Embedding(275, 100)
+        (rnn): LSTM(100, 2048)
+        (decoder): Linear(in_features=2048, out_features=275, bias=True)
+      )
+    )
+  )
+  (word_dropout): WordDropout(p=0.05)
+  (locked_dropout): LockedDropout(p=0.3)
+  (embedding2nn): Linear(in_features=4096, out_features=4096, bias=True)
+  (rnn): LSTM(4096, 256, batch_first=True, bidirectional=True)
+  (linear): Linear(in_features=512, out_features=29, bias=True)
+  (beta): 1.0
+  (weights): None
+  (weight_tensor) None
+)"
+2020-11-27 17:15:08,601 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:15:08,601 Corpus: "Corpus: 381 train + 51 dev + 75 test sentences"
+2020-11-27 17:15:08,601 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:15:08,601 Parameters:
+2020-11-27 17:15:08,601  - learning_rate: "0.1"
+2020-11-27 17:15:08,601  - mini_batch_size: "65"
+2020-11-27 17:15:08,601  - patience: "3"
+2020-11-27 17:15:08,601  - anneal_factor: "0.5"
+2020-11-27 17:15:08,601  - max_epochs: "1"
+2020-11-27 17:15:08,601  - shuffle: "True"
+2020-11-27 17:15:08,601  - train_with_dev: "False"
+2020-11-27 17:15:08,601  - batch_growth_annealing: "False"
+2020-11-27 17:15:08,602 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:15:08,602 Model training base path: "resources/1_Some_Setting_Name/2"
+2020-11-27 17:15:08,602 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:15:08,602 Device: cpu
+2020-11-27 17:15:08,602 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:15:08,602 Embeddings storage mode: cpu
+2020-11-27 17:15:08,602 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:15:24,474 epoch 1 - iter 1/6 - loss 24.11236572 - samples/sec: 4.10 - lr: 0.100000
+2020-11-27 17:15:44,057 epoch 1 - iter 2/6 - loss 24.66102600 - samples/sec: 3.32 - lr: 0.100000
+2020-11-27 17:16:01,869 epoch 1 - iter 3/6 - loss 23.44822629 - samples/sec: 3.65 - lr: 0.100000
+2020-11-27 17:16:13,218 epoch 1 - iter 4/6 - loss 21.29446578 - samples/sec: 5.73 - lr: 0.100000
+2020-11-27 17:16:28,873 epoch 1 - iter 5/6 - loss 21.05543957 - samples/sec: 4.15 - lr: 0.100000
+2020-11-27 17:16:43,728 epoch 1 - iter 6/6 - loss 19.81615671 - samples/sec: 4.38 - lr: 0.100000
+2020-11-27 17:16:43,728 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:16:43,728 EPOCH 1 done: loss 19.8162 - lr 0.1000000
+2020-11-27 17:16:53,085 DEV : loss 15.667333602905273 - score 0.0351
+2020-11-27 17:16:53,087 BAD EPOCHS (no improvement): 0
+2020-11-27 17:16:53,664 ----------------------------------------------------------------------------------------------------
+2020-11-27 17:16:53,664 Testing using best model ...
+2020-11-27 17:16:53,664 loading file resources/1_Some_Setting_Name/2/best-model.pt
+2020-11-27 17:17:08,308 0.0784	0.0222	0.0346
+2020-11-27 17:17:08,308 
+Results:
+- F1-score (micro) 0.0346
+- F1-score (macro) 0.0059
+
+By class:
+Biological_chemistry tp: 0 - fp: 0 - fn: 9 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Biological_parameter tp: 0 - fp: 0 - fn: 5 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Body_part  tp: 0 - fp: 0 - fn: 6 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Dosing     tp: 0 - fp: 0 - fn: 2 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Local_specification tp: 0 - fp: 0 - fn: 1 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Measurement tp: 0 - fp: 3 - fn: 28 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Medical_condition tp: 4 - fp: 44 - fn: 38 - precision: 0.0833 - recall: 0.0952 - f1-score: 0.0889
+Medical_device tp: 0 - fp: 0 - fn: 1 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Medical_specification tp: 0 - fp: 0 - fn: 2 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Medication tp: 0 - fp: 0 - fn: 11 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Person     tp: 0 - fp: 0 - fn: 13 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Process    tp: 0 - fp: 0 - fn: 14 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+State_of_health tp: 0 - fp: 0 - fn: 21 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Time_information tp: 0 - fp: 0 - fn: 8 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+Treatment  tp: 0 - fp: 0 - fn: 17 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+2020-11-27 17:17:08,308 ----------------------------------------------------------------------------------------------------

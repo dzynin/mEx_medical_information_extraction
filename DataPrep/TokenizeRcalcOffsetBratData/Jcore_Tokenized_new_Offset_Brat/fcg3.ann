@@ -1,0 +1,37 @@
+T0	State_of_health 0 15	Geht soweit gut
+T1	Measurement 24 31	oefters
+T2	Medical_condition 32 42	verstopfte
+T3	Medical_condition 48 61	laufende Nase
+T4	Treatment 64 67	Neu
+T5	Medication 68 76	Blopress
+T6	Biological_parameter 79 86	Appetit
+T7	State_of_health 94 97	gut
+T8	Medication 100 107	Cymeven
+T9	Treatment 113 127	zu Ende nehmen
+T10	Medical_condition 136 142	Oedeme
+T11	State_of_health 145 149	gute
+T12	Process 150 157	Diurese
+T13	Medical_condition 164 178	Angstzustaende
+T14	Diaglab_procedure 179 183	Sono
+T15	Body_part 186 194	Tx-Niere
+T16	State_of_health 195 207	unauffaellig
+T17	Medical_condition 215 219	Stau
+R1	has_measure arg1:T0 arg2:T0
+R2	hasstate arg1:T1 arg2:T0
+R3	hasstate arg1:T2 arg2:T0
+R4	has_measure arg1:T1 arg2:T0
+R5	has_measure arg1:T2 arg2:T0
+R6	hasstate arg1:T2 arg2:T1
+R7	involves arg1:T4 arg2:T4
+R8	hasstate arg1:T6 arg2:T6
+R9	involves arg1:T8 arg2:T8
+R10	hasstate arg1:T10 arg2:T10
+R11	hasstate arg1:T11 arg2:T10
+R12	hasstate arg1:T10 arg2:T12
+R13	consequence arg1:T10 arg2:T13
+R16	hasstate arg1:T11 arg2:T10
+R17	hasstate arg1:T12 arg2:T10
+R18	shows arg1:T13 arg2:T10
+R21	hasstate arg1:T11 arg2:T12
+R22	shows arg1:T13 arg2:T11R25	shows arg1:T13 arg2:T12
+R30	hasstate arg1:T15 arg2:T15

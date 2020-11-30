@@ -1,0 +1,36 @@
+Die	O
+Nierenfunktion	B-Body_part
+hat	O
+sich	O
+leicht	O
+gebessert	B-State_of_health
+.	O
+
+Der	O
+Prografspiegel	B-Biological_chemistry
+ist	O
+im	B-State_of_health
+Zielbereich	I-State_of_health
+.	O
+
+Keine	O
+Dosisänderung	B-Treatment
+.	O
+
+Blut-PH	B-Biological_chemistry
+ist	O
+noch	O
+sehr	B-Measurement
+niedrig	I-Measurement
+.	O
+
+Bitte	O
+2	B-Time_information
+x	I-Time_information
+tgl	I-Time_information
+.	I-Time_information
+
+eine	B-Dosing
+Tablette	I-Dosing
+Bicanorm	B-Medication
+.	O

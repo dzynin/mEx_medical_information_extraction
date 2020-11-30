@@ -1,0 +1,38 @@
+Seit	B-Time_information
+Mittwoch	I-Time_information
+starke	B-Measurement
+Blaehungen	B-Medical_condition
+und	O
+Magenbeschwerden	B-Medical_condition
+,	O
+Kreon	B-Medication
+versuchsweise	O
+pausieren	B-Treatment
+.	O
+
+Diurese	B-Process
+unauffaellig	B-State_of_health
+,	O
+RR	B-Process
+iO	B-State_of_health
+.	O
+
+Kreatinin	B-Biological_chemistry
+nach	O
+Entlassung	B-Treatment
+angestiegen	B-Measurement
+,	O
+daher	O
+kurzfristige	O
+Kontrolle	B-Treatment
+und	O
+eventuell	O
+stationäre	B-Treatment
+Aufnahme	I-Treatment
+.	O
+
+Deutliche	O
+Konstellation	O
+eines	O
+HWI	B-Medical_condition
+.	O

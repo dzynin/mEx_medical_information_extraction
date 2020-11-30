@@ -1,0 +1,43 @@
+Geht	O
+soweit	O
+gut	B-State_of_health
+,	O
+keine	O
+Stuhlgangprobleme	B-Medical_condition
+,	O
+keine	O
+Dysurie	B-Medical_condition
+.	O
+
+RR	B-Process
+jetzt	O
+gut	B-State_of_health
+eingestellt	I-State_of_health
+.	O
+
+Will	O
+zum	O
+Augenarzt	B-Person
+,	O
+da	O
+etwas	O
+Sehverschlechterung	B-Medical_condition
+.	O
+
+Cymeven	B-Medication
+wenn	O
+aufgebraucht	B-Treatment
+->	O
+absetzen	B-Treatment
+.	O
+
+Sono	O
+:	O
+
+kein	O
+Stau	B-Medical_condition
+,	O
+Polabstand	B-Biological_parameter
+11	B-Measurement
+cm	I-Measurement
+.	O

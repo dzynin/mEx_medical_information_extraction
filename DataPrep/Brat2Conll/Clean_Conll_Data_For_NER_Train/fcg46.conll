@@ -1,0 +1,44 @@
+Geht	B-State_of_health
+ganz	I-State_of_health
+gut	I-State_of_health
+.	O
+
+Magenschmerzen	B-Medical_condition
+ruecklaeufig	B-Measurement
+,	O
+Kreatinin	B-Biological_chemistry
+weiter	O
+ruecklaeufig	B-Measurement
+,	O
+keine	O
+Oedeme	B-Medical_condition
+,	O
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+RR	B-Process
+sehr	B-Measurement
+hoch	I-Measurement
+,	O
+zu	O
+Hause	O
+allerdings	O
+besser	B-State_of_health
+.	O
+
+Fragmin	B-Medication
+abgesetzt	B-Treatment
+.	O
+
+Sono-Tx	O
+:	O
+
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+Lymphozele	B-Medical_condition
+regredient	B-Measurement
+.	O

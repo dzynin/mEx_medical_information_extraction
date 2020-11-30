@@ -1,0 +1,46 @@
+Haeufig	B-Measurement
+Stuhlgang	B-Process
+(	O
+4	B-Measurement
+x/Tag	I-Measurement
+)	O
+aber	O
+geformt.RR	B-Measurement
+weiter	O
+etwas	O
+hoch	B-Measurement
+,	O
+Beginn	B-Treatment
+mit	O
+halber	O
+Beloc	B-Medication
+Zok	I-Medication
+mite	I-Medication
+,	O
+ggf.	O
+weitere	O
+Dosissteigerung	B-Treatment
+.	O
+
+Medikamentenplan	O
+aktualisiert	O
+.	O
+
+Taubheitsgefuehl	B-Medical_condition
+in	O
+den	O
+Haenden	B-Body_part
+haben	O
+nachgelassen	B-Measurement
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+kein	O
+Fieber	B-Medical_condition
+.	O

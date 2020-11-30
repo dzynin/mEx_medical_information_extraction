@@ -1,0 +1,224 @@
+T1	Person 0 4	﻿Pat
+T2	Person 8 19	Lenze , Ida
+T3	Time_information 30 40	20.02.1992
+T4	Person 140 150	Frau Lenze
+T5	Time_information 166 195	27.04.2018 bis zum 03.05.2018
+T6	Treatment 207 229	stationären Behandlung
+T7	Treatment 254 264	Einweisung
+T8	Person 304 313	Patientin
+T9	Measurement 365 374	deutliche
+T10	Medical_condition 375 396	Beschwerdesymptomatik
+T11	Measurement 409 422	rechtseitigen
+T12	Body_part 423 435	abdominellen
+T13	Medical_condition 436 445	Schmerzen
+T14	Medical_condition 448 456	Übelkeit
+T15	Medical_condition 461 472	Obstipation
+T16	Medical_condition 479 490	Beschwerden
+T17	Time_information 501 516	seit 26.04.2018
+T18	Body_part 546 551	Pulmo
+T19	Local_specification 554 565	vesikuläres
+T20	Process 566 578	Atemgeräusch
+T21	Local_specification 579 584	bds .
+T22	Diaglab_procedure 585 606	Neurologischer Befund
+T23	Body_part 609 617	Pupillen
+T24	Measurement 618 628	mittelweit
+T25	Measurement 631 637	prompt
+T26	Body_fluid 642 647	Licht
+T27	Measurement 648 658	reagierend
+T28	Diaglab_procedure 661 687	neurologische Untersuchung
+T29	State_of_health 688 699	unauffällig
+T30	Measurement 702 713	Reduzierter
+T31	Biological_parameter 714 716	AZ
+T32	Medical_specification 723 734	systemische
+T33	Process 735 744	Blutdruck
+T34	Measurement 754 765	110/70 mmHg
+T35	Diaglab_procedure 766 774	gemessen
+T36	Biological_parameter 777 785	Frequenz
+T37	Measurement 786 792	90/min
+T38	Body_part 795 800	Pulmo
+T39	Medical_condition 803 806	VAG
+T40	Process 809 828	Sauerstoffsättigung
+T41	Biological_chemistry 835 843	Raumluft
+T42	Measurement 844 848	98 %
+T43	Biological_chemistry 851 858	Abdomen
+T44	Medical_specification 867 872	akute
+T45	Medical_condition 873 885	Appendizitis
+T46	Diaglab_procedure 888 893	Labor
+T47	Diaglab_procedure 896 913	Labordiagnostisch
+T48	Measurement 914 930	deutlich erhöhte
+T49	Biological_chemistry 931 951	Entzündungsparameter
+T50	Biological_chemistry 958 974	Entzündungswerte
+T51	Biological_chemistry 1002 1005	CRP
+T52	Measurement 1015 1021	erhöht
+T53	Measurement 1039 1055	deutlich erhöhte
+T54	Biological_chemistry 1056 1072	Entzündungswerte
+T55	Biological_chemistry 1083 1086	CRP
+T56	Measurement 1091 1099	50 mg/dl
+T57	Treatment 1102 1110	Therapie
+T58	Medical_specification 1166 1172	offene
+T59	Treatment 1173 1186	Appendektomie
+T60	Time_information 1190 1200	26.04.2018
+T61	Measurement 1223 1234	bilanzierte
+T62	Process 1235 1251	Flüssigkeitsgabe
+T63	Medical_condition 1268 1284	Schmerzanalgesie
+T64	Biological_chemistry 1332 1334	AZ
+T65	Treatment 1389 1410	postoperative Verlauf
+T66	State_of_health 1427 1443	komplikationslos
+T67	Biological_chemistry 1462 1469	Hb-Wert
+T68	Measurement 1474 1477	110
+T69	Measurement 1478 1482	g/dl
+T70	Treatment 1502 1517	Immobilisierung
+T71	Treatment 1529 1548	Thromboseprophylaxe
+T72	Medical_specification 1553 1570	niedermolekularen
+T73	Medication 1571 1580	Heparinen
+T74	State_of_health 1639 1649	regelrecht
+T75	Treatment 1686 1720	kreislaufunterstützenden Maßnahmen
+T76	State_of_health 1725 1745	supportiver Therapie
+T77	Process 1750 1768	Allgemeinzustandes
+T78	Measurement 1769 1777	deutlich
+T79	Diaglab_procedure 1796 1819	Pulsoxymetrie-Kontrolle
+T80	Measurement 1832 1844	ausreichende
+T81	Process 1845 1864	Sauerstoffsättigung
+T82	Biological_chemistry 1876 1884	BZ-Werte
+T83	State_of_health 1905 1932	zufriedenstellenden Bereich
+T84	State_of_health 1940 1949	Besserung
+T85	Treatment 1984 1996	Entfieberung
+T86	Measurement 2033 2041	Rückgang
+T87	Medical_condition 2046 2066	Entzündungsparameter
+T88	Treatment 2166 2182	Frühmobilisation
+T89	Treatment 2189 2202	Vollbelastung
+T90	Time_information 2211 2218	Zuletzt
+T91	Treatment 2227 2254	Mobilisierung in Begleitung
+T92	Person 2259 2276	Physiotherapeutin
+T93	Treatment 2301 2311	Entlassung
+T94	Treatment 2336 2355	ambulante Betreuung
+T95	Time_information 2359 2369	03.05.2018
+R1	has_time_info arg1:T6 arg2:T5
+R2	has_measure arg1:T10 arg2:T9
+R3	has_measure arg1:T11 arg2:T9
+R4	has_measure arg1:T12 arg2:T9
+R5	has_measure arg1:T13 arg2:T9
+R6	has_measure arg1:T14 arg2:T9
+R7	has_measure arg1:T15 arg2:T9
+R8	has_measure arg1:T10 arg2:T11
+R9	is_located arg1:T10 arg2:T12
+R10	is_linked_to arg1:T10 arg2:T13
+R11	is_linked_to arg1:T10 arg2:T14
+R12	affects arg1:T10 arg2:T15
+R13	has_measure arg1:T12 arg2:T11
+R14	has_measure arg1:T13 arg2:T11
+R15	has_measure arg1:T14 arg2:T11
+R16	has_measure arg1:T15 arg2:T11
+R17	is_located arg1:T13 arg2:T12
+R18	hasstate arg1:T12 arg2:T14
+R19	is_located arg1:T15 arg2:T12
+R20	is_linked_to arg1:T13 arg2:T14
+R21	is_linked_to arg1:T13 arg2:T15
+R22	hasstate arg1:T15 arg2:T14
+R23	has_time_info arg1:T16 arg2:T17
+R24	is_located arg1:T20 arg2:T19
+R25	is_located arg1:T19 arg2:T21
+R26	is_located arg1:T20 arg2:T21
+R27	shows arg1:T22 arg2:T23
+R28	shows arg1:T22 arg2:T24
+R29	shows arg1:T22 arg2:T25
+R30	shows arg1:T22 arg2:T26
+R31	shows arg1:T22 arg2:T27
+R32	consequence arg1:T22 arg2:T28
+R33	shows arg1:T22 arg2:T29
+R34	has_measure arg1:T23 arg2:T24
+R35	has_measure arg1:T23 arg2:T25
+R36	is_located arg1:T26 arg2:T23
+R37	has_measure arg1:T23 arg2:T27
+R38	shows arg1:T28 arg2:T23
+R39	hasstate arg1:T23 arg2:T29
+R40	has_measure arg1:T25 arg2:T24
+R41	has_measure arg1:T26 arg2:T24
+R42	has_measure arg1:T27 arg2:T24
+R43	shows arg1:T28 arg2:T24
+R44	has_measure arg1:T29 arg2:T24
+R45	has_measure arg1:T26 arg2:T25
+R46	has_measure arg1:T27 arg2:T25
+R47	consequence arg1:T25 arg2:T28
+R48	has_measure arg1:T29 arg2:T25
+R49	is_located arg1:T27 arg2:T26
+R50	examines arg1:T28 arg2:T26
+R51	hasstate arg1:T26 arg2:T29
+R52	if_consequence arg1:T27 arg2:T28
+R53	has_measure arg1:T29 arg2:T27
+R54	shows arg1:T28 arg2:T29
+R55	has_measure arg1:T31 arg2:T30
+R56	is_specified arg1:T33 arg2:T32
+R57	has_measure arg1:T32 arg2:T34
+R58	is_specified arg1:T35 arg2:T32
+R59	has_measure arg1:T33 arg2:T34
+R60	examines arg1:T35 arg2:T33
+R61	shows arg1:T35 arg2:T34
+R62	has_measure arg1:T36 arg2:T37
+R63	hasstate arg1:T38 arg2:T39
+R64	is_linked_to arg1:T40 arg2:T41
+R65	has_measure arg1:T40 arg2:T42
+R66	is_linked_to arg1:T40 arg2:T43
+R67	is_specified arg1:T40 arg2:T44
+R68	hasstate arg1:T40 arg2:T45
+R69	has_measure arg1:T41 arg2:T42
+R70	affects arg1:T41 arg2:T43
+R71	is_specified arg1:T41 arg2:T44
+R72	affects arg1:T41 arg2:T45
+R73	has_measure arg1:T43 arg2:T42
+R74	has_measure arg1:T44 arg2:T42
+R75	has_measure arg1:T45 arg2:T42
+R76	is_specified arg1:T43 arg2:T44
+R77	affects arg1:T45 arg2:T43
+R78	is_specified arg1:T45 arg2:T44
+R79	examines arg1:T47 arg2:T46
+R80	shows arg1:T46 arg2:T48
+R81	shows arg1:T46 arg2:T49
+R82	shows arg1:T47 arg2:T48
+R83	examines arg1:T47 arg2:T49
+R84	has_measure arg1:T49 arg2:T48
+R85	is_linked_to arg1:T51 arg2:T50
+R86	has_measure arg1:T50 arg2:T52
+R87	has_measure arg1:T51 arg2:T52
+R88	has_measure arg1:T54 arg2:T53
+R89	has_measure arg1:T55 arg2:T53
+R90	has_measure arg1:T53 arg2:T56
+R91	affects arg1:T54 arg2:T55
+R92	has_measure arg1:T54 arg2:T56
+R93	has_measure arg1:T55 arg2:T56
+R94	is_specified arg1:T59 arg2:T58
+R95	is_specified arg1:T60 arg2:T58
+R96	has_time_info arg1:T59 arg2:T60
+R97	has_measure arg1:T62 arg2:T61
+R98	has_measure arg1:T63 arg2:T61
+R99	has_measure arg1:T64 arg2:T61
+R100	hasstate arg1:T62 arg2:T63
+R101	is_linked_to arg1:T62 arg2:T64
+R102	hasstate arg1:T64 arg2:T63
+R103	is_linked_to arg1:T65 arg2:T66
+R104	has_measure arg1:T67 arg2:T68
+R105	is_linked_to arg1:T70 arg2:T71
+R106	is_specified arg1:T70 arg2:T72
+R107	involves arg1:T70 arg2:T73
+R108	is_specified arg1:T71 arg2:T72
+R109	involves arg1:T71 arg2:T73
+R110	is_specified arg1:T73 arg2:T72
+R111	is_linked_to arg1:T75 arg2:T76
+R112	if_consequence arg1:T77 arg2:T75
+R113	if_consequence arg1:T78 arg2:T75
+R114	hasstate arg1:T77 arg2:T76
+R115	has_measure arg1:T76 arg2:T78
+R116	has_measure arg1:T77 arg2:T78
+R117	shows arg1:T79 arg2:T80
+R118	shows arg1:T79 arg2:T81
+R119	has_measure arg1:T81 arg2:T80
+R120	hasstate arg1:T82 arg2:T83
+R121	consequence arg1:T84 arg2:T85
+R122	has_measure arg1:T87 arg2:T86
+R123	affects arg1:T88 arg2:T89
+R124	has_time_info arg1:T91 arg2:T90
+R125	has_time_info arg1:T92 arg2:T90
+R126	treats arg1:T91 arg2:T92
+R127	is_linked_to arg1:T93 arg2:T94
+R128	has_time_info arg1:T93 arg2:T95
+R129	has_time_info arg1:T94 arg2:T95

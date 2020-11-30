@@ -1,0 +1,22 @@
+T0	Process 0 8	Befinden
+T1	Time_information 9 24	seit Entlassung
+T2	State_of_health 25 39	verschlechtert
+T3	Medical_condition 53 61	Übelkeit
+T4	Biological_chemistry 64 68	Krea
+T5	Medical_condition 69 76	zu hoch
+T6	Diaglab_procedure 92 101	Kontrolle
+T7	Biological_chemistry 104 122	Tacrolimus-Spiegel
+T8	State_of_health 123 133	in Ordnung
+T9	Biological_parameter 136 138	TM
+T10	Measurement 143 150	2 Liter
+T11	Treatment 151 158	erhöhen
+R1	has_time_info arg1:T0 arg2:T0
+R2	hasstate arg1:T0 arg2:T1
+R3	has_time_info arg1:T1 arg2:T0
+R4	hasstate arg1:T4 arg2:T4
+R5	examines arg1:T5 arg2:T4
+R6	consequence arg1:T4 arg2:T5
+R7	hasstate arg1:T7 arg2:T7
+R8	has_measure arg1:T9 arg2:T9
+R9	consequence arg1:T9 arg2:T10
+R10	has_measure arg1:T10 arg2:T9

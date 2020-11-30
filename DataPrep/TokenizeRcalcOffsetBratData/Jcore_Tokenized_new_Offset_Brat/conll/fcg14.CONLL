@@ -1,0 +1,375 @@
+1	﻿Pat	﻿Pat	VVPP	VVPP	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Lenze	Lenze	NN	NN	_	_	_	0	_	_	_
+2	,	,	$,	$,	_	_	_	0	_	_	_
+3	Ida	Ida	NN	NN	_	_	_	0	_	_	_
+4	;	;	$,	$,	_	_	_	0	_	_	_
+5	geb.	geb.	ADV	ADV	_	_	_	0	_	_	_
+6	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+7	20.02.1992;	20.02.1992;	CARD	CARD	_	_	_	0	_	_	_
+8	wohnhaft	wohnhaft	ADJD	ADJD	_	_	_	0	_	_	_
+9	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Freiedrichstraße	Freiedrichstraße	NN	NN	_	_	_	0	_	_	_
+2	543	543	CARD	CARD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	10117	10117	CARD	CARD	_	_	_	0	_	_	_
+5	Berlin	Berlin	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sehr	Sehr	ADV	ADV	_	_	_	0	_	_	_
+2	geehrte	geehrte	ADJA	ADJA	_	_	_	0	_	_	_
+3	Kollegen	Kollegen	NN	NN	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	wir	wir	PPER	PPER	_	_	_	0	_	_	_
+6	berichten	berichten	VVFIN	VVFIN	_	_	_	0	_	_	_
+7	Ihnen	Ihnen	PPER	PPER	_	_	_	0	_	_	_
+8	über	über	APPR	APPR	_	_	_	0	_	_	_
+9	Frau	Frau	NN	NN	_	_	_	0	_	_	_
+10	Lenze	Lenze	NN	NN	_	_	_	0	_	_	_
+11	,	,	$,	$,	_	_	_	0	_	_	_
+12	die	die	PRELS	PRELS	_	_	_	0	_	_	_
+13	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+14	vom	vom	APPRART	APPRART	_	_	_	0	_	_	_
+15	27.04.2018	27.04.2018	CARD	CARD	_	_	_	0	_	_	_
+16	bis	bis	APPR	APPR	_	_	_	0	_	_	_
+17	zum	zum	APPRART	APPRART	_	_	_	0	_	_	_
+18	03.05.2018	03.05.2018	CARD	CARD	_	_	_	0	_	_	_
+19	in	in	APPR	APPR	_	_	_	0	_	_	_
+20	unserer	unserer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+21	stationären	stationären	ADJA	ADJA	_	_	_	0	_	_	_
+22	Behandlung	Behandlung	NN	NN	_	_	_	0	_	_	_
+23	befand	befand	VVFIN	VVFIN	_	_	_	0	_	_	_
+24	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Anamnese	Anamnese	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Einweisung	Einweisung	NN	NN	_	_	_	0	_	_	_
+3	erfolgte	erfolgte	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	über	über	APPR	APPR	_	_	_	0	_	_	_
+5	unsere	unsere	ADJA	ADJA	_	_	_	0	_	_	_
+6	Notaufnahme	Notaufnahme	NN	NN	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Patientin	Patientin	NN	NN	_	_	_	0	_	_	_
+3	stellte	stellte	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+5	selbst	selbst	ADV	ADV	_	_	_	0	_	_	_
+6	in	in	APPR	APPR	_	_	_	0	_	_	_
+7	unserer	unserer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+8	Ambulanz	Ambulanz	NN	NN	_	_	_	0	_	_	_
+9	vor	vor	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Eine	Eine	ART	ART	_	_	_	0	_	_	_
+2	deutliche	deutliche	ADJA	ADJA	_	_	_	0	_	_	_
+3	Beschwerdesymptomatik	Beschwerdesymptomatik	NN	NN	_	_	_	0	_	_	_
+4	bestand	bestand	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+6	rechtseitigen	rechtseitigen	ADJA	ADJA	_	_	_	0	_	_	_
+7	abdominellen	abdominellen	ADJA	ADJA	_	_	_	0	_	_	_
+8	Schmerzen	Schmerzen	NN	NN	_	_	_	0	_	_	_
+9	,	,	$,	$,	_	_	_	0	_	_	_
+10	Übelkeit	Übelkeit	NN	NN	_	_	_	0	_	_	_
+11	und	und	KON	KON	_	_	_	0	_	_	_
+12	Obstipation	Obstipation	NN	NN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Beschwerden	Beschwerden	NN	NN	_	_	_	0	_	_	_
+3	bestanden	bestanden	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	seit	seit	APPR	APPR	_	_	_	0	_	_	_
+5	26.04.2018	26.04.2018	CARD	CARD	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Körperliche	Körperliche	ADJA	ADJA	_	_	_	0	_	_	_
+2	Untersuchung	Untersuchung	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Pulmo	Pulmo	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	vesikuläres	vesikuläres	ADJA	ADJA	_	_	_	0	_	_	_
+2	Atemgeräusch	Atemgeräusch	NN	NN	_	_	_	0	_	_	_
+3	bds	bds	ADV	ADV	_	_	_	0	_	_	_
+4	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Neurologischer	Neurologischer	ADJA	ADJA	_	_	_	0	_	_	_
+2	Befund	Befund	NN	NN	_	_	_	0	_	_	_
+3	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Pupillen	Pupillen	NN	NN	_	_	_	0	_	_	_
+2	mittelweit	mittelweit	ADJD	ADJD	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	prompt	prompt	ADJD	ADJD	_	_	_	0	_	_	_
+5	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+6	Licht	Licht	NN	NN	_	_	_	0	_	_	_
+7	reagierend	reagierend	ADJD	ADJD	_	_	_	0	_	_	_
+8	,	,	$,	$,	_	_	_	0	_	_	_
+9	neurologische	neurologische	ADJA	ADJA	_	_	_	0	_	_	_
+10	Untersuchung	Untersuchung	NN	NN	_	_	_	0	_	_	_
+11	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+12	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Reduzierter	Reduzierter	ADJA	ADJA	_	_	_	0	_	_	_
+2	AZ	AZ	NE	NE	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Der	Der	ART	ART	_	_	_	0	_	_	_
+2	systemische	systemische	ADJA	ADJA	_	_	_	0	_	_	_
+3	Blutdruck	Blutdruck	NN	NN	_	_	_	0	_	_	_
+4	wird	wird	VAFIN	VAFIN	_	_	_	0	_	_	_
+5	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+6	110/70	110/70	CARD	CARD	_	_	_	0	_	_	_
+7	mmHg	mmHg	NN	NN	_	_	_	0	_	_	_
+8	gemessen	gemessen	VVPP	VVPP	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Frequenz	Frequenz	NN	NN	_	_	_	0	_	_	_
+2	90/min	90/min	CARD	CARD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Pulmo	Pulmo	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	VAG	VAG	NE	NE	_	_	_	0	_	_	_
+2	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sauerstoffsättigung	Sauerstoffsättigung	NN	NN	_	_	_	0	_	_	_
+2	unter	unter	APPR	APPR	_	_	_	0	_	_	_
+3	Raumluft	Raumluft	NN	NN	_	_	_	0	_	_	_
+4	98	98	CARD	CARD	_	_	_	0	_	_	_
+5	%	%	NN	NN	_	_	_	0	_	_	_
+6	,	,	$,	$,	_	_	_	0	_	_	_
+7	Abdomen	Abdomen	NN	NN	_	_	_	0	_	_	_
+8	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	v.	v.	APPR	APPR	_	_	_	0	_	_	_
+2	a.	a.	PIS	PIS	_	_	_	0	_	_	_
+3	akute	akute	ADJA	ADJA	_	_	_	0	_	_	_
+4	Appendizitis	Appendizitis	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Labor	Labor	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Labordiagnostisch	Labordiagnostisch	ADJD	ADJD	_	_	_	0	_	_	_
+2	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+3	erhöhte	erhöhte	ADJA	ADJA	_	_	_	0	_	_	_
+4	Entzündungsparameter	Entzündungsparameter	NN	NN	_	_	_	0	_	_	_
+5	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Entzündungswerte	Entzündungswerte	NN	NN	_	_	_	0	_	_	_
+3	sind	sind	VAFIN	VAFIN	_	_	_	0	_	_	_
+4	auch	auch	ADV	ADV	_	_	_	0	_	_	_
+5	in	in	APPR	APPR	_	_	_	0	_	_	_
+6	Bezug	Bezug	NN	NN	_	_	_	0	_	_	_
+7	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+8	das	das	ART	ART	_	_	_	0	_	_	_
+9	CRP	CRP	NE	NE	_	_	_	0	_	_	_
+10	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+11	erhöht	erhöht	VVPP	VVPP	_	_	_	0	_	_	_
+12	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Es	Es	PPER	PPER	_	_	_	0	_	_	_
+2	fanden	fanden	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+4	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+5	erhöhte	erhöhte	ADJA	ADJA	_	_	_	0	_	_	_
+6	Entzündungswerte	Entzündungswerte	NN	NN	_	_	_	0	_	_	_
+7	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+8	einem	einem	ART	ART	_	_	_	0	_	_	_
+9	CRP	CRP	NE	NE	_	_	_	0	_	_	_
+10	von	von	APPR	APPR	_	_	_	0	_	_	_
+11	50	50	CARD	CARD	_	_	_	0	_	_	_
+12	mg/dl	mg/dl	NN	NN	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Therapie	Therapie	NN	NN	_	_	_	0	_	_	_
+2	und	und	KON	KON	_	_	_	0	_	_	_
+3	Verlauf	Verlauf	NN	NN	_	_	_	0	_	_	_
+4	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Es	Es	PPER	PPER	_	_	_	0	_	_	_
+2	erfolgte	erfolgte	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	notfallmäßige	notfallmäßige	ADJA	ADJA	_	_	_	0	_	_	_
+4	konventionelle	konventionelle	ADJA	ADJA	_	_	_	0	_	_	_
+5	offene	offene	ADJA	ADJA	_	_	_	0	_	_	_
+6	Appendektomie	Appendektomie	NN	NN	_	_	_	0	_	_	_
+7	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+8	26.04.2018	26.04.2018	CARD	CARD	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Zusätzlich	Zusätzlich	ADJD	ADJD	_	_	_	0	_	_	_
+2	erfolgte	erfolgte	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	bilanzierte	bilanzierte	ADJA	ADJA	_	_	_	0	_	_	_
+4	Flüssigkeitsgabe	Flüssigkeitsgabe	NN	NN	_	_	_	0	_	_	_
+5	,	,	$,	$,	_	_	_	0	_	_	_
+6	entsprechende	entsprechende	ADJA	ADJA	_	_	_	0	_	_	_
+7	Schmerzanalgesie	Schmerzanalgesie	NN	NN	_	_	_	0	_	_	_
+8	sowie	sowie	KON	KON	_	_	_	0	_	_	_
+9	begleitenden	begleitenden	ADJA	ADJA	_	_	_	0	_	_	_
+10	Maßnahmen	Maßnahmen	NN	NN	_	_	_	0	_	_	_
+11	worunter	worunter	PROAV	PROAV	_	_	_	0	_	_	_
+12	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+13	der	der	ART	ART	_	_	_	0	_	_	_
+14	AZ	AZ	NE	NE	_	_	_	0	_	_	_
+15	stabilisierte	stabilisierte	ADJA	ADJA	_	_	_	0	_	_	_
+16	und	und	KON	KON	_	_	_	0	_	_	_
+17	der	der	ART	ART	_	_	_	0	_	_	_
+18	klinische	klinische	ADJA	ADJA	_	_	_	0	_	_	_
+19	Zustand	Zustand	NN	NN	_	_	_	0	_	_	_
+20	besserte	besserte	VVFIN	VVFIN	_	_	_	0	_	_	_
+21	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Der	Der	ART	ART	_	_	_	0	_	_	_
+2	postoperative	postoperative	ADJA	ADJA	_	_	_	0	_	_	_
+3	Verlauf	Verlauf	NN	NN	_	_	_	0	_	_	_
+4	gestaltete	gestaltete	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+6	komplikationslos	komplikationslos	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Aktuell	Aktuell	ADJD	ADJD	_	_	_	0	_	_	_
+2	ist	ist	VAFIN	VAFIN	_	_	_	0	_	_	_
+3	der	der	ART	ART	_	_	_	0	_	_	_
+4	Hb-Wert	Hb-Wert	NN	NN	_	_	_	0	_	_	_
+5	bei	bei	APPR	APPR	_	_	_	0	_	_	_
+6	110	110	CARD	CARD	_	_	_	0	_	_	_
+7	g/dl	g/dl	NN	NN	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	In	In	APPR	APPR	_	_	_	0	_	_	_
+2	der	der	ART	ART	_	_	_	0	_	_	_
+3	Phase	Phase	NN	NN	_	_	_	0	_	_	_
+4	der	der	ART	ART	_	_	_	0	_	_	_
+5	Immobilisierung	Immobilisierung	NN	NN	_	_	_	0	_	_	_
+6	wurde	wurde	VAFIN	VAFIN	_	_	_	0	_	_	_
+7	eine	eine	ART	ART	_	_	_	0	_	_	_
+8	Thromboseprophylaxe	Thromboseprophylaxe	NN	NN	_	_	_	0	_	_	_
+9	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+10	niedermolekularen	niedermolekularen	ADJA	ADJA	_	_	_	0	_	_	_
+11	Heparinen	Heparinen	NN	NN	_	_	_	0	_	_	_
+12	durchgeführt	durchgeführt	VVPP	VVPP	_	_	_	0	_	_	_
+13	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Der	Der	ART	ART	_	_	_	0	_	_	_
+2	postoperativer	postoperativer	ADJA	ADJA	_	_	_	0	_	_	_
+3	Verlauf	Verlauf	NN	NN	_	_	_	0	_	_	_
+4	gestaltete	gestaltete	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+6	regelrecht	regelrecht	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Weiterhin	Weiterhin	ADV	ADV	_	_	_	0	_	_	_
+2	besserte	besserte	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+4	unter	unter	APPR	APPR	_	_	_	0	_	_	_
+5	den	den	ART	ART	_	_	_	0	_	_	_
+6	kreislaufunterstützenden	kreislaufunterstützenden	ADJA	ADJA	_	_	_	0	_	_	_
+7	Maßnahmen	Maßnahmen	NN	NN	_	_	_	0	_	_	_
+8	und	und	KON	KON	_	_	_	0	_	_	_
+9	supportiver	supportiver	ADJA	ADJA	_	_	_	0	_	_	_
+10	Therapie	Therapie	NN	NN	_	_	_	0	_	_	_
+11	der	der	ART	ART	_	_	_	0	_	_	_
+12	Allgemeinzustandes	Allgemeinzustandes	NN	NN	_	_	_	0	_	_	_
+13	deutlich	deutlich	ADJD	ADJD	_	_	_	0	_	_	_
+14	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	engmaschige	engmaschige	ADJA	ADJA	_	_	_	0	_	_	_
+3	Pulsoxymetrie-Kontrolle	Pulsoxymetrie-Kontrolle	NN	NN	_	_	_	0	_	_	_
+4	zeigte	zeigte	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	eine	eine	ART	ART	_	_	_	0	_	_	_
+6	ausreichende	ausreichende	ADJA	ADJA	_	_	_	0	_	_	_
+7	Sauerstoffsättigung	Sauerstoffsättigung	NN	NN	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Auch	Auch	ADV	ADV	_	_	_	0	_	_	_
+2	die	die	ART	ART	_	_	_	0	_	_	_
+3	BZ-Werte	BZ-Werte	NN	NN	_	_	_	0	_	_	_
+4	lagen	lagen	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	weitgehend	weitgehend	ADJD	ADJD	_	_	_	0	_	_	_
+6	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+7	zufriedenstellenden	zufriedenstellenden	ADJA	ADJA	_	_	_	0	_	_	_
+8	Bereich	Bereich	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Eine	Eine	ART	ART	_	_	_	0	_	_	_
+2	Besserung	Besserung	NN	NN	_	_	_	0	_	_	_
+3	zeigte	zeigte	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+5	auch	auch	ADV	ADV	_	_	_	0	_	_	_
+6	hinsichtlich	hinsichtlich	APPR	APPR	_	_	_	0	_	_	_
+7	der	der	ART	ART	_	_	_	0	_	_	_
+8	Entfieberung	Entfieberung	NN	NN	_	_	_	0	_	_	_
+9	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Erfreulicherweise	Erfreulicherweise	ADV	ADV	_	_	_	0	_	_	_
+2	zeigte	zeigte	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	sich	sich	PRF	PRF	_	_	_	0	_	_	_
+4	ein	ein	ART	ART	_	_	_	0	_	_	_
+5	Rückgang	Rückgang	NN	NN	_	_	_	0	_	_	_
+6	der	der	ART	ART	_	_	_	0	_	_	_
+7	Entzündungsparameter	Entzündungsparameter	NN	NN	_	_	_	0	_	_	_
+8	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Wir	Wir	PPER	PPER	_	_	_	0	_	_	_
+2	führten	führten	VVFIN	VVFIN	_	_	_	0	_	_	_
+3	in	in	APPR	APPR	_	_	_	0	_	_	_
+4	Zusammenarbeit	Zusammenarbeit	NN	NN	_	_	_	0	_	_	_
+5	mit	mit	APPR	APPR	_	_	_	0	_	_	_
+6	unserer	unserer	PPOSAT	PPOSAT	_	_	_	0	_	_	_
+7	physiotherapeutischen	physiotherapeutischen	ADJA	ADJA	_	_	_	0	_	_	_
+8	Abteilung	Abteilung	NN	NN	_	_	_	0	_	_	_
+9	nach	nach	APPR	APPR	_	_	_	0	_	_	_
+10	dem	dem	ART	ART	_	_	_	0	_	_	_
+11	Eingriff	Eingriff	NN	NN	_	_	_	0	_	_	_
+12	eine	eine	ART	ART	_	_	_	0	_	_	_
+13	Frühmobilisation	Frühmobilisation	NN	NN	_	_	_	0	_	_	_
+14	unter	unter	APPR	APPR	_	_	_	0	_	_	_
+15	Vollbelastung	Vollbelastung	NN	NN	_	_	_	0	_	_	_
+16	durch	durch	PTKVZ	PTKVZ	_	_	_	0	_	_	_
+17	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Zuletzt	Zuletzt	ADV	ADV	_	_	_	0	_	_	_
+2	war	war	VAFIN	VAFIN	_	_	_	0	_	_	_
+3	die	die	ART	ART	_	_	_	0	_	_	_
+4	Mobilisierung	Mobilisierung	NN	NN	_	_	_	0	_	_	_
+5	in	in	APPR	APPR	_	_	_	0	_	_	_
+6	Begleitung	Begleitung	NN	NN	_	_	_	0	_	_	_
+7	der	der	ART	ART	_	_	_	0	_	_	_
+8	Physiotherapeutin	Physiotherapeutin	NN	NN	_	_	_	0	_	_	_
+9	im	im	APPRART	APPRART	_	_	_	0	_	_	_
+10	Zimmer	Zimmer	NN	NN	_	_	_	0	_	_	_
+11	möglich	möglich	ADJD	ADJD	_	_	_	0	_	_	_
+12	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Die	Die	ART	ART	_	_	_	0	_	_	_
+2	Entlassung	Entlassung	NN	NN	_	_	_	0	_	_	_
+3	erfolgt	erfolgt	VVFIN	VVFIN	_	_	_	0	_	_	_
+4	in	in	APPR	APPR	_	_	_	0	_	_	_
+5	Ihre	Ihre	PPER	PPER	_	_	_	0	_	_	_
+6	weitere	weitere	ADJA	ADJA	_	_	_	0	_	_	_
+7	ambulante	ambulante	ADJA	ADJA	_	_	_	0	_	_	_
+8	Betreuung	Betreuung	NN	NN	_	_	_	0	_	_	_
+9	am	am	APPRART	APPRART	_	_	_	0	_	_	_
+10	03.05.2018	03.05.2018	CARD	CARD	_	_	_	0	_	_	_
+11	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Mit	Mit	APPR	APPR	_	_	_	0	_	_	_
+2	freundlichen	freundlichen	ADJA	ADJA	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kollegialen	kollegialen	ADJA	ADJA	_	_	_	0	_	_	_
+5	Grüßen	Grüßen	NN	NN	_	_	_	0	_	_	_
+6	Emil	Emil	NN	NN	_	_	_	0	_	_	_
+7	Behring	Behring	NN	NN	_	_	_	0	_	_	_
+8	Oberarzt	Oberarzt	NN	NN	_	_	_	0	_	_	_
+

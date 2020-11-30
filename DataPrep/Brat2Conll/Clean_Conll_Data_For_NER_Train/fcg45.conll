@@ -1,0 +1,30 @@
+AZ	B-Biological_parameter
+ganz	B-State_of_health
+gut	I-State_of_health
+,	O
+keine	O
+Oedeme	B-Medical_condition
+,	O
+keine	O
+Infektzeichen	B-Medical_condition
+,	O
+kein	O
+Durchfall	B-Medical_condition
+.	O
+
+Appetit	B-Biological_parameter
+sehr	B-State_of_health
+gut	I-State_of_health
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+Urbason	B-Medication
+abgesetzt	B-Treatment
+.	O

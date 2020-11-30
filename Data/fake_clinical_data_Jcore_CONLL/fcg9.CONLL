@@ -1,0 +1,29 @@
+1	Subjektives	Subjektives	ADJA	ADJA	_	_	_	0	_	_	_
+2	Wohlbefinden	Wohlbefinden	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Kein	Kein	PIAT	PIAT	_	_	_	0	_	_	_
+2	Übelkeit	Übelkeit	NN	NN	_	_	_	0	_	_	_
+3	,	,	$,	$,	_	_	_	0	_	_	_
+4	kein	kein	PIAT	PIAT	_	_	_	0	_	_	_
+5	Erbrechen	Erbrechen	NN	NN	_	_	_	0	_	_	_
+6	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Sono	Sono	NN	NN	_	_	_	0	_	_	_
+2	:	:	$.	$.	_	_	_	0	_	_	_
+
+1	Tx-Niere	Tx-Niere	NN	NN	_	_	_	0	_	_	_
+2	unauffällig	unauffällig	ADJD	ADJD	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Bekannte	Bekannte	ADJA	ADJA	_	_	_	0	_	_	_
+2	Lymphozele	Lymphozele	NN	NN	_	_	_	0	_	_	_
+3	größenkonstant	größenkonstant	ADJD	ADJD	_	_	_	0	_	_	_
+4	(	(	$(	$(	_	_	_	0	_	_	_
+5	5	5	CARD	CARD	_	_	_	0	_	_	_
+6	x	x	XY	XY	_	_	_	0	_	_	_
+7	5	5	CARD	CARD	_	_	_	0	_	_	_
+8	cm	cm	NN	NN	_	_	_	0	_	_	_
+9	)	)	$(	$(	_	_	_	0	_	_	_
+10	.	.	$.	$.	_	_	_	0	_	_	_
+

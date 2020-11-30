@@ -1,0 +1,43 @@
+T1	State_of_health 0 15	Geht soweit gut
+T2	Medical_condition 36 47	Schlappheit
+T3	Measurement 60 68	häufiges
+T4	Process 69 81	Wasserlassen
+T5	Medical_condition 89 96	Dysurie
+T6	Process 98 107	Stuhlgang
+T7	State_of_health 108 111	gut
+T8	Measurement 119 131	wesentlichen
+T9	Medical_condition 132 138	Oedeme
+T10	Biological_parameter 140 147	Gewicht
+T11	State_of_health 148 154	stabil
+T12	Medication 156 163	Valcyte
+T13	Treatment 164 173	angepasst
+T14	Medication 178 189	Medikamente
+T15	Diaglab_procedure 209 213	Sono
+T16	Body_part 215 223	Tx-Niere
+T17	State_of_health 224 236	unauffaellig
+T18	Medical_condition 243 247	Stau
+T19	Local_specification 255 265	perirenale
+T20	Body_fluid 266 278	Fluessigkeit
+R1	hasstate arg1:T2 arg2:T1
+R2	has_measure arg1:T4 arg2:T3
+R3	hasstate arg1:T6 arg2:T7
+R4	has_measure arg1:T9 arg2:T8
+R5	hasstate arg1:T10 arg2:T11
+R6	involves arg1:T13 arg2:T12
+R7	involves arg1:T14 arg2:T12
+R8	involves arg1:T13 arg2:T14
+R9	shows arg1:T15 arg2:T16
+R10	shows arg1:T15 arg2:T17
+R11	shows arg1:T15 arg2:T18
+R12	shows arg1:T15 arg2:T19
+R13	shows arg1:T15 arg2:T20
+R14	hasstate arg1:T16 arg2:T17
+R15	hasstate arg1:T16 arg2:T18
+R16	is_located arg1:T16 arg2:T19
+R17	is_located arg1:T20 arg2:T16
+R18	hasstate arg1:T18 arg2:T17
+R19	is_located arg1:T17 arg2:T19
+R20	hasstate arg1:T20 arg2:T17
+R21	is_located arg1:T18 arg2:T19
+R22	hasstate arg1:T20 arg2:T18
+R23	is_located arg1:T20 arg2:T19

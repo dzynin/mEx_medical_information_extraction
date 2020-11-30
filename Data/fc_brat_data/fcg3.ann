@@ -1,0 +1,48 @@
+T1	State_of_health 0 15	Geht soweit gut
+T2	Measurement 24 31	oefters
+T3	Medical_condition 32 42	verstopfte
+T4	Medical_condition 48 61	laufende Nase
+T5	Treatment 64 67	Neu
+T6	Medication 68 76	Blopress
+T7	Biological_parameter 79 86	Appetit
+T8	State_of_health 94 97	gut
+T9	Medication 100 107	Cymeven
+T10	Treatment 113 127	zu Ende nehmen
+T11	Medical_condition 136 142	Oedeme
+T12	State_of_health 145 149	gute
+T13	Process 150 157	Diurese
+T14	Medical_condition 164 178	Angstzustaende
+T15	Diaglab_procedure 179 183	Sono
+T16	Body_part 186 194	Tx-Niere
+T17	State_of_health 195 207	unauffaellig
+T18	Medical_condition 215 219	Stau
+R1	has_measure arg1:T1 arg2:T2
+R2	hasstate arg1:T3 arg2:T1
+R3	hasstate arg1:T4 arg2:T1
+R4	has_measure arg1:T3 arg2:T2
+R5	has_measure arg1:T4 arg2:T2
+R6	hasstate arg1:T4 arg2:T3
+R7	involves arg1:T5 arg2:T6
+R8	hasstate arg1:T7 arg2:T8
+R9	involves arg1:T10 arg2:T9
+R10	hasstate arg1:T11 arg2:T12
+R11	hasstate arg1:T13 arg2:T11
+R12	hasstate arg1:T11 arg2:T14
+R13	consequence arg1:T11 arg2:T15
+R14	is_located arg1:T11 arg2:T16
+R15	consequence arg1:T11 arg2:T17
+R16	hasstate arg1:T13 arg2:T12
+R17	hasstate arg1:T14 arg2:T12
+R18	shows arg1:T15 arg2:T12
+R19	hasstate arg1:T16 arg2:T12
+R20	hasstate arg1:T17 arg2:T12
+R21	hasstate arg1:T13 arg2:T14
+R22	shows arg1:T15 arg2:T13
+R23	is_located arg1:T13 arg2:T16
+R24	hasstate arg1:T13 arg2:T17
+R25	shows arg1:T15 arg2:T14
+R26	is_located arg1:T14 arg2:T16
+R27	hasstate arg1:T14 arg2:T17
+R28	shows arg1:T15 arg2:T16
+R29	shows arg1:T15 arg2:T17
+R30	hasstate arg1:T16 arg2:T17

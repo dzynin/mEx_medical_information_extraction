@@ -1,0 +1,41 @@
+Geht	B-State_of_health
+gut	I-State_of_health
+.	O
+
+RR	B-Process
+lat	O
+.	O
+
+Protokoll	O
+um	B-Measurement
+140	I-Measurement
+mmHg	I-Measurement
+.	O
+
+Appetit	B-Process
+und	O
+Stuhlgang	B-Process
+normal	B-State_of_health
+.	O
+
+Ödeme	B-Medical_condition
+rückläufig	B-Measurement
+.	O
+
+Pat.	B-Person
+hat	O
+heute	B-Time_information
+Vorstellung	B-Treatment
+bei	O
+dem	O
+Urologen	B-Person
+wg.	O
+Harnwegsinfekt	B-Medical_condition
+.	O
+
+Cortison	B-Medication
+und	O
+Myfortic	B-Medication
+planmäßig	O
+reduziert	B-Treatment
+.	O

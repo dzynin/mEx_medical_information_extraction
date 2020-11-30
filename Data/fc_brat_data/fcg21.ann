@@ -1,0 +1,28 @@
+T1	State_of_health 12 15	gut
+T2	Medical_condition 24 41	Stuhlgangprobleme
+T3	Medical_condition 50 57	Dysurie
+T4	Process 60 62	RR
+T5	State_of_health 69 84	gut eingestellt
+T6	Person 96 105	Augenarzt
+T7	Medical_condition 117 136	Sehverschlechterung
+T8	Medication 139 146	Cymeven
+T9	Treatment 152 164	aufgebraucht
+T10	Treatment 168 176	absetzen
+T11	Diaglab_procedure 179 183	Sono
+T12	Medical_condition 191 195	Stau
+T13	Biological_parameter 198 208	Polabstand
+T14	Measurement 209 214	11 cm
+R1	hasstate arg1:T2 arg2:T1
+R2	hasstate arg1:T3 arg2:T1
+R3	is_linked_to arg1:T2 arg2:T3
+R4	hasstate arg1:T4 arg2:T5
+R5	affects arg1:T7 arg2:T6
+R6	involves arg1:T9 arg2:T8
+R7	involves arg1:T10 arg2:T8
+R8	consequence arg1:T9 arg2:T10
+R9	shows arg1:T11 arg2:T12
+R10	shows arg1:T11 arg2:T13
+R11	shows arg1:T11 arg2:T14
+R12	is_linked_to arg1:T12 arg2:T13
+R13	has_measure arg1:T12 arg2:T14
+R14	has_measure arg1:T13 arg2:T14

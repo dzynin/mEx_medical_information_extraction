@@ -1,0 +1,49 @@
+Insgesamt	O
+weitere	O
+langsame	O
+Befundbesserung	B-State_of_health
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+,	O
+Diurese	B-Process
+unauffällig	B-State_of_health
+,	O
+keine	O
+Infekte	B-Medical_condition
+.	O
+
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Bei	O
+niedrigem	B-Measurement
+Fk-Spiegel	B-Biological_chemistry
+heute	B-Time_information
+keine	O
+Urbasonreduktion	B-Treatment
+.	O
+
+Neu	B-Treatment
+Benzbromaron	B-Medication
+.	O
+
+Gute	B-State_of_health
+Nierenfunktion	B-Body_part
+,	O
+keine	O
+Ödeme	B-Medical_condition
+.	O
+
+RR	B-Process
+noch	O
+nicht	O
+im	O
+Normbereich	B-State_of_health
+,	O
+deshalb	O
+Nitrendipin	B-Medication
+erhöht	B-Treatment
+.	O

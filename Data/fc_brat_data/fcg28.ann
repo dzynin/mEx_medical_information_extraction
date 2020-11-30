@@ -1,0 +1,47 @@
+T1	State_of_health 16 30	gutes Befinden
+T2	Process 33 35	RR
+T3	Measurement 54 70	140 und 150 mmHg
+T4	Person 76 80	Pat.
+T5	Medical_device 81 97	Auto.-Messgeraet
+T6	Treatment 98 110	verschrieben
+T7	Treatment 117 119	WV
+T8	Diaglab_procedure 120 129	Protokoll
+T9	Medication 138 145	Calcium
+T10	Treatment 146 155	reduziert
+T11	Treatment 160 163	neu
+T12	Medication 164 173	Rocaltrol
+T13	Time_information 182 193	in 14 Tagen
+T14	Diaglab_procedure 194 206	Ca-Kontrolle
+T15	Diaglab_procedure 209 213	Sono
+T16	Measurement 216 227	erweitertes
+T17	Body_part 228 240	Nierenbecken
+T18	Measurement 248 259	Vorbefunden
+T19	Medical_condition 262 270	Haematom
+T20	Local_specification 271 280	perirenal
+R1	hasstate arg1:T2 arg2:T1
+R2	has_measure arg1:T1 arg2:T3
+R3	has_measure arg1:T2 arg2:T3
+R4	involves arg1:T6 arg2:T5
+R5	examines arg1:T8 arg2:T7
+R6	involves arg1:T10 arg2:T9
+R7	involves arg1:T11 arg2:T9
+R8	consequence arg1:T9 arg2:T12
+R9	affects arg1:T10 arg2:T11
+R10	involves arg1:T10 arg2:T12
+R11	involves arg1:T11 arg2:T12
+R12	has_time_info arg1:T14 arg2:T13
+R13	shows arg1:T15 arg2:T16
+R14	shows arg1:T15 arg2:T17
+R15	shows arg1:T15 arg2:T18
+R16	shows arg1:T15 arg2:T19
+R17	is_located arg1:T15 arg2:T20
+R18	has_measure arg1:T17 arg2:T16
+R19	has_measure arg1:T18 arg2:T16
+R20	has_measure arg1:T19 arg2:T16
+R21	is_located arg1:T16 arg2:T20
+R22	has_measure arg1:T17 arg2:T18
+R23	hasstate arg1:T17 arg2:T19
+R24	is_located arg1:T17 arg2:T20
+R25	has_measure arg1:T19 arg2:T18
+R26	is_located arg1:T18 arg2:T20
+R27	is_located arg1:T19 arg2:T20

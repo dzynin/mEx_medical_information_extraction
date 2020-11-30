@@ -1,0 +1,28 @@
+T0	State_of_health 9 23	gutes Befinden
+T1	State_of_health 26 30	Gute
+T2	Process 31 38	Diurese
+T3	Medical_condition 47 54	Brennen
+T4	Process 59 66	Miktion
+T5	Diaglab_procedure 69 78	Urin-Stix
+T6	State_of_health 79 90	unauffällig
+T7	Biological_parameter 93 99	Kultur
+T8	Measurement 100 110	abgenommen
+T9	Diaglab_procedure 113 120	Sono-Tx
+T10	Body_part 123 128	Niere
+T11	State_of_health 129 136	in situ
+T12	Medical_condition 145 152	gestaut
+T13	Medical_condition 161 177	freie Flüßigkeit
+T14	Medical_device 180 192	Restklammern
+T15	Treatment 193 201	entfernt
+R1	hasstate arg1:T1 arg2:T1
+R2	hasstate arg1:T3 arg2:T3
+R3	shows arg1:T5 arg2:T5
+R4	shows arg1:T5 arg2:T6
+R5	shows arg1:T5 arg2:T7
+R6	hasstate arg1:T6 arg2:T5
+R7	has_measure arg1:T5 arg2:T7
+R8	has_measure arg1:T6 arg2:T7
+R9	hasstate arg1:T10 arg2:T10
+R10	hasstate arg1:T10 arg2:T11
+R11	hasstate arg1:T11 arg2:T10
+R12	involves arg1:T14 arg2:T14

@@ -1,0 +1,395 @@
+kein	O
+Stau	B-Medical_condition
+,	O
+Polabstand	B-Biological_parameter
+11	B-Measurement
+cm	I-Measurement
+.	O
+﻿Pat	B-Person
+.	O
+
+Sono	O
+:	O
+
+Locol	B-Medication
+gut	B-State_of_health
+vertragen	I-State_of_health
+.	O
+
+Hat	O
+jetzt	O
+etwas	O
+Rueckenschmerzen	B-Medical_condition
+,	O
+schon	O
+laenger	O
+bekannt	O
+.	O
+
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+Lymphozele	B-Medical_condition
+regredient	B-Measurement
+.	O
+Stuhlgang	B-Process
+weiter	O
+recht	O
+hart	B-Measurement
+,	O
+Kreon	B-Medication
+weiter	O
+pausiert	B-Treatment
+.	O
+
+Gewicht	B-Biological_parameter
+stabil	B-State_of_health
+.	O
+
+Urbason	B-Medication
+reduziert	B-Treatment
+.	O
+
+Röntgen-Thorax	B-Body_part
+:	O
+
+In	B-Time_information
+der	I-Time_information
+Nacht	I-Time_information
+:	O
+Syst.	B-Medical_condition
+:	O
+
+Keine	O
+Oedeme	B-Medical_condition
+,	O
+keine	O
+Dysurie	B-Medical_condition
+,	O
+keine	O
+Narbenschmerzen	B-Medical_condition
+.	O
+
+Keine	O
+Dyspnoe	B-Medical_condition
+.	O
+
+Kurzfritige	B-Time_information
+Kontrolle	B-Treatment
+.	O
+﻿Pat	B-Person
+.	O
+
+Müllerstr	O
+.	O
+
+Sono	O
+:	O
+
+Jetzt	O
+ewas	O
+weniger	B-Measurement
+Nykturie	B-Medical_condition
+.	O
+
+Im	O
+Serum	O
+lag	O
+die	O
+zuletzt	O
+gemessene	O
+Kreatininkonzentration	B-Biological_chemistry
+bei	O
+1,0	B-Measurement
+mg/d	I-Measurement
+.	O
+
+Aktuell	O
+normotensive	B-State_of_health
+RR-Werte	B-Process
+,	O
+keine	O
+Infekte	B-Medical_condition
+.	O
+
+Die	O
+Patientin	B-Person
+stellte	O
+sich	O
+selbst	O
+in	O
+unserer	O
+Ambulanz	O
+vor	O
+.	O
+
+RR	B-Process
+lat	O
+.	O
+
+:	O
+Mitt	O
+.	O
+
+Gutes	B-State_of_health
+Ansprechen	I-State_of_health
+auf	O
+Diblocin	B-Medication
+.	O
+
+Sehr	O
+geehrte	O
+Frau	O
+Kollegin	O
+,	O
+sehr	O
+geehrter	O
+Herr	O
+Kollege	O
+,	O
+o.	B-State_of_health
+g.	I-State_of_health
+Patient	B-Person
+befand	O
+sich	O
+bei	O
+uns	O
+seit	B-Time_information
+23.4.2018	I-Time_information
+in	O
+stationärer	B-Treatment
+Behandlung	I-Treatment
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+unauffällig	B-State_of_health
+.	O
+
+Hat	O
+jetzt	O
+etwas	O
+Rueckenschmerzen	B-Medical_condition
+,	O
+schon	O
+laenger	O
+bekannt	O
+.	O
+
+Mitt.	O
+:	O
+
+Gutes	B-State_of_health
+Ansprechen	I-State_of_health
+auf	O
+Diblocin	B-Medication
+.	O
+
+Mit	O
+freundlichen	O
+kollegialen	O
+Grüßen	O
+Dr.	O
+med	O
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+RR	B-Process
+weiter	O
+eher	O
+hypotensiv	B-Medical_condition
+,	O
+aber	O
+gut	B-State_of_health
+toleriert	I-State_of_health
+.	O
+
+60	B-Measurement
+mmHg	I-Measurement
+55	I-Measurement
+-	I-Measurement
+65	I-Measurement
+mmHg	I-Measurement
+)	O
+.	O
+
+RR	B-Process
+zu	O
+Hause	O
+noch	O
+zu	B-Medical_condition
+hoch	I-Medical_condition
+.	O
+
+Sinusrhythmus	B-State_of_health
+,	O
+Linkstyp	B-Measurement
+.	O
+
+Die	O
+Pat.	B-Person
+fühlt	O
+sich	O
+normal	B-State_of_health
+belastbar	I-State_of_health
+.	O
+
+Urin-Stix	O
+unauffällig	B-State_of_health
+,	O
+Kultur	B-Biological_parameter
+abgenommen	B-Measurement
+.	O
+
+Valcyte	B-Medication
+angepasst	B-Treatment
+und	O
+Medikamente	B-Medication
+erneut	O
+besprochen	O
+.	O
+
+Keine	O
+Dysurie	B-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Kein	O
+Stau	B-Medical_condition
+.	O
+Subjektives	O
+Wohlbefinden	B-State_of_health
+,	O
+KG	B-Biological_parameter
+konstant	B-Measurement
+,	O
+Appetit	B-Process
+noch	O
+recht	O
+groß	B-Measurement
+,	O
+keine	O
+Schmerzen	B-Medical_condition
+.	O
+
+Pupillen	B-Body_part
+mittelweit	B-Measurement
+,	O
+prompt	B-Measurement
+auf	O
+Licht	O
+reagierend	B-Measurement
+,	O
+neurologische	O
+Untersuchung	O
+unauffällig	B-State_of_health
+.	O
+
+Valcyte	B-Medication
+abgesetzt	B-Treatment
+,	O
+Cotrim	B-Medication
+reduziert	B-Treatment
+.	O
+
+Sono:	O
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+keine	O
+perirenale	B-Local_specification
+Fluessigkeit	O
+.	O
+Subjektiv	O
+gutes	B-State_of_health
+Befinden	I-State_of_health
+,	O
+keine	O
+Problem	B-Medical_condition
+.	O
+
+Cymeven	B-Medication
+noch	O
+zu	B-Treatment
+Ende	I-Treatment
+nehmen	I-Treatment
+.	O
+
+Keine	O
+Ödeme	B-Medical_condition
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+Taubheitsgefuehl	B-Medical_condition
+in	O
+den	O
+Haenden	B-Body_part
+haben	O
+nachgelassen	B-Measurement
+.	O
+
+Die	O
+ausführliche	O
+Vorgeschichte	O
+dürfen	O
+wir	O
+freundlicherweise	O
+als	O
+bekannt	O
+voraussetzen	O
+.	O
+
+Durchgehend	B-Measurement
+Sinusrhythmus	B-State_of_health
+,	O
+keine	O
+höhergradige	O
+Rhythmusstörung	B-Medical_condition
+,	O
+Keine	O
+AP	B-Medical_condition
+,	O
+keine	O
+signifikante	B-Measurement
+ST-Veränderung	B-Medical_condition
+,	O
+keine	O
+höhergradige	O
+Rhythmusstörung	B-Medical_condition
+.	O
+
+Zeiten	O
+in	O
+der	O
+Norm	B-State_of_health
+.	O
+
+Psychosomatische	O
+Diagnostik	O
+:	O
+
+Weitere	O
+Einzelheiten	O
+entnehmen	O
+Sie	O
+bitte	O
+unserem	O
+nachfolgenden	O
+ausführlichen	O
+Entlassungsbericht	O
+.	O

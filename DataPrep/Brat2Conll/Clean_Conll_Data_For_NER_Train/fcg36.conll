@@ -1,0 +1,47 @@
+Geht	B-State_of_health
+soweit	I-State_of_health
+gut	I-State_of_health
+bis	O
+auf	O
+allg	O
+.	O
+
+Muskelschwaeche	B-Medical_condition
+.	O
+
+RR	B-Process
+zu	O
+Hause	O
+um	O
+130/80	B-Measurement
+mmHg	I-Measurement
+.	O
+
+Stuhlgang	B-Process
+normal	B-State_of_health
+.	O
+
+Keine	O
+Oedeme	B-Medical_condition
+.	O
+
+Keine	O
+Infektzeichen	B-Medical_condition
+.	O
+
+Hat	O
+jetzt	O
+etwas	O
+Rueckenschmerzen	B-Medical_condition
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+unauffaellig	B-State_of_health
+.	O
+
+Kein	O
+Stau	B-Medical_condition
+.	O

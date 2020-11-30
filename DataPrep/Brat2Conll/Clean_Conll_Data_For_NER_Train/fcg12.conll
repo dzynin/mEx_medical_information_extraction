@@ -1,0 +1,52 @@
+Abnehmende	B-Measurement
+Dysurie	B-Medical_condition
+,	O
+Miktion	B-Process
+haeufig	B-Measurement
+bei	O
+zunehmender	B-Measurement
+Blasenkapazitaet	B-Body_part
+.	O
+
+Hat	O
+jetzt	O
+etwas	O
+Rueckenschmerzen	B-Medical_condition
+,	O
+schon	O
+laenger	O
+bekannt	O
+.	O
+
+RR	B-Process
+zu	O
+Hause	O
+vor	O
+Med-Einnahme	B-Treatment
+teilweise	O
+zu	B-Medical_condition
+hoch	I-Medical_condition
+,	O
+Beloc	B-Medication
+weiter	O
+gesteigert	B-Treatment
+.	O
+
+Sono	O
+:	O
+
+Tx-Niere	B-Body_part
+bis	O
+auf	O
+diskret	B-Measurement
+dilatiertes	I-Measurement
+NBKS	B-Body_part
+unauffaellig	B-State_of_health
+,	O
+kein	O
+Stau	B-Medical_condition
+,	O
+keine	O
+perirenale	B-Local_specification
+Flüssigkeit	O
+.	O

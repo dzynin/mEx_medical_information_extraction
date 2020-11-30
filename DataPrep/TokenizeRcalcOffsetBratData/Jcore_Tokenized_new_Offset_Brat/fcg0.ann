@@ -1,0 +1,23 @@
+T0	State_of_health 0 8	Geht gut
+T1	Measurement 15 34	deutlich abgenommen
+T2	Biological_chemistry 37 50	Kreatininwert
+T3	State_of_health 51 58	perfekt
+T4	Measurement 63 67	1,2.
+T5	Treatment 68 77	Reduktion
+T6	Medication 82 87	Lasix
+T7	Measurement 92 101	250-125-0
+T8	Medication 104 111	Prograf
+T9	Treatment 112 121	reduziert
+T10	Dosing 126 131	2 x 3
+T11	Medication 132 134	mg
+R1	has_measure arg1:T0 arg2:T0
+R2	hasstate arg1:T2 arg2:T2
+R3	has_measure arg1:T4 arg2:T3
+R4	has_measure arg1:T5 arg2:T3
+R5	has_measure arg1:T3 arg2:T6
+R6	involves arg1:T4 arg2:T5
+R7	has_measure arg1:T4 arg2:T6
+R8	has_measure arg1:T5 arg2:T6
+R9	involves arg1:T8 arg2:T8
+R10	has_dosing arg1:T8 arg2:T9
+R11	has_dosing arg1:T8 arg2:T9

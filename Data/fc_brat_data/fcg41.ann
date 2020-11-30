@@ -1,0 +1,59 @@
+T1	Medical_condition 14 24	Leukopenie
+T2	Process 26 28	RR
+T3	Measurement 34 55	nicht gut eingestellt
+T4	Medical_condition 74 82	Nykturie
+T5	Medical_condition 89 95	Fieber
+T6	Person 97 101	Pat.
+T7	Medical_condition 116 126	Beinoedeme
+T8	Measurement 145 152	frische
+T9	Medical_condition 153 162	Thrombose
+T10	Medication 164 179	Furosemid-Dosis
+T11	Treatment 180 187	erhoeht
+T12	Dosing 192 197	20 mg
+T13	State_of_health 199 206	Stabile
+T14	Process 207 218	Tx-Funktion
+T15	Diaglab_procedure 232 249	Gewichtskontrolle
+T16	Process 261 263	RR
+T17	Medical_condition 278 285	zu hoch
+T18	Biological_parameter 287 294	Appetit
+T19	State_of_health 295 298	gut
+T20	Medical_condition 306 320	GI-Beschwerden
+T21	Measurement 322 334	Ausreichende
+T22	Process 335 342	Diurese
+T23	Medical_condition 350 369	Entzuendungszeichen
+T24	Medical_condition 377 384	Dyspnoe
+T25	Medication 386 393	Urbason
+T26	Time_information 394 408	naechste Woche
+T27	Dosing 413 417	10mg
+T28	Treatment 418 428	reduzieren
+T29	Biological_chemistry 430 439	Kreatinin
+T30	Measurement 447 454	fallend
+T31	Diaglab_procedure 456 460	Sono
+T32	Body_part 462 470	Tx-Niere
+T33	State_of_health 471 483	unauffaellig
+T34	Medical_condition 490 494	Stau
+T35	Medical_condition 502 512	Lymphozele
+R1	if_consequence arg1:T1 arg2:T2
+R2	if_consequence arg1:T1 arg2:T3
+R3	affects arg1:T3 arg2:T2
+R4	is_linked_to arg1:T9 arg2:T8
+R5	if_consequence arg1:T11 arg2:T10
+R6	affects arg1:T10 arg2:T12
+R7	if_consequence arg1:T11 arg2:T12
+R8	if_consequence arg1:T13 arg2:T14
+R9	if_consequence arg1:T16 arg2:T17
+R10	if_consequence arg1:T18 arg2:T19
+R11	if_consequence arg1:T21 arg2:T22
+R12	if_consequence arg1:T25 arg2:T26
+R13	if_consequence arg1:T25 arg2:T27
+R14	if_consequence arg1:T25 arg2:T28
+R15	is_linked_to arg1:T27 arg2:T26
+R16	is_linked_to arg1:T28 arg2:T26
+R17	if_consequence arg1:T27 arg2:T28
+R18	affects arg1:T29 arg2:T30
+R19	if_consequence arg1:T31 arg2:T32
+R20	if_consequence arg1:T31 arg2:T33
+R21	if_consequence arg1:T31 arg2:T34
+R22	is_linked_to arg1:T33 arg2:T32
+R23	is_linked_to arg1:T34 arg2:T32
+R24	is_linked_to arg1:T34 arg2:T33

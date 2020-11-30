@@ -1,0 +1,36 @@
+1	Subjektiv	Subjektiv	ADJD	ADJD	_	_	_	0	_	_	_
+2	gutes	gutes	ADJA	ADJA	_	_	_	0	_	_	_
+3	Befinden	Befinden	NN	NN	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	keine	keine	PIAT	PIAT	_	_	_	0	_	_	_
+6	Problem	Problem	NN	NN	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Keine	Keine	PIAT	PIAT	_	_	_	0	_	_	_
+2	Dysurie	Dysurie	NN	NN	_	_	_	0	_	_	_
+3	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	Urbason	Urbason	NN	NN	_	_	_	0	_	_	_
+2	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+3	reduziert	reduziert	VVPP	VVPP	_	_	_	0	_	_	_
+4	,	,	$,	$,	_	_	_	0	_	_	_
+5	bitte	bitte	VVFIN	VVFIN	_	_	_	0	_	_	_
+6	in	in	APPR	APPR	_	_	_	0	_	_	_
+7	ca.	ca.	ADV	ADV	_	_	_	0	_	_	_
+8	einer	einer	ART	ART	_	_	_	0	_	_	_
+9	Woche	Woche	NN	NN	_	_	_	0	_	_	_
+10	weiter	weiter	ADV	ADV	_	_	_	0	_	_	_
+11	reduzieren	reduzieren	VVINF	VVINF	_	_	_	0	_	_	_
+12	auf	auf	APPR	APPR	_	_	_	0	_	_	_
+13	6mg	6mg	NN	NN	_	_	_	0	_	_	_
+14	reduzieren	reduzieren	VVINF	VVINF	_	_	_	0	_	_	_
+15	.	.	$.	$.	_	_	_	0	_	_	_
+
+1	RR	RR	NE	NE	_	_	_	0	_	_	_
+2	iO	iO	APPRART	APPRART	_	_	_	0	_	_	_
+3	Kreatinin	Kreatinin	NN	NN	_	_	_	0	_	_	_
+4	stabil	stabil	VVFIN	VVFIN	_	_	_	0	_	_	_
+5	Transplantat-Sono	Transplantat-Sono	NN	NN	_	_	_	0	_	_	_
+6	unauffaellig	unauffaellig	ADJD	ADJD	_	_	_	0	_	_	_
+7	.	.	$.	$.	_	_	_	0	_	_	_
+
