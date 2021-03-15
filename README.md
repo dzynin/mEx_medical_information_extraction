@@ -6,6 +6,11 @@
 | Relation Extraction |German | German Nephrology Corpus (Charite)   |  **84.0** (F1)  | [*relation_extraction_mex_model(Custom_Word_Concept_Relative_Embeddings).pt*](https://cloud.dfki.de/owncloud/index.php/s/zDH7FHNbXQXkcLx)|
 | Part-of-Speech Tagging |German| German Nephrology Corpus (Charite)  | **98.57** (Acc.) | [*part_of_speech_tagger_mex_model(default_word_flair_embeddings).pt*](https://cloud.dfki.de/owncloud/index.php/s/e7G9deea7eRksCY)|
 ---
+## Extra Resources:
+* Default FastText Embeddings (Gensim Format): [ft-wiki-de.gensim](https://cloud.dfki.de/owncloud/index.php/s/FwyZY3GcXzeCJiy) & [ft-wiki-de.gensim.vectors.npy](https://cloud.dfki.de/owncloud/index.php/s/sXRQQMa885mf2Wa)
+* Fine-Tuned FastText Embeddings (Gensim Format): [mex-ft-wiki-de-finetuned-biomedical.gensim](https://cloud.dfki.de/owncloud/index.php/s/y8gn55TWpDZFdq8) & [mex-ft-wiki-de-finetuned-biomedical.gensim.npy](https://cloud.dfki.de/owncloud/index.php/s/rfGoDsCoySLWs5f)
+* mEx Fine-Tuned Flair Context Embeddings (Forward & Backwards): [Backwards](https://cloud.dfki.de/owncloud/index.php/s/Rx5qcrKKpx79cm9) & [Forwards](https://cloud.dfki.de/owncloud/index.php/s/D3G8rPBp9ZXYb5T)
+---
 ## Quick Start:
 ### Requirements and Installation:
 The project is based on [Flair 0.6.1](https://github.com/flairNLP/flair/releases/tag/v0.6.1) and 
