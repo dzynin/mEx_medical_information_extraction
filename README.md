@@ -1,6 +1,6 @@
 # mEx: NER & RelEx Manual
 ## mEx Models Overview:
-| Task | Language | Dataset | Score | Model Name|
+| Task | Language | Dataset | Score | Download Model|
 | -------------------------------  | ---  | ----------- | ---------------- | ------------- |
 | Named Entity Recognition |German | German Nephrology Corpus (Charite)   |  **83.25** (F1)  | [*named_entity_recognition_mex_model(custom_flair_embeddings).pt*](https://cloud.dfki.de/owncloud/index.php/s/WWbnqJ6N8gQQWMD)|
 | Relation Extraction |German | German Nephrology Corpus (Charite)   |  **84.0** (F1)  | [*relation_extraction_mex_model(Custom_Word_Concept_Relative_Embeddings).pt*](https://cloud.dfki.de/owncloud/index.php/s/zDH7FHNbXQXkcLx)|
