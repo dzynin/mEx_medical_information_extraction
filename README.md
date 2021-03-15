@@ -1,10 +1,10 @@
 # mEx: NER & RelEx Manual
 ## mEx Models Overview:
-| Task | Language | Dataset | Score | Model Name| Download|
-| -------------------------------  | ---  | ----------- | ---------------- | ------------- |------|
-| Named Entity Recognition |German | German Nephrology Corpus (Charite)   |  **83.25** (F1)  | *named_entity_recognition_mex_model(custom_flair_embeddings).pt* |[Link](https://cloud.dfki.de/owncloud/index.php/s/WWbnqJ6N8gQQWMD)|
-| Relation Extraction |German | German Nephrology Corpus (Charite)   |  **84.0** (F1)  | *relation_extraction_mex_model(Custom_Word_Concept_Relative_Embeddings).pt*|[Link](https://cloud.dfki.de/owncloud/index.php/s/zDH7FHNbXQXkcLx)|
-| Part-of-Speech Tagging |German| German Nephrology Corpus (Charite)  | **98.57** (Acc.) | *part_of_speech_tagger_mex_model(default_word_flair_embeddings).pt*|[Link](https://cloud.dfki.de/owncloud/index.php/s/e7G9deea7eRksCY)|
+| Task | Language | Dataset | Score | Model Name|
+| -------------------------------  | ---  | ----------- | ---------------- | ------------- |
+| Named Entity Recognition |German | German Nephrology Corpus (Charite)   |  **83.25** (F1)  | [*named_entity_recognition_mex_model(custom_flair_embeddings).pt*] (https://cloud.dfki.de/owncloud/index.php/s/WWbnqJ6N8gQQWMD)|
+| Relation Extraction |German | German Nephrology Corpus (Charite)   |  **84.0** (F1)  | [*relation_extraction_mex_model(Custom_Word_Concept_Relative_Embeddings).pt*] (https://cloud.dfki.de/owncloud/index.php/s/zDH7FHNbXQXkcLx)|
+| Part-of-Speech Tagging |German| German Nephrology Corpus (Charite)  | **98.57** (Acc.) | [*part_of_speech_tagger_mex_model(default_word_flair_embeddings).pt*] (https://cloud.dfki.de/owncloud/index.php/s/e7G9deea7eRksCY)|
 ---
 ## Quick Start:
 ### Requirements and Installation:
