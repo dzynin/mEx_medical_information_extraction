@@ -1,5 +1,5 @@
-**License: CC BY-NC 4.0** [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-# mEx: NER & RelEx Manual
+**License: CC BY-NC 4.0** [![License: CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+# mEx: POS & NER & RelEx Manual
 ## mEx Models Overview:
 | Task | Language | Dataset | Score | Download Model|
 | -------------------------------  | ---  | ----------- | ---------------- | ------------- |
