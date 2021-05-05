@@ -20,12 +20,15 @@ provide promising results on in-domain data. Moreover, our models can be
 also successfully applied to other biomedical text in German. Our
 workbench is made publicly available, so it can be used out of the box,
 as a benchmark or transferred to related problems.
+
 ---
+
 ## Tools:
+
 Our workbench includes a range of different tools to process German
 clinical text:
-* [Quick Start](Documentation/Quick-Start.md)
 
+* [Quick Start](Documentation/Quick-Start.md)
 
 ### Tutorials:
 * [Tutorial 1: Data](Documentation/Data.md)
@@ -33,9 +36,6 @@ clinical text:
 * [Tutorial 3: Pipeline](Documentation/Pipeline.md)
 * [Tutorial 4: NER-Train](Documentation/NER-Train.md)
 * [Tutorial 5: RelEx-Train](Documentation/RelEx-Train.md)
-
-
-
 
 ---
 
@@ -63,7 +63,9 @@ Conference on Healthcare Informatics (ICHI). Oldenburg, 2020.
     doi={10.1109/ICHI48887.2020.9374385}
     }
 ```
+
 ---
+
 **License: CC BY-NC 4.0** 
 
 [![License: CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
