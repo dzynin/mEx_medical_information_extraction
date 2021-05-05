@@ -15,7 +15,7 @@ Get the miniconda installer for your os under [conda](https://docs.conda.io/en/l
 conda create -n NER python=3.6
 pip install requierments_ner.txt
 
-# Activate Env
+#  Activate Env
 conda activate NER
 ```
 #### Create RelEx VirtualEnv:
@@ -58,7 +58,7 @@ conda activate RelEx
 streamlit run visualize_model_predictions.py
  ```
 ---
-![](Documentation/NER_viz.png)
+![](NER_viz.png)
 ---
-![](Documentation/REL_viz.png)
+![](REL_viz.png)
 ---
