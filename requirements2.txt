@@ -1,0 +1,6 @@
+Flask==1.1.2
+flask-restplus==0.13.0
+spacy==3.0.6
+https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.0.0/de_core_news_sm-3.0.0.tar.gz#egg=de_core_news_sm
+flair==0.8.0.post1
+git+git://github.com/DFKI-NLP/flairRelEx.git#egg=flairRelEx

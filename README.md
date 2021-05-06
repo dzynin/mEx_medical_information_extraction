@@ -37,6 +37,33 @@ clinical text:
 * [Tutorial 4: NER-Train](Documentation/NER-Train.md)
 * [Tutorial 5: RelEx-Train](Documentation/RelEx-Train.md)
 
+
+### Models:
+* [Concept Detection]() !! Link is still missing !!
+* [Relation Detection]() !! Link is still missing !!
+* [Part of Speech Tagger]() !! Link is still missing !!
+* [Negation Detection](http://macss.dfki.de/german_trigger_set.html)
+* [Dependency Tree Parser](http://macss.dfki.de/dependency_parser.html)
+
+
+## mEx Models Overview:
+
+| Task | Language | Dataset | Score | Download Model|
+| -------------------------------  | ---  | ----------- | ---------------- | ------------- |
+| Named Entity Recognition |German | German Nephrology Corpus (Charite)   |  **83.25** (F1)  | [*named_entity_recognition_mex_model(custom_flair_embeddings).pt*](https://cloud.dfki.de/owncloud/index.php/s/WWbnqJ6N8gQQWMD)|
+| Relation Extraction |German | German Nephrology Corpus (Charite)   |  **84.0** (F1)  | [*relation_extraction_mex_model(Custom_Word_Concept_Relative_Embeddings).pt*](https://cloud.dfki.de/owncloud/index.php/s/zDH7FHNbXQXkcLx)|
+| Part-of-Speech Tagging |German| German Nephrology Corpus (Charite)  | **98.57** (Acc.) | [*part_of_speech_tagger_mex_model(default_word_flair_embeddings).pt*](https://cloud.dfki.de/owncloud/index.php/s/e7G9deea7eRksCY)|
+
+---
+
+### Extra Resources:
+
+* Default FastText Embeddings (Gensim Format): [ft-wiki-de.gensim](https://cloud.dfki.de/owncloud/index.php/s/FwyZY3GcXzeCJiy) & [ft-wiki-de.gensim.vectors.npy](https://cloud.dfki.de/owncloud/index.php/s/sXRQQMa885mf2Wa)
+* Fine-Tuned FastText Embeddings (Gensim Format): [mex-ft-wiki-de-finetuned-biomedical.gensim](https://cloud.dfki.de/owncloud/index.php/s/y8gn55TWpDZFdq8) & [mex-ft-wiki-de-finetuned-biomedical.gensim.npy](https://cloud.dfki.de/owncloud/index.php/s/rfGoDsCoySLWs5f)
+* mEx Fine-Tuned Flair Context Embeddings (Forward & Backwards): [Backwards](https://cloud.dfki.de/owncloud/index.php/s/Rx5qcrKKpx79cm9) & [Forwards](https://cloud.dfki.de/owncloud/index.php/s/D3G8rPBp9ZXYb5T)
+
+---
+
 ---
 
 ## Related-Resources:

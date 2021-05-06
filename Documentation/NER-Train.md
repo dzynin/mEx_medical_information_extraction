@@ -4,14 +4,14 @@
 * The data file must be **all_data.txt** named.
 
 ## Usage:
-```
+```shell
 conda activate NER
 python NER_Train.py
 ```
 
 ## Embeddings Types:
 At this part of code you could select the types of embeddings you want to use in your model.
-```
+```python
 embedding_types: List[TokenEmbeddings] = [
         #WordEmbeddings('de'),
 
