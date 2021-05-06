@@ -52,7 +52,20 @@ if __name__ == '__main__':
                              'B-Medical_device', 'I-Medical_specification', 'I-Medical_device', 'I-Body_Fluid',
                              '<START>', '<STOP>']
 
-    clf.register_parameter('allowed_pairs', torch.nn.Parameter(allowed_pairs))
-    clf.register_parameter('concept_map', concept_map)
-    clf.register_parameter('tagger_tag_dictionary', tagger_tag_dictionary)
+    ababa = clf.state_dict()
+
+    clf.state_dict()['allowed_pairs'] = allowed_pairs
+    cacaca = clf.state_dict()
+
+    print()
+
+
+    #clf.label_dictionary.add_item('allowed_pairs')
+
+    #clf.label_dictionary.add_item(concept_map)
+    #clf.label_dictionary.add_item(tagger_tag_dictionary)
+
+
+    print()
+
     clf.save('flairrelex2.pt')

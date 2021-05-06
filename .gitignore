@@ -3,4 +3,5 @@
 Resources/named_entity_recognition_mex_model(custom_flair_embeddings).pt
 Resources/part_of_speech_tagger_mex_model(Def_Word_Flair).pt
 Resources/relation_extraction_mex_model(Custom_Word_Concept_Relative_Embeddings).pt
-
+*.pt
+__pycache__

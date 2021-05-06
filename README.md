@@ -1,4 +1,4 @@
-[![Logo](Documentation/DFKI_Logo.jpg)](https://www.dfki.de/web/)
+[![Logo](Documentation/DFKI_Logo_smallest.jpg)](https://www.dfki.de/web/)
 
 # mEx - Medical Information Extraction:
 
@@ -38,7 +38,7 @@ clinical text:
 * [Tutorial 5: RelEx-Train](Documentation/RelEx-Train.md)
 
 
-### Models:
+### Models - Workbench:
 * [Concept Detection]() !! Link is still missing !!
 * [Relation Detection]() !! Link is still missing !!
 * [Part of Speech Tagger]() !! Link is still missing !!
@@ -66,7 +66,7 @@ clinical text:
 
 ---
 
-## Related-Resources:
+## Reference:
 
 ---
 For more information we refer to our short publication (_a more detailed
@@ -92,6 +92,13 @@ Conference on Healthcare Informatics (ICHI). Oldenburg, 2020.
 ```
 
 ---
+
+# Acknowledgement:
+The development of the workbench was partially supported 
+by the [**European Union's Horizon 2020 research and innovation program**](https://ec.europa.eu/programmes/horizon2020/) 
+under [grant agreement No 780495 (BigMedilytics)](https://cordis.europa.eu/project/id/780495)
+and by the [German Federal Ministry of Economics 
+and Energy](https://www.bmwi.de/Navigation/EN/Home/home.html) through the project [MACSS (01MD16011F)](http://macss.dfki.de/).
 
 **License: CC BY-NC 4.0** 
 
